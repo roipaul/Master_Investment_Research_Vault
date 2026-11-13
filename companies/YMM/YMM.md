@@ -4,9 +4,9 @@ ticker: YMM
 name: Full Truck Alliance Co. Ltd.
 exchange: NYSE (ADR)
 sector: China digital freight platform
-stage: gate            # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
+stage: primer          # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict: "Gate: Primer (proposed)"
+verdict: "Gate: Primer (confirmed by reuse of existing primer)"
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "about $8.8, 2026-11-13 (aggregator quote)"
@@ -14,14 +14,14 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
-awaiting: "confirm gate verdict (Primer / Watch / Skip)"
+awaiting: "go-ahead for post-primer triage"
 updated: 2026-11-13
-data_through:          # latest reported period the notes reflect
-next_checkpoint:
+data_through: 2026-Q2
+next_checkpoint: 2026-11-19
 next_results: 2026-11-19
 steps:                 # date each step last ran
   gate: 2026-11-13
-  primer:
+  primer: 2026-11-01
   abridged:
   triage:
   model:
@@ -37,7 +37,7 @@ steps:                 # date each step last ran
 
 # Full Truck Alliance (YMM)
 
-**Latest:** 2026-11-13 — Pre-primer gate run; proposed verdict Primer, awaiting Paul's confirmation. Q3 2026 results due 2026-11-19.
+**Latest:** 2026-11-13 — Pre-primer gate run; proposed verdict Primer, existing primer (2026-11-01, data through Q2 2026) filed. Next: post-primer triage. Q3 2026 results due 2026-11-19.
 
 ## Gate — 2026-11-13
 
@@ -64,6 +64,8 @@ steps:                 # date each step last ran
 
 ## Documents
 
+- [[Primer]] — full primer, 2026-11-01, data through Q2 2026 (PDF in `files/`)
+
 ## Links
 
 Themes, policies, peers, entities and people this company connects to.
@@ -71,3 +73,4 @@ Themes, policies, peers, entities and people this company connects to.
 ## Log
 
 - 2026-11-13 — Hub created; pre-primer gate run (primer-triage). Proposed: Primer.
+- 2026-11-13 — Existing full primer (2026-11-01) filed from Paul's upload; gate verdict Primer taken as confirmed. No abridged primer on file.
