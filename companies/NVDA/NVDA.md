@@ -14,7 +14,7 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
-awaiting: "confirm earnings-update FY2027-Q3: thesis Intact (provisional), fresh money Wait; 10-Q not yet filed (file is Preliminary); IR call transcript not reviewed (AI-assisted summary used)"
+awaiting: "confirm earnings-update FY2027-Q3: thesis Intact (provisional), fresh money Wait; 10-Q not yet filed (file is Preliminary)"
 updated: 2026-11-18
 data_through: FY2027-Q3
 next_checkpoint: "10-Q filing, expected by ~mid-Dec 2026"
@@ -38,7 +38,7 @@ steps:                 # date each step last ran
 
 # NVIDIA (NVDA)
 
-**Latest:** 2026-11-18 — FY27 Q3 earnings update (Preliminary). Q3 revenue $115.8B (+103%); Q4 guide $130B; FY28 growth outlook raised to about 75%. The founder-CEO was forced out on 12 Nov and the 10-Q is late. Proposed: thesis Intact (provisional baseline); fresh money **Wait** at $162.94, pending the 10-Q and the 2027 capex guides. Awaiting Paul's sign-off.
+**Latest:** 2026-11-18 — FY27 Q3 earnings update (Preliminary). Q3 revenue $115.8B (+103%); Q4 guide $130B; FY28 growth outlook raised to about 75%. The founder-CEO was forced out on 12 Nov and the 10-Q is late. Proposed: thesis Intact (provisional baseline); fresh money **Wait** at $162.94, pending the 10-Q and the 2027 capex guides. Awaiting Paul's sign-off. Addendum (same day, full transcript): calls unchanged; adds the new BIS export rule as an FY28 risk; the gross-margin trough is partly a pricing lag; vendor financing is being pulled back.
 
 ## Thesis in one paragraph
 
@@ -74,3 +74,4 @@ Provisional; no debate has been run, so there are no probabilities.
 ## Log
 
 - 2026-11-18 — Hub created (new company). earnings-update FY2027-Q3 run on a provisional baseline (no thesis on file). Proposed: thesis Intact; fresh money Wait. Cycle set to Late cycle.
+- 2026-11-18 — Addendum to [[earnings/FY2027-Q3]] from the full call transcript (Paul's upload). Calls unchanged.
