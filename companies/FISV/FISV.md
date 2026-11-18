@@ -13,8 +13,8 @@ price_check: "US$62.79, close 2026-11-17 (Yahoo Finance)"
 conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
-held: yes              # Paul has stated he owns FISV; no Decisions.md on file
-awaiting: "decision review (/decision-record): Paul's decision on the existing holding"
+held: yes              # own money, under 3%; see Decisions.md
+awaiting:
 fresh_money: "Wait at US$62.79, 2026-11-17 (confirmed 2026-11-18); evidence: Q4 2026 results and 2027 guide, Feb 2027; price alternative about US$52"
 cycle: "Not cyclical in a way that matters; company-specific under-earning (2026-11-18)"
 updated: 2026-11-18
@@ -33,7 +33,7 @@ steps:                 # date each step last ran
   scuttlebutt:
   views:
   writeup:
-  decision:
+  decision: 2026-11-18
   update: 2026-11-18
 ---
 
@@ -67,6 +67,7 @@ No debate on file; there are no probabilities. Open questions from the Q3 2026 u
 ## Documents
 
 - [[earnings/FY2026-Q3]] — Q3 2026 earnings update, 2026-11-18 (confirmed)
+- [[Decisions]] — decision record; Hold, 2026-11-18
 
 ## Links
 
@@ -76,3 +77,4 @@ Peers: FIS, Jack Henry (JKHY), Global Payments (GPN), Toast (TOST). No vault not
 
 - 2026-11-18 — Hub created; FY2026-Q3 earnings update (earnings-update). Proposed: thesis Intact (provisional baseline), fresh money Wait at US$62.79. No primer, debate, thesis or model on file.
 - 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait at US$62.79. Decision review requested.
+- 2026-11-18 — Decision recorded: Hold, own money, under 3%; review 2027-02-15 (decision record written by hand; the /decision-record skill is not installed).
