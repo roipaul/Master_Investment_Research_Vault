@@ -39,7 +39,7 @@ steps:                 # date each step last ran
 
 # Fiserv (FISV)
 
-**Latest:** 2026-11-18 — Q3 2026 earnings update confirmed; value DCF model v1 built (US$164 at a 7.5% WACC, US$85 at a 15% cost of equity, vs US$62.79).
+**Latest:** 2026-11-18 — Q3 2026 earnings update confirmed. Value DCF model v2 (US$62.79 price): base US$164; conservative US$96 at an 8.5% WACC; conservative with a 15% cost of equity US$61.
 - Thesis call: Intact, on a provisional baseline.
 - Fresh-money call: Wait, at US$62.79, pending Q4 2026 results and the 2027 guide (Feb 2027).
 - Merchant and Clover revenue are weak while peers grow. Banking attrition is down. Elevate savings target is US$1bn. Buybacks resume at 3.1x leverage.
@@ -69,6 +69,7 @@ No debate on file; there are no probabilities. Open questions from the Q3 2026 u
 - [[earnings/FY2026-Q3]] — Q3 2026 earnings update, 2026-11-18 (confirmed)
 - [[Decisions]] — decision record; Hold, 2026-11-18
 - `files/FISV_Financial_Model_2026-11-18_v1.xlsx` — value DCF model v1 (modified DCF on core EBITA, restructuring as operating cost; data through Q3 2026)
+- `files/FISV_Financial_Model_2026-11-18_v2.xlsx` — v2: adds a base/conservative scenario switch (saved on Conservative)
 
 ## Links
 
@@ -80,3 +81,4 @@ Peers: FIS, Jack Henry (JKHY), Global Payments (GPN), Toast (TOST). No vault not
 - 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait at US$62.79. Decision review requested.
 - 2026-11-18 — Decision recorded: Hold, own money, under 3%; review 2027-02-15 (decision record written by hand; the /decision-record skill is not installed).
 - 2026-11-18 — Value DCF model v1 (value-dcf-model): modified DCF on core EBITA, 5y history / 2026-30 explicit / 2031-35 fade. US$164 a share at a 7.5% WACC (cross-check US$156); US$85 with a 15% cost of equity; price US$62.79. Base case is Claude's (revenue CAGR 2.7% 2025-30, core margin 35.5% by 2030, restructuring costs in core EBITA through 2027).
+- 2026-11-18 — Value DCF model v2 (value-dcf-model): conservative scenario on Paul's direction (turnaround, margin reset, competitive acquiring market, leverage). Merchant growth 3-3.5% from 2027, adjusted margin 32.5% by 2029, 2035 core margin 32%, incremental ROIC 15%, beta relevered to 1.26 (cost of equity 11.4%, WACC 8.5%). Conservative US$96 a share (cross-check US$92); US$61 with a 15% cost of equity. Steps from base US$164: Merchant growth −9, margin reset −16, ROIC −15, beta −28.
