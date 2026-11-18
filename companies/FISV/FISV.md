@@ -26,7 +26,7 @@ steps:                 # date each step last ran
   primer:
   abridged:
   triage:
-  model:
+  model: 2026-11-18
   frame:
   debate:
   dd:
@@ -39,7 +39,7 @@ steps:                 # date each step last ran
 
 # Fiserv (FISV)
 
-**Latest:** 2026-11-18 — Q3 2026 earnings update, confirmed by Paul.
+**Latest:** 2026-11-18 — Q3 2026 earnings update confirmed; value DCF model v1 built (US$164 at a 7.5% WACC, US$85 at a 15% cost of equity, vs US$62.79).
 - Thesis call: Intact, on a provisional baseline.
 - Fresh-money call: Wait, at US$62.79, pending Q4 2026 results and the 2027 guide (Feb 2027).
 - Merchant and Clover revenue are weak while peers grow. Banking attrition is down. Elevate savings target is US$1bn. Buybacks resume at 3.1x leverage.
@@ -68,6 +68,7 @@ No debate on file; there are no probabilities. Open questions from the Q3 2026 u
 
 - [[earnings/FY2026-Q3]] — Q3 2026 earnings update, 2026-11-18 (confirmed)
 - [[Decisions]] — decision record; Hold, 2026-11-18
+- `files/FISV_Financial_Model_2026-11-18_v1.xlsx` — value DCF model v1 (modified DCF on core EBITA, restructuring as operating cost; data through Q3 2026)
 
 ## Links
 
@@ -78,3 +79,4 @@ Peers: FIS, Jack Henry (JKHY), Global Payments (GPN), Toast (TOST). No vault not
 - 2026-11-18 — Hub created; FY2026-Q3 earnings update (earnings-update). Proposed: thesis Intact (provisional baseline), fresh money Wait at US$62.79. No primer, debate, thesis or model on file.
 - 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait at US$62.79. Decision review requested.
 - 2026-11-18 — Decision recorded: Hold, own money, under 3%; review 2027-02-15 (decision record written by hand; the /decision-record skill is not installed).
+- 2026-11-18 — Value DCF model v1 (value-dcf-model): modified DCF on core EBITA, 5y history / 2026-30 explicit / 2031-35 fade. US$164 a share at a 7.5% WACC (cross-check US$156); US$85 with a 15% cost of equity; price US$62.79. Base case is Claude's (revenue CAGR 2.7% 2025-30, core margin 35.5% by 2030, restructuring costs in core EBITA through 2027).
