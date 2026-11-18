@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-11-15
+updated: 2026-11-18
 ---
 
 # Watchlist
@@ -14,3 +14,4 @@ Gate verdicts and Defers. One line per entry, newest at the bottom.
 | 2026-11-15 | Sankyo (6417.T) | Gate: Primer (confirmed; queued second) | Duration/framing: priced as a dying pachinko maker, but it holds over 30% pachinko share and strong pachislot; 50% payout with a 5% DOE floor (yield about 5%); gambling exclusions as a structural seller | 12 | — |
 | 2026-11-15 | Yunnan Aluminium (000807.SZ) | Gate: Primer (confirmed; queued third; overlaps the Alcoa work) | Duration: 5.7x 2026E P/E prices a peak, while China's 45mt capacity cap is binding (98% utilisation). Chalco (2600.HK) is the alternative | 18 | — |
 | 2026-11-15 | SK Square (402340.KS) | Gate: Watch (confirmed) | Discount already about 44%, near the narrow end of its 36-77% range; company targets 30% by 2028, so the closing is consensus. Revisit if the discount widens above 55% or Hynix falls hard | 20 | 2027-03-31 |
+| 2026-11-18 | NVIDIA (NVDA) | Earnings-update: fresh money Wait (confirmed) | Evidence: a clean 10-Q (legal and investigation disclosures, by about mid-Dec 2026); the 75% FY28 outlook holding after the new BIS export rule; 2027 hyperscaler capex guides and Q4 FY27 (late Jan to late Feb 2027). Price: about $142 for a 20% base-case return | — | 2026-12-15 |

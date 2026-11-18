@@ -6,7 +6,7 @@ exchange: NASDAQ
 sector: AI accelerators / data-center compute and networking
 stage: gate            # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict:               # latest triage or thesis verdict
+verdict: "Thesis Intact (provisional baseline) - earnings-update FY2027-Q3, confirmed 2026-11-18"
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "$162.94 after-hours 2026-11-17 (regular close $155.46), Public.com"
@@ -14,7 +14,8 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
-awaiting: "confirm earnings-update FY2027-Q3: thesis Intact (provisional), fresh money Wait; 10-Q not yet filed (file is Preliminary)"
+awaiting:
+fresh_money: "Wait at $162.94, 2026-11-18 (evidence: 10-Q, BIS rule, 2027 capex guides and Q4 FY27; price about $142 for a 20% base-case return)"
 updated: 2026-11-18
 data_through: FY2027-Q3
 next_checkpoint: "10-Q filing, expected by ~mid-Dec 2026"
@@ -38,7 +39,7 @@ steps:                 # date each step last ran
 
 # NVIDIA (NVDA)
 
-**Latest:** 2026-11-18 — FY27 Q3 earnings update (Preliminary). Q3 revenue $115.8B (+103%); Q4 guide $130B; FY28 growth outlook raised to about 75%. The founder-CEO was forced out on 12 Nov and the 10-Q is late. Proposed: thesis Intact (provisional baseline); fresh money **Wait** at $162.94, pending the 10-Q and the 2027 capex guides. Awaiting Paul's sign-off. Addendum (same day, full transcript): calls unchanged; adds the new BIS export rule as an FY28 risk; the gross-margin trough is partly a pricing lag; vendor financing is being pulled back.
+**Latest:** 2026-11-18 — FY27 Q3 earnings update (Preliminary). Q3 revenue $115.8B (+103%); Q4 guide $130B; FY28 growth outlook raised to about 75%. The founder-CEO was forced out on 12 Nov and the 10-Q is late. Proposed: thesis Intact (provisional baseline); fresh money **Wait** at $162.94, pending the 10-Q and the 2027 capex guides. Paul confirmed both calls on 2026-11-18. Addendum (same day, full transcript): calls unchanged; adds the new BIS export rule as an FY28 risk; the gross-margin trough is partly a pricing lag; vendor financing is being pulled back.
 
 ## Thesis in one paragraph
 
@@ -63,7 +64,7 @@ Provisional; no debate has been run, so there are no probabilities.
 
 ## Documents
 
-- [[earnings/FY2027-Q3]] — earnings update, FY27 Q3, 2026-11-18 (Preliminary; status proposed)
+- [[earnings/FY2027-Q3]] — earnings update, FY27 Q3, 2026-11-18 (Preliminary; confirmed 2026-11-18)
 
 ## Links
 
@@ -75,3 +76,4 @@ Provisional; no debate has been run, so there are no probabilities.
 
 - 2026-11-18 — Hub created (new company). earnings-update FY2027-Q3 run on a provisional baseline (no thesis on file). Proposed: thesis Intact; fresh money Wait. Cycle set to Late cycle.
 - 2026-11-18 — Addendum to [[earnings/FY2027-Q3]] from the full call transcript (Paul's upload). Calls unchanged.
+- 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait. Added to the watchlist.
