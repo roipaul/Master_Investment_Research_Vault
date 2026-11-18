@@ -6,7 +6,7 @@ exchange: NASDAQ
 sector: US payments and bank technology (merchant acquiring incl. Clover, card issuing, core banking, digital payments)
 stage: monitoring      # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict:               # latest triage or thesis verdict
+verdict: "Thesis Intact (provisional baseline), confirmed 2026-11-18"
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "US$62.79, close 2026-11-17 (Yahoo Finance)"
@@ -14,7 +14,8 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: yes              # Paul has stated he owns FISV; no Decisions.md on file
-awaiting: "confirm earnings-update FY2026-Q3: thesis Intact (provisional), fresh money Wait"
+awaiting: "decision review (/decision-record): Paul's decision on the existing holding"
+fresh_money: "Wait at US$62.79, 2026-11-17 (confirmed 2026-11-18); evidence: Q4 2026 results and 2027 guide, Feb 2027; price alternative about US$52"
 cycle: "Not cyclical in a way that matters; company-specific under-earning (2026-11-18)"
 updated: 2026-11-18
 data_through: FY2026-Q3
@@ -38,9 +39,9 @@ steps:                 # date each step last ran
 
 # Fiserv (FISV)
 
-**Latest:** 2026-11-18 — Q3 2026 earnings update.
-- Proposed thesis call: Intact, on a provisional baseline.
-- Proposed fresh-money call: Wait, at US$62.79, pending Q4 2026 results and the 2027 guide (Feb 2027).
+**Latest:** 2026-11-18 — Q3 2026 earnings update, confirmed by Paul.
+- Thesis call: Intact, on a provisional baseline.
+- Fresh-money call: Wait, at US$62.79, pending Q4 2026 results and the 2027 guide (Feb 2027).
 - Merchant and Clover revenue are weak while peers grow. Banking attrition is down. Elevate savings target is US$1bn. Buybacks resume at 3.1x leverage.
 
 ## Thesis in one paragraph
@@ -65,7 +66,7 @@ No debate on file; there are no probabilities. Open questions from the Q3 2026 u
 
 ## Documents
 
-- [[earnings/FY2026-Q3]] — Q3 2026 earnings update, 2026-11-18 (proposed)
+- [[earnings/FY2026-Q3]] — Q3 2026 earnings update, 2026-11-18 (confirmed)
 
 ## Links
 
@@ -74,3 +75,4 @@ Peers: FIS, Jack Henry (JKHY), Global Payments (GPN), Toast (TOST). No vault not
 ## Log
 
 - 2026-11-18 — Hub created; FY2026-Q3 earnings update (earnings-update). Proposed: thesis Intact (provisional baseline), fresh money Wait at US$62.79. No primer, debate, thesis or model on file.
+- 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait at US$62.79. Decision review requested.
