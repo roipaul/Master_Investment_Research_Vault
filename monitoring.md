@@ -70,3 +70,4 @@ Each hub's Links section names the other peers read for that company. The same s
 
 - 2026-11-19 — Watch list set up with 23 names and 4 peers, confirmed by Paul. 16 hubs created. Replaces the "POOL Tracker — Daily EDGAR Watch" scheduled task.
 - 2026-11-19 — First daily run. JD FY2026-Q3 update written (proposed: thesis Intact against a provisional baseline, fresh money Wait at US$25.43). ZTO paused for upload: release and transcript read, but the Q3 deck and financial-details PDF on the IR site are blocked to the watch and were not furnished to the SEC; paused on day one of the two-day window because the block will not clear by waiting. YMM due today, not out at run time. NVDA 10-Q not yet on EDGAR. TCOM: no 6-K since 2026-09-16, Q3 date still unconfirmed. Housekeeping: CIKs filled for NVDA, TME, YMM, JD; Meituan Q3 date confirmed as 2026-11-27.
+- 2026-11-19 — self-test OK: vault push works; skills available: research-kb, earnings-update
