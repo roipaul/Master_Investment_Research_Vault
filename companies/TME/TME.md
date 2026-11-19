@@ -72,3 +72,4 @@ Peers: NetEase Cloud Music (9899.HK), Spotify, ByteDance (Soda Music, Douyin), X
 - 2026-11-08 — /value-dcf-model v1: modified DCF US$15.19 per ADS vs US$9.56.
 - 2026-11-17 — model v2 after Q3 2026 results: US$14.73 per ADS.
 - 2026-11-18 — /earnings-update FY2026-Q3 (proposed): thesis Weakened (provisional baseline); fresh money Wait at US$9.45. Hub created.
+- 2026-11-19 — Read-across from parent [[0700-HK]] Q3 2026: Tencent's social networks revenue −1% YoY, fee-based VAS subscriptions 253m (−5% YoY), ad market "weak for several months", payments value per transaction still falling — consistent with TME's organic membership slip and ad weakness. Tencent's marketing GM fell 4pts partly on mini-drama content costs, a new content line competing for the same Weixin attention.
