@@ -9,16 +9,17 @@ track: undecided       # undecided | view | price-alone
 verdict:               # latest triage or thesis verdict
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
-price_check:           # price and date of the last check
+price_check: "US$25.43 per ADS, close 2026-11-17 (Insider Monkey via Yahoo Finance); 9618.HK HK$97.65 on 2026-11-18"
 conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
-awaiting: "import primer and earlier outputs into the vault"
+awaiting: "confirm earnings-update FY2026-Q3: thesis Intact (provisional baseline), fresh money Wait; baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
 updated: 2026-11-19
-data_through:          # latest reported period the notes reflect
-next_checkpoint:
-next_results:
+data_through: FY2026-Q3
+next_checkpoint: "Addendum by 2026-11-28 (Alibaba, PDD, Meituan results); then Q4/FY2026 results about early March 2027 — New Businesses loss at or below RMB 9bn and a 2027 budget? dividend and buyback? JD Retail operating income up YoY?"
+next_results: "Q4/FY2026: about early March 2027 (FY2025 call was 2026-03-05; not announced)"
+cycle: "Consumer durables / trade-in: Trough (from Downturn); food-delivery subsidy war: Rolling over from the Q3 2025 peak. 2026-11-19"
 steps:                 # date each step last ran
   gate:
   primer:
@@ -32,21 +33,25 @@ steps:                 # date each step last ran
   views:
   writeup:
   decision:
-  update:
+  update: 2026-11-19
 ---
 
 # JD.com, Inc. (JD)
 
-**Latest:** 2026-11-19 — Hub created for the earnings watch. No work in the vault yet; earlier primers and notes are to be imported.
+**Latest:** 2026-11-19 — Q3 2026 earnings update (proposed): thesis **Intact** against a provisional baseline (Claude's framing, not Paul's view) — revenue back to growth (+3.5%), JD Retail margin held at 5.8%, New Businesses loss -39% YoY but only -2% QoQ, food-delivery investment to fall in 2027; capital allocation is the weak leg (trailing FCF RMB 18.8bn from 31.4bn, capex doubled, Ceconomy closed, buyback silent). Fresh money **Wait** at US$25.43, settled by Q4/FY2026 results (early March 2027) or a price near US$21.
 
 ## Thesis in one paragraph
 
-Not written in the vault yet. Until Paul's earlier work is imported, an earnings update uses a provisional baseline and says so.
+Not written in the vault yet. Provisional baseline (Claude's framing, not Paul's view), used by [[earnings/FY2026-Q3]]: the return depends on JD Retail holding and slowly growing about RMB 54bn of operating income as subsidies fade; New Businesses losses (about RMB 39bn in 2026E) having peaked and falling by half or more by 2028-29; the cash (RMB 141bn consolidated net cash, about 61% of market value) and free cash flow being returned and not spent on new ventures; and a starting price of about 8x depressed earnings. Until Paul's earlier work is imported, updates use this baseline and say so.
 
 ## Critical questions
 
 | # | Question | Verdict | Probability | As of |
 |---|---|---|---|---|
+| 1 | Does JD Retail hold about RMB 54bn of operating income and grow it as trade-in subsidies fade? | Leaning yes — margin 5.8% against a record 5.9%; gross margin 20.1%; R&D absorbing the gain. No debate run | — | 2026-11-19 |
+| 2 | Do New Businesses losses fall by half or more by 2028-29? | Open, leaning yes on food delivery — 2027 cut promised; total loss only -2% QoQ; Joybuy rising | — | 2026-11-19 |
+| 3 | Does the cash come back to shareholders? | Open, leaning no this quarter — Ceconomy closed, capex doubled, no buyback statement | — | 2026-11-19 |
+| 4 | Is the trade-in payback over, and what replaces the subsidy in 2027? | Open — electronics -0.7% from -11.8%; 2027 scope unannounced | — | 2026-11-19 |
 
 ## Variant views
 
@@ -55,10 +60,13 @@ Not written in the vault yet. Until Paul's earlier work is imported, an earnings
 
 ## Documents
 
+- [[earnings/FY2026-Q3]] — Q3 2026 earnings update (proposed), 2026-11-19. First vault document for this name; carries the provisional baseline, the cycle indicator set and the first scenario table.
+
 ## Links
 
-Peers (starting set): Alibaba, PDD Holdings, [[3690-HK]] (Meituan).
+Peers (read every period): Alibaba, PDD Holdings, [[3690-HK]] (Meituan); bellwether NBS retail sales. Themes: [[china-consumer-cycle]], [[china-express-delivery-cycle]] (JD Logistics). Related in vault: [[0700-HK]] (ad market, payments), [[ZTO]].
 
 ## Log
 
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
+- 2026-11-19 — /earnings-update FY2026-Q3 (proposed, earnings watch): thesis Intact against a provisional baseline; fresh money Wait at US$25.43. CIK 0001549802. Peers Alibaba and PDD report 2026-11-19, Meituan 2026-11-27: addendum due by 2026-11-28. No Thesis.md to append to.
