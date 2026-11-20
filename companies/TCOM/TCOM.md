@@ -15,10 +15,10 @@ base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
 awaiting: "import primer and earlier outputs into the vault"
-updated: 2026-11-19
+updated: 2026-11-20
 data_through:          # latest reported period the notes reflect
 next_checkpoint:
-next_results:
+next_results: "Q3 2026: 2026-12-01 after the US close; call 19:00 ET (company announcement, 2026-11-19)"
 steps:                 # date each step last ran
   gate:
   primer:
@@ -62,3 +62,4 @@ Peers (starting set): Tongcheng Travel (0780.HK), H World, Atour, Booking Holdin
 ## Log
 
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
+- 2026-11-20 — Earnings watch: Q3 2026 results date confirmed from the company announcement of 2026-11-19 (6-K exhibit 99.1): results on 2026-12-02 before the Hong Kong open, call at 19:00 ET on 2026-12-01.

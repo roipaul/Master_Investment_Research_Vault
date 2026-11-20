@@ -14,11 +14,11 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
-awaiting: "go-ahead for post-primer triage"
-updated: 2026-11-13
+awaiting: "go-ahead for post-primer triage; upload Q3 2026 Investor Presentation and the company's 3Q26 earnings transcript for FY2026-Q3"
+updated: 2026-11-20
 data_through: 2026-Q2
 next_checkpoint: 2026-11-19
-next_results: 2026-11-19
+next_results: "Q3 2026 released 2026-11-19; Q4 2026: March 2027 (e; not announced)"
 steps:                 # date each step last ran
   gate: 2026-11-13
   primer: 2026-11-01
@@ -37,7 +37,7 @@ steps:                 # date each step last ran
 
 # Full Truck Alliance (YMM)
 
-**Latest:** 2026-11-13 — Pre-primer gate run; proposed verdict Primer, existing primer (2026-11-01, data through Q2 2026) filed. Next: post-primer triage. Q3 2026 results due 2026-11-19.
+**Latest:** 2026-11-20 — Q3 2026 results released 2026-11-19 and the call held. Earnings update paused: the Q3 investor presentation and the company's transcript could not be opened by the watch; upload them to `inbox/uploads/YMM/`. No update written yet. Post-primer triage still awaits a go-ahead.
 
 ## Gate — 2026-11-13
 
@@ -74,3 +74,4 @@ Themes, policies, peers, entities and people this company connects to.
 
 - 2026-11-13 — Hub created; pre-primer gate run (primer-triage). Proposed: Primer.
 - 2026-11-13 — Existing full primer (2026-11-01) filed from Paul's upload; gate verdict Primer taken as confirmed. No abridged primer on file.
+- 2026-11-20 — Earnings watch: Q3 2026 released 2026-11-19, call held the same day. Release and full statements read; Motley Fool transcript readable. Paused for upload of the Q3 2026 Investor Presentation and the company transcript (IR-site PDFs are on a host blocked to the watch). No update written.
