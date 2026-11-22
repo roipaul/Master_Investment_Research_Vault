@@ -15,7 +15,7 @@ base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
 awaiting: "confirm earnings-update FY2026-Q3: thesis Intact, fresh money Wait; confirm triage: Dig; baseline needs Paul's view (2-3 sentences)"
-updated: 2026-11-20
+updated: 2026-11-22
 data_through: FY2026-Q3
 next_checkpoint: "Paul confirms triage and Q3 calls; then /thesis-debate PDD. Q4/FY2026 results about late March 2027 (online marketing vs +5% base; S&M ratio; tax rate); FY2026 20-F about April 2027 (HNTE status)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
@@ -59,6 +59,7 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 - [[Primer]] — full primer, 2026-11-20, data through Q3 2026; Word and PDF in `files/`
 - [[earnings/FY2026-Q3]] — earnings update, 2026-11-20 (proposed)
 - [[Triage]] — Dig (proposed), 2026-11-20
+- [[Library]] — digest of Paul's PDD research folder (VA consensus, 20-F history, all 2025–26 calls, 2018–26 sell-side, Paul's 2022 notes), 2026-11-22
 
 ## Links
 
@@ -70,3 +71,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-20 — /full-primer: Primer.md plus files/PDD_Holdings_PDD_Primer_Full.docx and .pdf (34 sources; primary: FY2025 20-F, 6-Ks Q4'24–Q3'26, Q1–Q3 2026 call transcripts via third parties). stage gate → primer. Q3 2026 transcript now available, so earnings-update can run.
 - 2026-11-20 — /earnings-update FY2026-Q3 (proposed): thesis Intact, fresh money Wait at about US$86; provisional baseline (Claude's framing). Model build due.
 - 2026-11-20 — /primer-triage (proposed): Dig. Business quality Pass; edge framing/duration; 35 analysts; base case about 15% a year at US$86. stage primer → triage.
+- 2026-11-22 — Read Paul's PDD folder (62 files, about 1.7m words) → [[Library]]. Consensus FY29E non-GAAP net income about RMB 146.5bn against our 130.5bn base; more than half of consensus FY26–28E growth is Temu turning profitable; Temu breakeven has slid about a year each year since 2023; Q3'26 online-marketing recovery is take rate, not GMV; no capital-return mention in seven calls; restricted net assets RMB 125.9bn. Fresh-money and triage calls unchanged.
