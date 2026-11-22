@@ -249,3 +249,18 @@ Claude's read:
 - The digest's line "Q1–Q3'26 official versions match the third-party transcripts … Nothing changes" was wrong on wording. Checked quote by quote, 8 primer quotations differed from the S&P text, and one was misattributed: the "different needs" line on the Q2'26 call is about quick commerce, not first-party versus third-party products. The substance of the primer's points held. Primer v1.1 now quotes the S&P transcripts (see the revision section in [[Primer]]).
 - Official wording worth keeping. Q2'26 on first-party brands: "the initial rollout has taken longer than we originally expected". Q3'26 on expense ratios: they "fluctuate with the pace of business rollouts and their return cycles".
 
+## Desk check 2026-11-22 — is the tax break really "expiring"?
+- **The end date rolls forward every three years.** The 20-Fs give these end dates for Shanghai Xunmeng's 15% rate:
+  - FY2020 20-F: "2018 to 2020";
+  - FY2022 and FY2023 20-Fs: "until 2023";
+  - FY2024 and FY2025 20-Fs: "until 2026".
+  Walnut Shanghai followed the same pattern ("2021 to 2023", then "until 2026"). An HNTE certificate lasts three years, and each 20-F gives the current certificate's end date. Twice before, a filing said "until [year]" and the status was then renewed (2021, 2024).
+- **So "lapses after 2026" overstates the risk.** The real question is whether the 2027 renewal is granted. A refusal would cost about RMB 9.6bn a year (FY2025 basis). I am not cutting the conservative-case haircut yet, but it should be weighted as a renewal risk, not a scheduled expiry. (Claude's read)
+- **What renewal requires.** Under the 2016 HNTE rules (国科发火〔2016〕32号) the applying entity needs:
+  - R&D at least 3% of its own sales over the last three years (the bar for companies with sales above RMB 200m);
+  - technical staff at least 10% of headcount;
+  - high-tech products or services at least 60% of revenue.
+  Group R&D was 4.4% / 3.2% / 3.8% of revenue (FY2023/24/25), 3.7% over three years (e). But the test applies to each entity, and entity figures are not disclosed. FY2024 at 3.2% was close to the floor. (Claude's read: worth asking in desk-dd whether R&D is booked in Xunmeng and Walnut or elsewhere.)
+- **Regulatory standing.** The 2016 rules let status be revoked for false application material, serious safety or quality incidents, or serious environmental violations. The SAMR food-safety penalty and its obstruction finding are not listed causes, but they show the relationship the renewal will be judged in. (Inference)
+- **What would settle it.** The FY2026 20-F, around April 2027, will give either a new end date ("until 2029") or the old one with no renewal. A Shanghai HNTE renewal-batch list naming 上海寻梦信息技术有限公司 would settle it sooner, but the list PDFs are not searchable by name through these tools.
+
