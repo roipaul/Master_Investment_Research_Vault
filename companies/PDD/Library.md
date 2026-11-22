@@ -245,3 +245,7 @@ Claude's read:
 - The addendum's line "No voting proxy to the board is disclosed in the 20-Fs" is incomplete. The 20-Fs do not mention it, but the 17 Mar 2021 company release (6-K Exhibit 99.2; GlobeNewswire) says Huang "entrusted the Board to exercise his voting rights as a shareholder" and pledged not to sell for a further three years. That lock-up extension would have run to about March 2024.
 - So on voting control, the board (Chen Lei and Zhao Jiazhen as co-chairs) exercises the votes on Huang's 24.8% as well as its own. That strengthens the governance question: control sits with the operators.
 
+## Correction 2026-11-22 — transcripts
+- The digest's line "Q1–Q3'26 official versions match the third-party transcripts … Nothing changes" was wrong on wording. Checked quote by quote, 8 primer quotations differed from the S&P text, and one was misattributed: the "different needs" line on the Q2'26 call is about quick commerce, not first-party versus third-party products. The substance of the primer's points held. Primer v1.1 now quotes the S&P transcripts (see the revision section in [[Primer]]).
+- Official wording worth keeping. Q2'26 on first-party brands: "the initial rollout has taken longer than we originally expected". Q3'26 on expense ratios: they "fluctuate with the pace of business rollouts and their return cycles".
+
