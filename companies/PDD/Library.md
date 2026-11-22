@@ -240,3 +240,8 @@ Claude's read:
 - **Q4 (tax).** Model the HNTE loss as RMB 9.6bn a year from 2027 in the conservative case. Net income is about 9–10% lower if the rate is not renewed (RMB 9.6bn against FY2025 net income of RMB 97.8bn) (e).
 - **Q5 (cash).** Reframe from "can they?" (yes: about US$40bn offshore) to "will they?" Add PFIC as a reason the question matters to Paul.
 - **New governance question.** Fufeitong plus the dormant Partnership: does control sit with the operators rather than the shareholders, and is any value leaking? Today's leak is small: interest-free RMB 0.9bn, and RMB 5.5bn of receivables at a related party.
+
+## Correction 2026-11-22 — founder's votes
+- The addendum's line "No voting proxy to the board is disclosed in the 20-Fs" is incomplete. The 20-Fs do not mention it, but the 17 Mar 2021 company release (6-K Exhibit 99.2; GlobeNewswire) says Huang "entrusted the Board to exercise his voting rights as a shareholder" and pledged not to sell for a further three years. That lock-up extension would have run to about March 2024.
+- So on voting control, the board (Chen Lei and Zhao Jiazhen as co-chairs) exercises the votes on Huang's 24.8% as well as its own. That strengthens the governance question: control sits with the operators.
+

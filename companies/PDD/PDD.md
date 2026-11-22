@@ -56,7 +56,7 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 
 ## Documents
 
-- [[Primer]] — full primer, 2026-11-20, data through Q3 2026; Word and PDF in `files/`
+- [[Primer]] — full primer, 2026-11-20, data through Q3 2026; revised v1.1 on 2026-11-22 (gap-fill; dated revision section at the end); Word and PDF in `files/` (v1 and v1.1)
 - [[earnings/FY2026-Q3]] — earnings update, 2026-11-20 (proposed)
 - [[Triage]] — Dig (proposed), 2026-11-20
 - [[Library]] — digest of Paul's PDD research folder (VA consensus, 20-F history, all 2025–26 calls, 2018–26 sell-side, Paul's 2022 notes), 2026-11-22
@@ -73,3 +73,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-20 — /primer-triage (proposed): Dig. Business quality Pass; edge framing/duration; 35 analysts; base case about 15% a year at US$86. stage primer → triage.
 - 2026-11-22 — Read Paul's PDD folder (62 files, about 1.7m words) → [[Library]]. Consensus FY29E non-GAAP net income about RMB 146.5bn against our 130.5bn base; more than half of consensus FY26–28E growth is Temu turning profitable; Temu breakeven has slid about a year each year since 2023; Q3'26 online-marketing recovery is take rate, not GMV; no capital-return mention in seven calls; restricted net assets RMB 125.9bn. Fresh-money and triage calls unchanged.
 - 2026-11-22 — Full read: FY2025 20-F cover to cover; FY2020–FY2024 20-Fs by changed passages; three podcasts in full → addendum in [[Library]]. Key additions: about 57% of RMB 496bn liquid funds held outside the mainland; PFIC 'possible' for 2025; RMB 66bn listed-equity book (FV gains RMB 10.4bn, about 9% of PBT); incentives partly contra-revenue since FY2023 (critical audit matter); active merchants disclosed (16.8m); HNTE worth RMB 9.6bn and lapses after 2026; Fufeitong related-party loans and receivables; SAMR RMB 1.5bn fine confirmed. Corrections logged (merchant disclosure, dilution measure).
+- 2026-11-22 — /full-primer v1.1 (gap-fill): files/PDD_Holdings_PDD_Primer_Full_v1.1.docx and .pdf (49 pages, 56 sources); revision section appended to [[Primer]]. Call quotes re-based on S&P transcripts (8 corrected, 1 misattributed). Added: cash location and PFIC; control and related parties (Huang's votes entrusted to the board, dormant Partnership, Fufeitong, auditor change, no insurance); incentive accounting and S&M split; HNTE RMB 9.6bn; SAMR obstruction finding; EU Art. 35 preliminary finding (17 Nov 2026); Texas settlement; 2024 fee cuts; QuestMobile and GMV estimates (secondary). Library voting-proxy line corrected.
