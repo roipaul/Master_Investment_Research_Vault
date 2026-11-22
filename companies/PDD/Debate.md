@@ -504,3 +504,7 @@ The bear cases that remain plausible, ranked by impact on value:
 61. The Lowdown (Momentum Asia), share-price fall of 26 Aug 2024, 27 Aug 2024 — secondary
 62. iFeng (凤凰网), Alibaba fiscal 2026 results and dividend, 13 May 2026, https://news.ifeng.com/c/8t6LJavZ4Gz — secondary
 63. Xinhua, more than 4,100 platforms file first tax reports; PDD among early filers, 16 Oct 2025, https://www.news.cn/world/20251016/2915ac29619c4b84a603b12cc326b577/c.html — state media
+
+## Correction 2026-11-22 — surplus cash includes the restricted cash held for merchants
+
+The surplus-cash figure used in this note (about RMB 440bn at 30 Sept 2026) deducted all the money owed to merchants (payables RMB 112.0bn plus deposits RMB 18.9bn) but left out the RMB 82.2bn of restricted cash. The 20-F describes restricted cash as "cash received from consumers and reserved in a bank supervised account for payments to merchants", so it is the money that pays those payables. Counting it on both sides gives surplus cash of about **RMB 522bn** (Q3 2026 release: cash 125.5 + restricted 82.2 + short-term investments 329.9 + other non-current assets 115.7 − payables 112.0 − deposits 18.9). On the same basis, at US$83.68 (close 20 Nov 2026) and RMB 6.67, the business ex-cash costs about RMB 300bn: about 3.4x 2026E NOPAT and 2.8x 2026E core EBITA, rather than "about 4.5x". The earlier figure is kept above as written; the model ([[files/PDD_Financial_Model_2026-11-22_v1.xlsx]]) carries a switch for both bases. Found while building the model (Claude's error, not Paul's).

@@ -38,7 +38,7 @@ steps:                 # date each step last ran
   primer: 2026-11-20
   abridged:
   triage: 2026-11-20
-  model:
+  model: 2026-11-22
   frame:
   debate: 2026-11-22
   dd:
@@ -51,7 +51,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-22 — Thesis debate (proposed): business **Inconclusive**, because the two critical questions sit near 58% on Low-confidence evidence and point opposite ways. Domestic profit growth leans to 5–7% rather than 8–10% (Q1 bear); the investment phase leans to peaking in 2026 as Temu losses narrow (Q2 bull). Price check **Stretch**: the supported path gives about 15% a year only with a re-rating from about 8x to 10x; about 7% at 8x. Earlier the same day: deep-dive [[Layers]] and [[Scuttlebutt]]. Paul has not confirmed the thesis; the Q3 update (proposed Intact / Wait) and triage (proposed Dig) await him.
+**Latest:** 2026-11-22 — Value DCF model v1 (modified DCF on core EBITA, base/conservative switch): **base US$196 per ADS (+135% on US$83.68, close 20 Nov 2026), conservative US$98 (+17%)**. The operating business alone is worth US$143 (base) or US$82 (conservative), so the price roughly equals the conservative operating value with the cash thrown in free. Price check at an 8x/10x exit to end-2029: base 11%/20% a year, conservative 1%/8.5%. Surplus cash corrected to about RMB 522bn (restricted cash backs the payables to merchants). Earlier the same day: thesis debate Inconclusive / Stretch (proposed). Paul has not confirmed the thesis; the Q3 update (proposed Intact / Wait) and triage (proposed Dig) await him.
 
 ## Thesis in one paragraph
 
@@ -81,6 +81,7 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 - [[Scuttlebutt]] — Pinduoduo merchants and Temu sellers, 2026-11-22; evidence files and creator tables in `files/scuttlebutt/`
 - [[Debate]] — thesis debate, 2026-11-22: business Inconclusive; price check Stretch (proposed). Word and PDF in `files/`
 - [[Layers]] — deep-dive for Paul's ramp-up: the machine, moat, culture, Temu, the state, the cash, the investors' views, what must be true; with desk findings (HNTE, Fufeitong, rules timeline), 2026-11-22. Living copy: https://claude.ai/artifact/Tq8U7we7ofV3ktYXvTg5xE
+- `files/PDD_Financial_Model_2026-11-22_v1.xlsx` — value DCF model v1 (modified DCF on core EBITA; Temu and own brands split out as estimates; base/conservative switch), 2026-11-22: base US$196, conservative US$98 per ADS at US$83.68
 
 ## Links
 
@@ -98,3 +99,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-22 — /scuttlebutt (A: Pinduoduo merchants, 65 rows; B: Temu sellers, 73 items) → [[Scuttlebutt]]; project docs pdd/PDD_Holdings_PDD_Merchants_Voice.md and pdd/PDD_Holdings_PDD_TemuSellers_Voice.md. Little first-hand seller voice reached (Reddit and Chinese seller forums unreachable); evidence is mostly trade press and consultants. Findings: Pinduoduo unwound lowest-price and refund-only practices before and after the April 2026 pricing rules; Temu added a reported 5–11% fully managed commission (May 2026, unconfirmed by Temu) and raised promotion fees; EU direct-ship volume down an estimated 60–67% after 1 July, EU-warehouse stock up. Desk check in [[Library]]: the HNTE end date has rolled forward in three-year steps (2020 → 2023 → 2026), so the 2027 renewal is the risk, not a fixed expiry. Paul: cannot confirm the thesis yet; more research requested.
 - 2026-11-22 — Deep-dive → [[Layers]] (Claude Doc, exported here). Desk checks: the HNTE entity table implies about RMB 96bn of taxable profit sits in the two 15% entities (e); R&D by entity not disclosed. Fufeitong: CNFin 9 Nov 2026 gives 2025 revenue RMB 1.06bn, net profit RMB 0.3m, H1 2026 loss RMB 27m; a China Post Capital 0.6954% stake listed at RMB 6.79m implies about RMB 976m. December 2025 SAMR inspection detail (physical clashes, detentions) added from press. Himalaya 13F Q3 2026: 11.76m ADS, 24.2% of book, largest position; H&H (Duan) 12.69%. Correction appended to [[earnings/FY2026-Q3]] for two transcript quotes.
 - 2026-11-22 — /thesis-debate (Q1–Q5) → [[Debate]] and files/PDD_Holdings_PDD_Thesis_Debate.docx/.pdf (20 pages, 63 sources). Business Inconclusive; price check Stretch. What would resolve it: Q4 2026 online marketing growth of 8% or more and margin held at 28–30% (March 2027); the FY2026 20-F tax end date and New Pinmu booking (April 2027); merchant and Temu-seller calls. Verdicts are proposed; Paul has not confirmed.
+- 2026-11-22 — /value-dcf-model v1 → files/PDD_Financial_Model_2026-11-22_v1.xlsx. Paul's choices: modified DCF; FY2021–25 + 9M 2026 history; 2026–30E explicit, fade to 2035; base + conservative switch; surplus cash at par (base) and 30% (conservative). Base: US$196 (RMB cost of equity 10.4%, g 2%, terminal value 50% of EV); US$160 at the 15% hurdle; US$143 with no cash. Conservative (domestic ads +1.5–2%, Temu losing RMB 8–12bn a year, 25% tax from 2027, own brands earning nothing on RMB 55bn of stock and deposits, 30% of cash counted): US$98; US$79 at the hurdle; US$82 with no cash. 2029E non-GAAP EPS RMB 97 base (consensus 99) and 72 conservative. Correction: surplus cash is about RMB 522bn, not 440bn, because the RMB 82bn of restricted cash backs the payables to merchants; ex-cash multiple about 3.4x 2026E NOPAT, not 4.5x. Appended to [[Layers]], [[earnings/FY2026-Q3]], [[Debate]] and [[Triage]].
