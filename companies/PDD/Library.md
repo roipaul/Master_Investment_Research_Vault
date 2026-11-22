@@ -123,3 +123,120 @@ Claude's read:
 - No 2026 sell-side work on the April 2026 pricing rules or the economics of the first-party brands.
 - The FY2021 20-F is missing. The file `Sellside/PDD_2025-10-12_sellside_TheNewNormal…` is actually a CLSA China internet report from September 2019 (the date in the filename is wrong).
 - No notes from Paul after June 2022.
+
+---
+
+## Addendum 2026-11-22 — full read of the 20-Fs and the podcasts
+
+**What was read.**
+- The FY2025 20-F, cover to cover: about 120k words of body and financial statements.
+- The FY2020, FY2022, FY2023 and FY2024 20-Fs: every passage whose wording is not repeated in the following year's filing, about 48k words. The FY2021 20-F is not in the folder.
+- Legal exhibits were skipped: indentures, VIE contracts, certifications.
+- The three podcasts, in full.
+- Running notes are outside the vault, at `/home/claude/pdd_lib/notes_full.md` (working file).
+
+### What changes our view
+
+1. **Most of the liquid cash is already offshore. Returning it is a choice, not a constraint.** (FY2025 20-F, Item 5B and the VIE schedule)
+   - At end-2025, cash, restricted cash and short-term investments totalled about RMB 496bn. Of that, RMB 214.0bn was "held in China", including RMB 171.2bn in the VIE, all in RMB.
+   - So about RMB 282bn (about 57%, about US$40bn) sits outside the mainland. That is about 32% of market value at US$86 (e).
+   - In FY2023 the figure was 30.7% of cash and equivalents held in China.
+   - The Cayman parent holds only RMB 46m. "None of our subsidiaries paid dividends" to it, ever.
+   - (Claude's read) This sharpens debate Q5: the obstacle to buybacks is management's choice, not capital controls.
+2. **The PFIC warning appeared.**
+   - FY2025: "it is possible that we were a PFIC for the taxable year ended December 31, 2025". The risk rises if PDD does "not deploy significant amounts of cash for active purposes".
+   - FY2023 had said it did not expect to be a PFIC.
+   - This matters for any US-taxable family holder.
+   - (Claude's read) Idle cash plus a low share price raises the PFIC odds. Buybacks would lower them.
+3. **The "investment income" line is partly a stock portfolio.**
+   - Short-term investments include RMB 66.0bn of listed equities: about US$9.4bn, cost RMB 47.2bn, holdings undisclosed.
+   - Fair-value gains were RMB 10.4bn in FY2025 (6.8bn FY2024), about 9% of pre-tax profit. Cash interest received was RMB 12.3bn.
+   - This explains swings such as the −37% in Q3 2026.
+   - (Claude's read) Treat about RMB 10bn of FY2025 earnings as mark-to-market, not recurring.
+4. **Since 2023, part of the subsidies has reduced revenue instead of sitting in S&M.**
+   - The FY2020 and FY2022 filings said all consumer coupons and subsidies were marketing expense.
+   - From the FY2023 filing, incentives that are variable consideration or that carry an explicit or implicit obligation on behalf of merchants are booked against revenue.
+   - The auditor names this classification as its critical audit matter (EY, both the mainland and Hong Kong firms).
+   - S&M now splits into advertising of RMB 56.4bn / 68.5bn / 74.9bn and incentives of RMB 20.0bn / 35.8bn / 42.3bn (FY23/24/25). The incentives booked against revenue are not quantified.
+   - (Claude's read) Take-rate and S&M-ratio comparisons across years are not like-for-like. That weakens the reading of a falling S&M ratio as "less subsidy".
+5. **Merchant counts are disclosed. My earlier statement that they were not was wrong.**
+   - Active merchants: 14.2m (2023), 15.8m (2024), 16.8m (2025, +6%).
+   - Average transaction-services revenue per merchant: RMB 6,627 / 12,399 / 12,742. This includes Temu.
+6. **The tax cliff is now quantified.**
+   - The 15% HNTE rate saved RMB 9.6bn in FY2025, about 8 points of the tax rate.
+   - Both HNTE entities lose the rate after 2026 unless it is renewed: Shanghai Xunmeng (2018–2026) and Walnut Shanghai (2021–2026). A third entity's Qianhai 15% ended in 2025.
+   - Almost all tax is paid in the PRC (RMB 21.4bn of 21.7bn).
+   - RMB 150.6bn of undistributed earnings is "indefinitely reinvested", with no withholding-tax liability booked.
+7. **The SAMR fine is confirmed.** In April 2026 the SAMR fined seven platforms about RMB 3.6bn in total. The Pinduoduo operator's share was about RMB 1.5bn, for food-licence checks and cake vendors passing orders on. The fine came with a nine-month ban on onboarding new cake vendors. This matches the RMB 1.52bn G&A gap I had inferred.
+
+### Governance: what the filings show (Claude's read: mixed; no single item is a knockout)
+- **Related party: Shanghai Fufeitong.**
+  - Fufeitong is a licensed payment company controlled by co-CEO Chen Lei and SVP Zheng Zhenwei.
+  - PDD funded their vehicle (Ningbo Hexin) with interest-free loans: RMB 710.6m, rising to 910.6m in 2025.
+  - Their stake rose from 50.01% (2023) to 93.84% (2025).
+  - PDD paid Fufeitong RMB 0.8–0.9bn a year for services. At end-2025, RMB 5.47bn of PDD's money was receivable from it.
+  - PDD can call the loans and buy the vehicle, subject to approval. Stated rationale: a back-up if bank or third-party payment channels are cut.
+  - This is the item to watch.
+- **Pay and equity.**
+  - Cash pay to all directors and officers was US$2.2m in 2025.
+  - Equity awards outstanding at nominal strike total about 411m shares (about 7.2% of shares). Of these, 54.3m are Chen Lei's (about US$1.2bn).
+  - Awards vest over four years, then a three-year lock-up during which PDD can buy back at the nominal price if the person leaves.
+  - The share-plan evergreen is up to 3% a year. It was raised from 1% without a shareholder vote.
+  - Actual dilution is low: weighted diluted shares 5,840m → 5,917m → 5,930m (FY23–25). The cover-page share count jumps because PDD pre-issues blocks to the depositary (667m to date, 78.5m still in escrow). This corrects my earlier "about 2.6% a year".
+- **Control and board.**
+  - The PDD Partnership is dormant: it has fewer than five partners. Once it has five, it nominates two or three executive directors and the CEO.
+  - Amending those rights, or the director-election rules, needs 95% of votes cast. Calling an EGM needs a third of the votes. There is no AGM obligation; none was held in 2019.
+  - The board has six members, three independent: Kam, Yeo and Rietjens.
+  - Qi Lu (former compensation chair) and the general counsel left after FY2022.
+  - There is no CFO title. A 33-year-old Financial Director was appointed in December 2025.
+  - The auditor moved from EY Hua Ming (Shanghai, 2018–2025) to EY Hong Kong in July 2025. No disagreements were reported.
+- **Tencent.** Purchases from Tencent (payments, ads, cloud) were RMB 7.2bn / 6.8bn / 6.5bn. The 2018 Weixin-access agreement was paid for with RMB 2.85bn of pre-IPO preferred shares, and access was renewed in 2023.
+- **No business or product-liability insurance at all.**
+
+### Regulatory record (FY2025 20-F, Item 8)
+- **EU.**
+  - DSA: preliminary breach finding in July 2025 (risk assessment of illegal products). Fines can reach 6% of global turnover.
+  - The CPC consumer-law action is ongoing.
+  - Small-parcel charges: France about €2 per item category since March 2026; the EU about €3 from July 2026 plus a fee from November 2026; Italy a handling fee.
+- **US.**
+  - Five state attorney-general suits: Arkansas, Nebraska (motion to dismiss denied April 2026), Kentucky, Arizona and Texas.
+  - FTC INFORM Act: US$2m penalty plus a consent order.
+  - Securities class action over data and UFLPA statements.
+  - The de minimis exemption ended in May 2025 for China and in August 2025 for all countries.
+- **Elsewhere.** Temu is still suspended in Vietnam and Uzbekistan. Investigations are open in Germany, France, Hungary, Czechia, Poland, Australia and Korea.
+
+### What the company stopped saying
+- **Buyer, merchant and GMV data.** Active buyers, GMV and orders were last given in FY2020 (788.4m buyers; GMV RMB 1,667.6bn; 38.3bn orders). Merchants have been given again from FY2023.
+- **Engineers.** The count went 4,800 (2020) → 6,400 → 7,300 → 8,900 (2024), and is dropped in FY2025. The FY2025 table of employees by function is blank in the filing text. In FY2024 the split was: sales, marketing and fulfilment 11,206; product 8,980; operations 1,278; admin 2,001.
+- **Ad-business risk factor.** The FY2024 line that online marketing "may not grow as quickly as we have anticipated" is gone in FY2025.
+- **Strategy circles back.**
+  - First-party sales were RMB 7.2bn (2021), cut to 0.2bn (2022), and are back as the 2025–26 brand programme.
+  - The 2018 "New Brand" initiative was its precursor.
+  - FY2020 said cross-border was "not an area of our focus"; Temu launched in 2022.
+
+### Podcasts: what the full listen adds
+- **Business Breakdowns (about 2021, PDD corporate development).**
+  - **PDD said its users' city-tier mix "pretty much mirrors the population distribution". It called the lower-tier label "a common misperception" (788m buyers ≈ all of China's online shoppers).** (Claude's read) Read the counter-positioning as one against the *merchant and price model* (non-brand factories, low fees, feed-based traffic), more than against a *geography*.
+  - Mix: agriculture about 16% of GMV in 2020; apparel and household about half.
+  - The feed lets small merchants reach buyers without "owning the keywords".
+- **Acquired (2020).**
+  - Same counter-positioning frame: Alibaba could not use WeChat or WeChat Pay without hurting itself.
+  - Founder stake was 46.8% at IPO. Today it is 24.8% via his trust plus 6.5% through the Partnership vehicle he directs.
+  - Their key bear point: once the core users are saturated, marginal buyers have to be bought with subsidies, e.g. the RMB 10bn subsidy programme in 2019–20.
+- **TIP (2026).**
+  - JD and Alibaba recommenders optimise expected value per view; PDD optimises for *conversion*: cheap, high-probability items, one item per checkout, no cart.
+  - The ad take rate roughly doubled since 2019 because merchants grew faster than demand per category and bid against each other. PDD did not simply raise prices.
+  - Douyin threatens the "bored browsing" use case.
+  - This investment cycle starts from weakness, unlike earlier ones.
+  - "Unlikely investors will see the cash." The host passed.
+
+### Corrections to the digest above
+- Merchant counts are disclosed (FY2023–25). See point 5.
+- Dilution: use weighted diluted shares (+1.3% in 2024, +0.2% in 2025), not the cover-page counts.
+- Founder stake: "about 31%" is economic ownership. The Partnership's 6.5% is held by a vehicle of which Huang is sole director. No voting proxy to the board is disclosed in the 20-Fs.
+
+### What this does to the debate questions (proposed)
+- **Q1 (ad runway).** The take-rate story now has a measurement problem (point 4), and Pinduoduo had only about 6% merchant growth in 2025.
+- **Q4 (tax).** Model the HNTE loss as RMB 9.6bn a year from 2027 in the conservative case. Earnings are about 7–8% lower if the rate is not renewed (e).
+- **Q5 (cash).** Reframe from "can they?" (yes: about US$40bn offshore) to "will they?" Add PFIC as a reason the question matters to Paul.
+- **New governance question.** Fufeitong plus the dormant Partnership: does control sit with the operators rather than the shareholders, and is any value leaking? Today's leak is small: interest-free RMB 0.9bn, and RMB 5.5bn of receivables at a related party.
