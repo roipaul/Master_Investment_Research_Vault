@@ -40,7 +40,7 @@ steps:                 # date each step last ran
   triage: 2026-11-20
   model:
   frame:
-  debate:
+  debate: 2026-11-22
   dd:
   scuttlebutt: 2026-11-22
   views:
@@ -51,7 +51,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-22 — Deep-dive [[Layers]] written for Paul's ramp-up (prompted by Li Lu's and Duan Yongping's buying and the cash pile). At US$86 the business costs about 4.5x after-tax operating profit once RMB 440bn of surplus cash is set aside, but the cash has never been returned. The case rests on the domestic franchise holding, Temu's losses closing and governance and the state taking no big slice. Desk: HNTE is a 2027 renewal risk; Fufeitong is small but a governance flag (2025 revenue RMB 1.06bn, implied value about RMB 1bn). Scuttlebutt the same day: PDD eased price enforcement at home while Temu raised what it takes from sellers. Paul has not confirmed the thesis; the Q3 update (proposed Intact / Wait) and triage (proposed Dig) await him.
+**Latest:** 2026-11-22 — Thesis debate (proposed): business **Inconclusive**, because the two critical questions sit near 58% on Low-confidence evidence and point opposite ways. Domestic profit growth leans to 5–7% rather than 8–10% (Q1 bear); the investment phase leans to peaking in 2026 as Temu losses narrow (Q2 bull). Price check **Stretch**: the supported path gives about 15% a year only with a re-rating from about 8x to 10x; about 7% at 8x. Earlier the same day: deep-dive [[Layers]] and [[Scuttlebutt]]. Paul has not confirmed the thesis; the Q3 update (proposed Intact / Wait) and triage (proposed Dig) await him.
 
 ## Thesis in one paragraph
 
@@ -61,6 +61,11 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 
 | # | Question | Verdict | Probability | As of |
 |---|---|---|---|---|
+| Q1 | Can domestic profit grow 8–10% a year? (critical) | Bear more likely; Low confidence | ~58% | 2026-11-22 |
+| Q2 | Does the investment phase peak in 2026? (critical) | Bull more likely; Low confidence | ~58% | 2026-11-22 |
+| Q3 | Will the state take a material slice (tax, fines, fee limits)? | Bull more likely (no material slice); Medium | ~60% | 2026-11-22 |
+| Q4 | Will cash be returned or reinvested in ways that create value before 2029? | Bear more likely; Medium | ~65% | 2026-11-22 |
+| Q5 | Will Douyin stall Pinduoduo's domestic growth? | Bull more likely (no stall); Medium | ~60% | 2026-11-22 |
 
 ## Variant views
 
@@ -74,6 +79,7 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 - [[Triage]] — Dig (proposed), 2026-11-20
 - [[Library]] — digest of Paul's PDD research folder (VA consensus, 20-F history, all 2025–26 calls, 2018–26 sell-side, Paul's 2022 notes), 2026-11-22; plus corrections and an HNTE desk check
 - [[Scuttlebutt]] — Pinduoduo merchants and Temu sellers, 2026-11-22; evidence files and creator tables in `files/scuttlebutt/`
+- [[Debate]] — thesis debate, 2026-11-22: business Inconclusive; price check Stretch (proposed). Word and PDF in `files/`
 - [[Layers]] — deep-dive for Paul's ramp-up: the machine, moat, culture, Temu, the state, the cash, the investors' views, what must be true; with desk findings (HNTE, Fufeitong, rules timeline), 2026-11-22. Living copy: https://claude.ai/artifact/Tq8U7we7ofV3ktYXvTg5xE
 
 ## Links
@@ -91,3 +97,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-22 — /full-primer v1.1 (gap-fill): files/PDD_Holdings_PDD_Primer_Full_v1.1.docx and .pdf (49 pages, 56 sources); revision section appended to [[Primer]]. Call quotes re-based on S&P transcripts (8 corrected, 1 misattributed). Added: cash location and PFIC; control and related parties (Huang's votes entrusted to the board, dormant Partnership, Fufeitong, auditor change, no insurance); incentive accounting and S&M split; HNTE RMB 9.6bn; SAMR obstruction finding; EU Art. 35 preliminary finding (17 Nov 2026); Texas settlement; 2024 fee cuts; QuestMobile and GMV estimates (secondary). Library voting-proxy line corrected.
 - 2026-11-22 — /scuttlebutt (A: Pinduoduo merchants, 65 rows; B: Temu sellers, 73 items) → [[Scuttlebutt]]; project docs pdd/PDD_Holdings_PDD_Merchants_Voice.md and pdd/PDD_Holdings_PDD_TemuSellers_Voice.md. Little first-hand seller voice reached (Reddit and Chinese seller forums unreachable); evidence is mostly trade press and consultants. Findings: Pinduoduo unwound lowest-price and refund-only practices before and after the April 2026 pricing rules; Temu added a reported 5–11% fully managed commission (May 2026, unconfirmed by Temu) and raised promotion fees; EU direct-ship volume down an estimated 60–67% after 1 July, EU-warehouse stock up. Desk check in [[Library]]: the HNTE end date has rolled forward in three-year steps (2020 → 2023 → 2026), so the 2027 renewal is the risk, not a fixed expiry. Paul: cannot confirm the thesis yet; more research requested.
 - 2026-11-22 — Deep-dive → [[Layers]] (Claude Doc, exported here). Desk checks: the HNTE entity table implies about RMB 96bn of taxable profit sits in the two 15% entities (e); R&D by entity not disclosed. Fufeitong: CNFin 9 Nov 2026 gives 2025 revenue RMB 1.06bn, net profit RMB 0.3m, H1 2026 loss RMB 27m; a China Post Capital 0.6954% stake listed at RMB 6.79m implies about RMB 976m. December 2025 SAMR inspection detail (physical clashes, detentions) added from press. Himalaya 13F Q3 2026: 11.76m ADS, 24.2% of book, largest position; H&H (Duan) 12.69%. Correction appended to [[earnings/FY2026-Q3]] for two transcript quotes.
+- 2026-11-22 — /thesis-debate (Q1–Q5) → [[Debate]] and files/PDD_Holdings_PDD_Thesis_Debate.docx/.pdf (20 pages, 63 sources). Business Inconclusive; price check Stretch. What would resolve it: Q4 2026 online marketing growth of 8% or more and margin held at 28–30% (March 2027); the FY2026 20-F tax end date and New Pinmu booking (April 2027); merchant and Temu-seller calls. Verdicts are proposed; Paul has not confirmed.
