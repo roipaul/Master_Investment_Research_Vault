@@ -237,6 +237,6 @@ Claude's read:
 
 ### What this does to the debate questions (proposed)
 - **Q1 (ad runway).** The take-rate story now has a measurement problem (point 4), and Pinduoduo had only about 6% merchant growth in 2025.
-- **Q4 (tax).** Model the HNTE loss as RMB 9.6bn a year from 2027 in the conservative case. Earnings are about 7–8% lower if the rate is not renewed (e).
+- **Q4 (tax).** Model the HNTE loss as RMB 9.6bn a year from 2027 in the conservative case. Net income is about 9–10% lower if the rate is not renewed (RMB 9.6bn against FY2025 net income of RMB 97.8bn) (e).
 - **Q5 (cash).** Reframe from "can they?" (yes: about US$40bn offshore) to "will they?" Add PFIC as a reason the question matters to Paul.
 - **New governance question.** Fufeitong plus the dormant Partnership: does control sit with the operators rather than the shareholders, and is any value leaking? Today's leak is small: interest-free RMB 0.9bn, and RMB 5.5bn of receivables at a related party.
