@@ -35,10 +35,10 @@ catalysts:
 cycle: "China consumer: Downturn, slowing; platform subsidy contest: Rolling over; EU cross-border: structural step-down (2026-11-20)"
 steps:                 # date each step last ran
   gate:
-  primer: 2026-11-20
+  primer: 2026-11-23
   abridged:
   triage: 2026-11-20
-  model: 2026-11-22
+  model: 2026-11-23
   frame:
   debate: 2026-11-22
   dd:
@@ -51,7 +51,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-23 — Read the five China-internet books in the Project (High Wire, Clark's Alibaba, 腾讯传, 智能商业, 九败一胜) → [[china-platform-base-rates]]. Proposed, awaiting Paul: Q1 Bear ~60% (from 58%), Q2 Balanced ~55% (from Bull 58%), Q3 Balanced ~55% (from Bull 60%); business verdict still Inconclusive. Main base rates: posted fee rises get reversed and the state has capped a take rate before (Meituan, Feb 2022); uncooperative firms are punished beyond the original issue; founders press harder when rivals retreat; a strategic asset moved off the listed group stays off (Alipay → read-across to Fufeitong). Model v1 (2026-11-22) unchanged: base US$196, conservative US$98 per ADS at US$83.68. The Q3 update (proposed Intact / Wait), triage (proposed Dig) and debate verdicts await Paul.
+**Latest:** 2026-11-23 — Model v2 (driver-based) and primer v1.2. Revenue and profit are now built from marketplace GMV × take rates, Duoduo Maicai items × price × take rate less cost per item, and Temu orders × order value × take rate less costs per order. All three use Visible Alpha estimates. There are four scenarios. Per-ADS DCF values at US$83.68: **base US$197, conservative US$97, state slice US$178, long investment phase US$196** (US$188 if the extra spending buys no growth). Return to end-2029 at 8x/10x: base 11.7%/20.1%, conservative 0.8%/8.3%, state slice 7.2%/15.2%, long investment phase 7.1%/15.1%. Base Temu breakeven is 2029, a year after consensus. Duoduo Maicai is about RMB 9bn by 2030 (consensus 9.5bn). Base non-GAAP net income is 3–5% below consensus in 2027–28. Earlier the same day the five China-internet books were read → [[china-platform-base-rates]]; the debate proposals there await Paul. The Q3 update (proposed Intact / Wait), triage (proposed Dig) and debate verdicts also await him.
 
 ## Thesis in one paragraph
 
@@ -82,6 +82,8 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 - [[Debate]] — thesis debate, 2026-11-22: business Inconclusive; price check Stretch (proposed). Word and PDF in `files/`
 - [[Layers]] — deep-dive for Paul's ramp-up: the machine, moat, culture, Temu, the state, the cash, the investors' views, what must be true; with desk findings (HNTE, Fufeitong, rules timeline), 2026-11-22. Living copy: https://claude.ai/artifact/Tq8U7we7ofV3ktYXvTg5xE
 - `files/PDD_Financial_Model_2026-11-22_v1.xlsx` — value DCF model v1 (modified DCF on core EBITA; Temu and own brands split out as estimates; base/conservative switch), 2026-11-22: base US$196, conservative US$98 per ADS at US$83.68
+- `files/PDD_Financial_Model_2026-11-23_v2.xlsx` — value DCF model v2: drivers from Visible Alpha (marketplace GMV, buyers, take rates; Duoduo Maicai per item; Temu per order); four scenarios (1 base, 2 conservative, 3 state slice, 4 long investment phase), 2026-11-23: US$197 / 97 / 178 / 196 per ADS at US$83.68
+- `files/PDD_Holdings_PDD_Primer_Full_v1.2.docx` and `.pdf` — primer v1.2 with new Section 4.5 (operating drivers and the four scenarios), 2026-11-23; revision section appended to [[Primer]]
 - [[china-platform-base-rates]] (theme) — base rates from the five China-internet books, applied to Q1–Q5, own brands, Temu and governance, with proposed verdict changes and tracking items, 2026-11-23
 
 ## Links
@@ -102,3 +104,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-22 — /thesis-debate (Q1–Q5) → [[Debate]] and files/PDD_Holdings_PDD_Thesis_Debate.docx/.pdf (20 pages, 63 sources). Business Inconclusive; price check Stretch. What would resolve it: Q4 2026 online marketing growth of 8% or more and margin held at 28–30% (March 2027); the FY2026 20-F tax end date and New Pinmu booking (April 2027); merchant and Temu-seller calls. Verdicts are proposed; Paul has not confirmed.
 - 2026-11-22 — /value-dcf-model v1 → files/PDD_Financial_Model_2026-11-22_v1.xlsx. Paul's choices: modified DCF; FY2021–25 + 9M 2026 history; 2026–30E explicit, fade to 2035; base + conservative switch; surplus cash at par (base) and 30% (conservative). Base: US$196 (RMB cost of equity 10.4%, g 2%, terminal value 50% of EV); US$160 at the 15% hurdle; US$143 with no cash. Conservative (domestic ads +1.5–2%, Temu losing RMB 8–12bn a year, 25% tax from 2027, own brands earning nothing on RMB 55bn of stock and deposits, 30% of cash counted): US$98; US$79 at the hurdle; US$82 with no cash. 2029E non-GAAP EPS RMB 97 base (consensus 99) and 72 conservative. Correction: surplus cash is about RMB 522bn, not 440bn, because the RMB 82bn of restricted cash backs the payables to merchants; ex-cash multiple about 3.4x 2026E NOPAT, not 4.5x. Appended to [[Layers]], [[earnings/FY2026-Q3]], [[Debate]] and [[Triage]].
 - 2026-11-23 — Read the five books in the Project's China Internet folder (High Wire in its model, crackdown and PDD sections; Clark from Taobao to Yunfeng; 腾讯传 from Paipai to the grey rule; 智能商业 parts 1–3; 九败一胜 on the group-buying war and the winter) → [[china-platform-base-rates]]. Desk check: NDRC fee guidance of 18 Feb 2022 and Meituan's 5% commission cap (NBD, 36Kr). Proposed, not Paul's: Q1 Bear ~60%, Q2 Balanced ~55%, Q3 Balanced ~55%; Q4 and Q5 unchanged; business verdict still Inconclusive. New tracking items: fee guidance from ministries, PDD at state-convened meetings, Fufeitong bought in, who owns New Pinmu stock, merchant deposits and payout speed.
+- 2026-11-23 — /value-dcf-model v2 (Paul asked for driver depth from the Visible Alpha file and the book scenarios) → files/PDD_Financial_Model_2026-11-23_v2.xlsx. New driver block on Assumptions (sections A–E), with income statement revenue, cost of revenue and business profit linked to it. Segment rows added: marketplace, Duoduo Maicai, Temu, own brands and fines. Driver KPIs added to Performance Analysis; a scenario switch with four settings. Checks 0; zero formula errors. Driver study: marketplace growth now all spend per buyer (buyers +0.6% in 2025); ad take rate 4.46% (2025) and 4.50% in Q2–Q3 2026; Duoduo Maicai profit per item from −1.36 to +0.15 RMB (2021–25), with cost per item −25%; Temu loss per order narrowing only about US$0.2 a year as the take rate falls from 39% to 26%. The Visible Alpha annual and quarterly series disagree (Temu 2025 loss −15.8bn vs −19.7bn), so the model uses annual for history and quarterly for 2026. Base US$197 (v1 US$196); conservative US$97 (v1 US$98). Flag: base S&M falls from 29% to 23% of revenue by 2030 and core margin reaches 30%, both on the Temu path. /full-primer v1.2: Section 4.5 added; files/PDD_Holdings_PDD_Primer_Full_v1.2.docx/.pdf; revision appended to [[Primer]].

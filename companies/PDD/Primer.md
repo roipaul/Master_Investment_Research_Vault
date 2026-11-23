@@ -973,3 +973,130 @@ The two main operating subsidiaries, Shanghai Xunmeng and Walnut Street (Shangha
 54. Retail Insight Network (2026-10-19) — "Temu settles Texas privacy claims" (notes Iowa's July 2026 suit) — secondary
 55. Pinduoduo Inc. / PDD Holdings Inc., Annual Reports on Form 20-F for FY2020, FY2022, FY2023 and FY2024 (copies in the user's research folder) — annual reports
 56. Lewis Silkin LLP (2026-11-20) — "European Commission preliminarily finds Temu in breach of the Digital Services Act for failing to tackle the sale of illegal products" — secondary
+
+## Revision 2026-11-23 — edition v1.2
+
+Word and PDF: `files/PDD_Holdings_PDD_Primer_Full_v1.2.docx` and `.pdf` (54 pages). Sections 1–4.4 are unchanged from v1.1. New Section 4.5 covers the operating drivers behind the financial model v2 (`files/PDD_Financial_Model_2026-11-23_v2.xlsx`) and its four scenarios. Two of the scenarios come from [[china-platform-base-rates]]. Source numbers continue the v1.1 list.
+
+### 4.5 Operating Drivers and Scenarios (new in v1.2)
+
+*What this section adds.* Edition v1.2 (23 November 2026) sets out the operating drivers behind the financial model, version 2, and the four scenarios it now carries [58]. Every figure on GMV, buyers, Duoduo Maicai and Temu here is a sell-side estimate compiled by Visible Alpha [57]. PDD reports one segment and stopped disclosing GMV and buyer counts after 2021 [1]. The Visible Alpha series are pooled from different brokers and do not always agree with each other: Temu's 2025 operating loss is RMB 15.8bn in the annual column but RMB 19.7bn summed across the quarters [57]. The model uses the annual columns for history and the quarterly columns for 2026.
+
+#### What the Drivers Show
+
+**Pinduoduo marketplace (excluding Duoduo Maicai and Temu).**
+
+| | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
+|---|---|---|---|---|---|---|
+| Marketplace GMV (RMB bn, est.) | 2,371 | 2,918 | 3,695 | 4,350 | 4,880 | 5,270 |
+| GMV growth | 42.6% | 23.1% | 26.6% | 17.7% | 12.2% | 8.0% |
+| Active buyers (m) | 869 | 908 | 937 | 959 | 965 | 967 |
+| GMV per buyer (RMB) | 2,729 | 3,213 | 3,942 | 4,536 | 5,058 | 5,452 |
+| Online marketing take rate | 3.37%* | 3.53% | 4.16% | 4.55% | 4.46% | 4.41% |
+| Marketplace core EBITA margin (residual) | 23.6% | 38.3% | 48.9% | 54.4% | 44.5% | 47.0% |
+
+*2021 revenue includes merchandise sales. Buyers: 2021 disclosed by PDD; later years and all GMV figures are Visible Alpha estimates [57]. The margin is what remains of core EBITA after the estimates for Temu and Duoduo Maicai; 2025 includes the RMB 1.52bn SAMR fine. 2026E combines nine months of estimates with the model's fourth quarter [58].
+
+- **Growth now comes from spend per buyer.** Buyers grew 0.6% in 2025. Growth in GMV per buyer slowed from 22.7% (2023) to 15.1%, 11.5% and about 7.8% (2026E) [57].
+- **PDD's growth lead over the market has halved.** China's online sales of physical goods grew 6.5% in 2024 and 2.9% in January–October 2026 [62]. PDD's lead over that market fell from about 11 points to about 5 (computed).
+- **The take rate rose, dipped and has recovered.** It rose about 160bp from 2020 to 2024, then fell with the 2024–25 fee cuts and the merchant support programme. Quarterly it was 4.37% in Q1 2026 and 4.52% and 4.50% in Q2 and Q3; the fourth quarter is seasonally lower [57]. Since April 2026 any fee change needs a cost justification and public notice (Section 4.4).
+- **The merchant programme shows in the margin.** The residual margin swung from 54% (2024) to 45% (2025) and about 47.6% in the first nine months of 2026 (computed).
+
+**Duoduo Maicai (next-day grocery pickup).**
+
+| | 2021 | 2022 | 2023 | 2024 | 2025 | 2026E |
+|---|---|---|---|---|---|---|
+| Items sold (m) | 9,617 | 13,554 | 15,712 | 17,141 | 19,618 | 20,206 |
+| Price per item (RMB) | 8.65 | 10.31 | 12.73 | 12.71 | 13.00 | 13.65 |
+| GMV (RMB bn) | 83 | 140 | 200 | 218 | 255 | 276 |
+| Take rate | 8.4% | 11.1% | 11.8% | 13.1% | 13.2% | 13.4% |
+| Revenue per item (RMB) | 0.73 | 1.15 | 1.50 | 1.67 | 1.72 | 1.83 |
+| All-in cost per item (RMB) | 2.08 | 1.80 | 1.68 | 1.63 | 1.57 | 1.54 |
+| Operating profit per item (RMB) | −1.36 | −0.66 | −0.18 | 0.04 | 0.15 | 0.29 |
+| Operating profit (RMB bn) | −13.1 | −8.9 | −2.8 | 0.7 | 2.9 | 5.8 |
+
+All figures are Visible Alpha estimates; 2026E is the model's [57][58].
+
+- **The turnaround came from both sides of each item.** Revenue per item more than doubled from 2021 to 2025, through higher prices and a higher take rate. All-in cost per item fell about a quarter as density improved.
+- **In 2026 the brokers see price over volume.** Over nine months, items sold fell about 2.5% while revenue rose about 11%, and estimated operating profit roughly doubled [57]. That fits the anti-involution push.
+- **The base case stops cost per item falling after 2026**, because wages offset density.
+
+**Temu.**
+
+| | 2023 | 2024 | 2025 | 2026E |
+|---|---|---|---|---|
+| Orders (m) | 504 | 1,253 | 1,720 | 1,939 |
+| Order value (US$) | 35.7 | 40.4 | 42.7 | 46.2 |
+| GMV (RMB bn) | 127 | 365 | 520 | 613 |
+| Take rate (revenue ÷ GMV) | 38.8% | 38.9% | 30.7% | 26.0% |
+| Revenue per order (US$) | 13.87 | 15.71 | 13.11 | 11.99 |
+| Cost of revenue per order (US$) | 12.43 | 11.08 | 9.81 | 9.17 |
+| Operating expenses per order (US$) | 8.09 | 6.15 | 4.60 | 3.91 |
+| Operating profit per order (US$) | −6.66 | −1.52 | −1.30 | −1.09 |
+| Operating profit (RMB bn) | −23.8 | −13.7 | −15.8 | −14.5 |
+
+All figures are Visible Alpha estimates; operating expenses per order are the residual; 2026E sums the Visible Alpha quarters plus the model's Q4 loss [57][58].
+
+- **The loss per order narrows only about US$0.2 a year** since 2024. Costs per order keep falling, but revenue per order falls too.
+- **Why revenue per order falls.** As sales move to local sellers, Temu books a commission rather than the goods' value. The take rate went from 39% to 26%, and was 24% in Q3 2026 [57].
+- **What breakeven needs.** Operating costs per order must keep falling by about US$0.3 a year. At that pace Temu breaks even in 2029, a year after consensus. That fits the yearly slippage recorded in the research-folder digest.
+
+#### Forward Assumptions
+
+| Driver | Base | Conservative | Basis |
+|---|---|---|---|
+| Marketplace GMV growth, 2027 → 2030 | 6.0% → 4.0% | 3.5% → 2.5% | Lead over the online market keeps narrowing; buyers +0.3% a year (0% conservative) |
+| Online marketing take rate, 2030 | 4.52% (+3bp a year from 4.43% in 2027) | 4.27% (−3bp a year) | 2027 holds the Q2–Q3 2026 run-rate; posted fee rises get reversed, auction prices creep up [63] |
+| Marketplace core EBITA margin, 2030 | 46.0% | 44.0% | No operating leverage; continued reinvestment |
+| Duoduo Maicai items / price / cost per item, a year | +3% / +1.5% / flat | +1% / +0.5% / +1.5% | Price over volume; density gains taper |
+| Temu orders / order value, a year | +6% → +5% / +3% | +2% / +2% | Growth outside the US and EU; local warehouses sell bigger items |
+| Temu take rate, 2030 | 22.5% | 21.0% | Shift to local sellers continues |
+| Temu operating expenses per order, 2030 | US$2.80 | US$3.10 | Marketing keeps falling; breakeven 2029 (base) or never in the period (conservative) |
+| Tax rate | 19% | 25% from 2027 | Tax-break renewal (Section 4.4) |
+
+#### Four Scenarios
+
+The model now carries four scenarios, set by one switch [58]. Scenarios 3 and 4 are each the base case with a single shock, drawn from the China-platform base rates [63]:
+
+1. **Base.**
+2. **Conservative.** Every driver at the conservative setting above.
+3. **State slice (debate question 3).** This scenario applies three shocks:
+   - The online marketing take rate is cut 20bp in 2027 and then frozen. This follows the February 2022 guidance that made Meituan cut restaurant fees; Meituan's shares fell 14.9% that day [59][60].
+   - A 2027 fine of 4% of the prior year's domestic revenue, about RMB 11.6bn, the scale of SAMR's 2021 fines on Alibaba (4%) and Meituan (3%) [61].
+   - Tax at 25% from 2027.
+   
+   High Wire's finding that uncooperative firms pay more is why the shocks are stacked [64].
+4. **Long investment phase (debate question 2).** This scenario changes three things:
+   - Temu holds its operating cost per order at the 2026 level for two years and grows orders 10% a year.
+   - The marketplace margin is two points lower from 2027, as subsidies continue while rivals are distracted.
+   - Own-brand losses are heavier, with RMB 55bn of stock and deposits.
+   
+   The precedents are Meituan pressing in the 2011 downturn and Tencent's nine years in e-commerce [63].
+
+| Model output | Base | Conservative | State slice | Long investment phase |
+|---|---|---|---|---|
+| Online marketing revenue CAGR 2025–30E | 5.8% | 3.0% | 4.2% | 5.8% |
+| Temu operating profit 2028E (RMB bn) | −3.8 | −12.4 | −3.8 | −14.4 |
+| Core EBITA 2030E (RMB bn) | 163.9 | 116.0 | 154.5 | 140.8 |
+| Non-GAAP EPS per ADS 2029E (RMB) | 98.5 | 71.6 | 86.7 | 86.5 |
+| DCF value per ADS (US$) | 197 | 97 | 178 | 196 |
+| Annual return to end-2029 at 8x / 10x P/E | 11.7% / 20.1% | 0.8% / 8.3% | 7.2% / 15.2% | 7.1% / 15.1% |
+
+Returns are measured from the US$83.68 close on 20 November 2026. These are model outputs, not price targets [58].
+
+- **The state slice costs about 9% of DCF value and about 5 points a year of return to 2029.** The fine is a one-off, about US$1.20 per ADS. Most of the damage comes from the frozen take rate and the higher tax rate.
+- **A long investment phase costs time rather than value, if the spending buys growth.** DCF value barely moves because Temu ends 2030 larger and the long-run margin is unchanged. If the spending buys no extra growth, value falls about 5%, to about US$188. Either way, the return to 2029 at 10x drops from about 20% to about 15%. A 3–5 year holder bears that cost.
+- **The conservative case is still the main downside:** about US$97 per ADS and 1–8% a year.
+- **Against consensus,** base non-GAAP net income is 3–5% below consensus in 2027–28 and within 1.5% in 2029–30. The base has Temu breaking even a year later than consensus and more profit from Duoduo Maicai. Its marketplace margin path is lower than its 2026 level.
+- **Ratios to watch.** In the base, sales and marketing falls from 29% of revenue (2025) to about 23% (2030), because Temu's cost per order keeps falling. The group core EBITA margin reaches 30% in 2030, against a peak of 27.5% in 2024. Both depend on the Temu assumptions above.
+
+#### Sources added in v1.2
+
+57. Visible Alpha (2026-11-22) — PDD Holdings consensus model file "PDD_model_VA 11222026.xlsx" (GMV & Metrics, DDMC/Grocery and Temu tabs), in the user's research folder — sell-side estimates
+58. PDD Financial Model v2 (2026-11-23) — driver-based value DCF model, "PDD_Financial_Model_2026-11-23_v2.xlsx" (vault files folder) — model
+59. National Business Daily (2022-02-18) — "饭馆笑了，美团阿里股价承压 发改委：引导外卖平台下调服务费", https://www.nbd.com.cn/articles/2022-02-18/2131018.html — secondary
+60. 36Kr (2022-03-02) — "纾解餐饮行业压力，比佣金更重要的是什么？" (Meituan's 5% commission cap and halved fees in outbreak areas), https://www.36kr.com/p/1637620540388357 — secondary
+61. State Administration for Market Regulation — administrative penalty decisions on Alibaba (10 April 2021; 4% of 2019 domestic sales) and Meituan (8 October 2021; 3% of 2020 domestic sales) — regulator (figures as reported)
+62. National Bureau of Statistics — 2024 statistical communiqué (online retail sales of physical goods +6.5%) and the October 2026 retail sales release (+2.9% January–October), as recorded in the research vault's China consumer-cycle note — official statistics
+63. China-platform base rates (2026-11-23) — research note drawing on Duncan Clark, *Alibaba* (2016); 吴晓波, 《腾讯传 1998—2016》 (2017); 曾鸣, 《智能商业》 (2018); 李志刚, 《九败一胜》 (2014) — books, summarised
+64. Angela Huyue Zhang, *High Wire: How China Regulates Big Tech and Governs Its Economy* (Oxford University Press, 2024), ch. 2 — book
