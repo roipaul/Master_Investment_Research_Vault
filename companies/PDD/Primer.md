@@ -1100,3 +1100,63 @@ Returns are measured from the US$83.68 close on 20 November 2026. These are mode
 62. National Bureau of Statistics — 2024 statistical communiqué (online retail sales of physical goods +6.5%) and the October 2026 retail sales release (+2.9% January–October), as recorded in the research vault's China consumer-cycle note — official statistics
 63. China-platform base rates (2026-11-23) — research note drawing on Duncan Clark, *Alibaba* (2016); 吴晓波, 《腾讯传 1998—2016》 (2017); 曾鸣, 《智能商业》 (2018); 李志刚, 《九败一胜》 (2014) — books, summarised
 64. Angela Huyue Zhang, *High Wire: How China Regulates Big Tech and Governs Its Economy* (Oxford University Press, 2024), ch. 2 — book
+
+## Correction 2026-11-23 — Temu estimates on one basis (edition v1.3)
+
+Word and PDF: `files/PDD_Holdings_PDD_Primer_Full_v1.3.docx` and `.pdf`; model `files/PDD_Financial_Model_2026-11-23_v2.1.xlsx`.
+
+**What is corrected.** v1.2 and model v2 used Visible Alpha's annual columns for Temu's history and its quarterly columns for 2026. The two come from different broker sets: the 2025 loss is RMB 15.8bn annually and 19.7bn in the quarters. Mixing them made Temu's loss per order look as if it narrowed only about US$0.2 a year. On one basis (the quarterly columns, summed by year) the loss per order was −US$1.59 in 2024, −1.63 in 2025 and −1.19 in 2026E. That is flat in the tariff year, then better by about US$0.45. The model is now on that basis, with three changes:
+
+- Q4 2026 Temu is −4.3bn, the seasonal step (was −3.0bn).
+- The 2026 marketplace margin is 47.5%, which keeps the domestic margin at its nine-month level (was 47.0%).
+- Temu's cost per order keeps the same pace from the new level.
+
+Values are unchanged to the dollar: base US$197, conservative US$97, state slice US$178, long investment phase US$196. Section 4.5's Temu table and scenario outputs are replaced as below.
+
+**Temu.**
+
+| | 2023 | 2024 | 2025 | 2026E |
+|---|---|---|---|---|
+| Orders (m) | 498 | 1,258 | 1,709 | 1,939 |
+| Order value (US$) | 36.5 | 39.9 | 43.3 | 46.2 |
+| GMV (RMB bn) | 129 | 362 | 523 | 613 |
+| Take rate (revenue ÷ GMV) | 38.0% | 39.5% | 30.2% | 26.0% |
+| Revenue per order (US$) | 13.84 | 15.77 | 13.05 | 11.99 |
+| Cost of revenue per order (US$) | 12.82 | 11.28 | 10.10 | 9.17 |
+| Operating expenses per order (US$) | 7.87 | 6.08 | 4.57 | 4.01 |
+| Operating profit per order (US$) | −6.86 | −1.59 | −1.63 | −1.19 |
+| Operating profit (RMB bn) | −24.2 | −14.4 | −19.7 | −15.8 |
+
+Visible Alpha quarterly columns, summed by year, converted at the RMB/US$ rate implied by its annual columns. Operating expenses per order are the residual. 2026E = nine months of estimates plus a fourth-quarter loss of RMB 4.3bn, which is Q3 plus the seasonal step seen in Q4 2025 [57][58].
+
+- **The loss per order was flat in 2025 and improved about US$0.45 in 2026.** 2025 was the year of US tariffs, the end of the US de minimis exemption and the EU's moves.
+- **Why revenue per order falls.** As sales move to local sellers, Temu books a commission rather than the goods' value. The take rate went from about 39% to 26%, and was 24% in Q3 2026 [57].
+- **What breakeven needs.** Costs per order fell faster than revenue per order. Breakeven needs that to continue at about US$0.3–0.4 a year. At that pace Temu breaks even in 2029, a year after consensus.
+
+#### Reconciling the Temu estimates
+
+| Temu operating profit (RMB bn) | 2023 | 2024 | 2025 | 2026E |
+|---|---|---|---|---|
+| Visible Alpha, quarterly columns summed (model) | −24.2 | −14.4 | −19.7 | −15.8 |
+| Visible Alpha, annual column | −23.8 | −13.7 | −15.8 | −10.9 |
+| UBS (30 Sep 2025; 2025–26 forecasts) | −26 | −32 | −50 | −25 |
+| Implied domestic margin, quarterly basis | 41.7% | 49.0% | 41.2% | 42.9% |
+| Implied domestic margin, annual column | 41.5% | 48.7% | 39.8% | 41.3% |
+| Implied domestic margin, UBS | 42.7% | 56.0% | 52.2% | 46.1% |
+
+Domestic margin is group core EBITA less Temu, divided by group revenue less Temu revenue; it includes Duoduo Maicai and the own brands [57][65][58].
+
+- **Why the series disagree.** Visible Alpha averages each line, and each period, across whichever brokers submit it. So the lines need not add up:
+  - In the quarterly 2025 columns, Temu's revenue less its costs is a loss of RMB 23.7bn, while the operating-loss line says 19.7bn.
+  - The quarters need not add up to the year.
+  - Most of the gap sits in the allocation of overheads: Temu's "G&A and other" is RMB 18.2bn in the quarters and 12.5bn in the annual column, against group G&A and R&D of 23.1bn [57][1].
+  - The gap was small in 2023–24 (RMB 0.4–0.7bn) and opened in 2025–26, when Temu's model changed.
+- **The annual columns are the staler series.** The 2026 annual figure of −10.9bn cannot be met: nine months already add up to −11.5bn, so it needs a fourth-quarter profit. Its GMV of RMB 567bn would need fourth-quarter GMV to fall 28% [57].
+- **The range among brokers is far wider than the gap between the two columns.** UBS allocates much more cost to Temu: its fulfilment cost is close to revenue, against about 75% in the consensus [65].
+- **What the reported results allow.** PDD reports group profit, so every Temu estimate implies a domestic margin.
+  - In the quarterly series, domestic profit rose about RMB 7.7bn (9%) in the first nine months of 2026, on domestic revenue up 5% and online marketing up 6%. That is plausible.
+  - UBS's 2026 forecast would need domestic profit to fall about RMB 7bn over the same months while online marketing rose and selling costs fell. That is hard to square with the results.
+- **Why the split hardly moves the value.** A bigger Temu loss means a richer domestic business. In the model, shifting 2026 Temu between −12.7bn (the annual-column level) and −25bn (the UBS level) changes value per ADS by less than US$0.2. That holds as long as costs move one-for-one into the marketplace and Temu's per-order improvement pace is unchanged.
+- **What the split does change** is the story: when Temu breaks even (2028 to beyond 2030) and how profitable the domestic business is (marketplace margin about 46% to 51% in 2026).
+
+Source added: [65] UBS, 'PDD Holdings: APAC Focus — growth revival', 30 Sep 2025 (user's research folder).
