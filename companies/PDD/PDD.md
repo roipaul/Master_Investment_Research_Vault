@@ -20,12 +20,18 @@ data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
 catalysts:
-  - date: "2027-04 (e)"
-    event: "FY2026 20-F: does the 15% HNTE end date roll to 2029 (renewal) or stay at 2026?"
+  - date: "2027-10 to 2027-12 (e)"
+    event: "Shanghai 2027 high-tech (HNTE) recognition lists: are Shanghai Xunmeng and Walnut Shanghai renewed for 2027-2029? (FY2026 20-F in April 2027 will likely still say 'until 2026')"
     type: regulatory
-    tests: "Q4 (tax)"
+    tests: "Q8 (tax, ~RMB 9.6bn a year)"
     status: expected
-    source: "20-F HNTE wording FY2020-FY2025 (Library, desk check 2026-11-22)"
+    source: "20-F HNTE wording FY2022/FY2024/FY2025 (3-year cycles); desk-dd 2026-11-23"
+  - date: "2027-02 (e)"
+    event: "Q4 2026 13F filings: Baillie Gifford's remaining PDD sale (LTGG exited in Q3; holding cut 56% to 11.63m); Duan Yongping and Li Lu still buying?"
+    type: forced flow
+    tests: "none (selling pressure); Q4 disclosure"
+    status: expected
+    source: "Gelonghui on Baillie Gifford Q3 13F, 10 Nov 2026"
   - date: "2027 (e)"
     event: "EU decision on the DSA Article 35 preliminary finding against Temu (IP/26/2463); fine of up to 6% of global turnover possible"
     type: regulatory
@@ -41,7 +47,7 @@ steps:                 # date each step last ran
   model: 2026-11-23
   frame:
   debate: 2026-11-22
-  dd:
+  dd: 2026-11-23
   scuttlebutt: 2026-11-22
   views:
   writeup: 2026-11-23
@@ -51,7 +57,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-23 — Thesis written ([[Thesis]]; living Claude Doc https://claude.ai/artifact/WH56ArMKqURKv8WUWdxfgt). Proposed: business Inconclusive, price check Stretch. At US$83.68 (~8x 2026E, ~3.5x ex-cash) the return to end-2029 is about 0% / 7% / 12% a year (conservative / long investment / base) at 8x and 8% / 15% / 20% at 10x; weighted ~7% at 8x, ~15% at 10x. The price ≈ conservative value with cash at zero (US$81). Q2 moved to Balanced; Q6 New Pinmu added. All verdicts await Paul.
+**Latest:** 2026-11-23 — Desk DD ([[DD]]): the 15% tax test is late 2027 (Shanghai HNTE lists), not the April 2027 20-F; New Pinmu near term is an export-services and settlement layer for Temu sellers (朴动, RMB 5bn) plus a ~100-person buyout pilot for export (鸿乔, RMB 10bn), no domestic sales yet; Fufeitong licence renewed long-term, still controlled by Chen Lei; Huang's trust unchanged at 1,409.7m shares, offshore-trust tax exposure probably limited. Debate verdicts unchanged except Q6 leans 'Temu supply-chain layer' ~55% (proposed). Thesis still Inconclusive / Stretch (proposed, awaiting Paul).
 
 ## Thesis in one paragraph
 
@@ -88,6 +94,7 @@ steps:                 # date each step last ran
 - `files/PDD_Holdings_PDD_Primer_Full_v1.3.docx` and `.pdf` — primer v1.3: Temu table on one basis and a reconciliation subsection in 4.5; correction appended to [[Primer]], 2026-11-23
 - Drivers note (Claude Doc), 2026-11-23: what is driving each business's turn (Temu per order, the domestic take rate, the Q3 2026 profit bridge, the marketplace margin, Duoduo Maicai per item). Living copy: https://claude.ai/artifact/YDe7QCpxZZoog1zYHzWLAt
 - Management and culture review (Claude Doc), 2026-11-23: Huang's philosophy in his own words, a drawn timeline of key choices 2015–2026, behaviour in crises, culture, capital allocation, ownership/pay/control, thesis implications and IR questions. Living copy: https://claude.ai/artifact/XwGfds8GW3WpT8MgvyM13X
+- [[DD]] — desk due diligence, 2026-11-23 (New Pinmu, HNTE timing, Huang trust, Fufeitong)
 - [[Thesis]] — investment thesis, 2026-11-23 (proposed: Inconclusive / Stretch); living Claude Doc https://claude.ai/artifact/WH56ArMKqURKv8WUWdxfgt
 - [[china-platform-base-rates]] (theme) — base rates from the five China-internet books, applied to Q1–Q5, own brands, Temu and governance, with proposed verdict changes and tracking items, 2026-11-23
 
@@ -114,3 +121,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-23 — Drivers note (Claude Doc) at Paul's request. Temu: loss per order is about −US$1.19 in 2026E, from −6.86 in 2023. Cost per order fell from US$20.7 to 13.2 (US ad cuts after de minimis; shipping moved to sellers) while revenue per order fell to 12.0 as the take rate dropped to 26%. Domestic take rate: down year on year for six quarters (fee relief), +19bp in Q3 2026 to 4.50%. Q3 2026 profit bridge: +6.1bn, of which sales and marketing −5.0bn. Marketplace margin about 45.7% → 47.5%. Duoduo Maicai: profit per item turned positive in 2024. Drivers: Meituan Youxuan's exit (June and December 2025; share 62%), supplier fees (take rate 8% → 13%) and density. Open question: press puts Maicai GMV near RMB 300bn with 60%+ growth from July 2025, against Visible Alpha's 255bn (+17%). If the press is right, the model understates Maicai.
 - 2026-11-23 — Management and culture review (Claude Doc) at Paul's request, from Huang's essays, letters and interviews, the FY2025 20-F (Items 6–7) and calls Q1 2025–Q3 2026. Desk findings: Huang is sole director of the PDD Partnership's holding vehicle (6.5%) as well as settlor of the trust (24.7%, votes entrusted to the board); the Partnership's nomination rights are not yet in force (fewer than five limited partners); Zhao's stake incl. awards is about a fifth of Chen Lei's; staff 25,474 (RMB 17m revenue per head); the FY2025 20-F reports the April 2026 RMB 1.5bn fine and that PDD 'accepted the penalty' but does not mention the obstruction finding; a separate Jan 2026 tax-office fine for late merchant tax data (Xinhua). Proposed (not Paul's): Q1 bear lean supported; Q2 toward bear; Q4 clear bear; long-investment scenario deserves more than tail weight.
 - 2026-11-23 — /thesis-writeup → [[Thesis]] and Claude Doc. Inputs: primer v1.3, debate, base rates, scuttlebutt, Layers, model v2.1, drivers note, management review, notes on the RMB 100bn programme (千亿扶持, launched 3 Apr 2025, >RMB 100bn of cash and traffic over three years, led by Zhao), supply-chain capabilities (orchestrated, not owned; PP&E 1.3bn → 6.4bn) and product quality (activity verified, results unproven: 网经社 H1 2026 PDD #2 consumer complaints and #1 merchant complaints; Black Cat reply rate 70–80% H1, <20% in July; SAMR 2025 online sampling failure 19.1% industry-wide). Proposed changes: Q2 to Balanced; new Q6–Q9. Scenario weights 25/30/15/30 (proposed). Price US$83.68 (20 Nov close); today's quote not retrieved.
+- 2026-11-23 — /desk-dd → [[DD]]. Corrected HNTE catalyst date (renewal visible in Shanghai 2027 lists, Oct–Dec 2027); added Baillie Gifford Q4 13F as forced-flow catalyst; new policy note [[china-offshore-trust-iit-2026]]. Q6 → ~55% 'Temu supply-chain layer' (proposed); all else unchanged. Blocked: EDGAR direct, Qichacha/Tianyancha pages, CNIPA trademarks.
