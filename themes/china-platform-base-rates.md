@@ -155,3 +155,6 @@ Traffic alone is not enough (Paipai, Laiwang), and merchants keep their main sto
 6. NBD, "发改委：引导外卖平台下调服务费", 18 Feb 2022, https://www.nbd.com.cn/articles/2022-02-18/2131018.html
 7. 36Kr, on Meituan's fee measures, 2 Mar 2022, https://www.36kr.com/p/1637620540388357
 8. Chengdu Business Daily via China News, on the commission per order, 22 Feb 2022, https://www.chinanews.com.cn/cj/2022/02-22/9682589.shtml
+
+## Evidence log
+- 2026-11-23 — [[PDD]] thesis: base rates 'posted fee rises get reversed' and 'uncooperative firms get retaliation' carried into the take-rate driver (+3bp a year) and the state-slice scenario (US$178 vs base US$197). Repair template not yet complete: Zhao kept both roles after the April 2026 personal fine.

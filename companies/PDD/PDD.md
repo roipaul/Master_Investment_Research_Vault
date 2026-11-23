@@ -6,10 +6,10 @@ exchange: NASDAQ (ADS; 1 ADS = 4 ordinary shares)
 sector: China and global e-commerce (Pinduoduo, Temu)
 stage: triage          # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict: "Triage: Dig (proposed 2026-11-20, awaiting Paul)"
+verdict: "Thesis: business Inconclusive; price check Stretch (proposed 2026-11-23, awaiting Paul). Triage Dig also proposed."
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
-price_check: "US$86.05 intraday 09:45 ET 2026-11-19 (+11.1%); pre-print close US$77.45 on 2026-11-18"
+price_check: "US$83.68 close 2026-11-20 (model v2.1 price; StockAnalysis/Yahoo)"
 conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
@@ -17,7 +17,7 @@ held: no               # yes once a buy is recorded in Decisions.md
 awaiting: "Paul (2026-11-22): cannot confirm the thesis yet; wants more research first. Still open: earnings-update FY2026-Q3 (proposed Intact / Wait), triage (proposed Dig), and Paul's own 2-3 sentence view as the baseline"
 updated: 2026-11-23
 data_through: FY2026-Q3
-next_checkpoint: "Paul confirms triage and Q3 calls; then /thesis-debate PDD. Q4/FY2026 results about late March 2027 (online marketing vs +5% base; S&M ratio; tax rate); FY2026 20-F about April 2027 (HNTE status)"
+next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
 catalysts:
   - date: "2027-04 (e)"
@@ -44,18 +44,18 @@ steps:                 # date each step last ran
   dd:
   scuttlebutt: 2026-11-22
   views:
-  writeup:
+  writeup: 2026-11-23
   decision:
   update: 2026-11-20
 ---
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-23 — Management and culture review (Claude Doc, at Paul's request). The operating philosophy is Huang's 2018–21 creed, almost unchanged: win on price by pooling demand, reinvest everything, ignore the share price, disclose little, police merchants with hard rules. The founding team (Chen Lei, Zhao Jiazhen) still runs it. Grades: strategy and cost discipline strong; capital allocation for outside holders weak by design; dealings with staff and regulators weak, improving since the April 2026 SAMR decision (RMB 1.52bn fine, the only platform of seven named for obstruction; Zhao fined personally and kept both roles). Thesis read (proposals, not sign-off): supports a bear lean on Q1, pushes Q2 from Balanced toward bear, clear bear on Q4 cash. The book-based debate proposals, Q3 update, triage and debate verdicts all await Paul.
+**Latest:** 2026-11-23 — Thesis written ([[Thesis]]; living Claude Doc https://claude.ai/artifact/WH56ArMKqURKv8WUWdxfgt). Proposed: business Inconclusive, price check Stretch. At US$83.68 (~8x 2026E, ~3.5x ex-cash) the return to end-2029 is about 0% / 7% / 12% a year (conservative / long investment / base) at 8x and 8% / 15% / 20% at 10x; weighted ~7% at 8x, ~15% at 10x. The price ≈ conservative value with cash at zero (US$81). Q2 moved to Balanced; Q6 New Pinmu added. All verdicts await Paul.
 
 ## Thesis in one paragraph
 
-Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: business model, history, advantages, outlook and valuation; what PDD is investing in and the runway of the advertising business) and is not yet in the vault.
+2026-11-23 (proposed): PDD runs China's lowest-cost marketplace, an advertising toll on unbranded supply with a ~47% marketplace margin on almost no capital, plus a profitable Duoduo Maicai and a loss-making Temu. At ~8x 2026E (≈3.5x ex-cash) the price assumes flat earnings and cash that never returns. Earnings can compound 7–12% a year to 2029 if Temu reaches breakeven, but two RMB 100bn programmes and an 'investment phase' with no end date mean the gap closes only if management lets profit show. The cash is excluded; clearing 15% needs a re-rating to ~10x plus near-base execution. See [[Thesis]].
 
 ## Critical questions
 
@@ -88,6 +88,7 @@ Not written. Earlier work is in Paul's claude.ai Project chats (Oct 2026: busine
 - `files/PDD_Holdings_PDD_Primer_Full_v1.3.docx` and `.pdf` — primer v1.3: Temu table on one basis and a reconciliation subsection in 4.5; correction appended to [[Primer]], 2026-11-23
 - Drivers note (Claude Doc), 2026-11-23: what is driving each business's turn (Temu per order, the domestic take rate, the Q3 2026 profit bridge, the marketplace margin, Duoduo Maicai per item). Living copy: https://claude.ai/artifact/YDe7QCpxZZoog1zYHzWLAt
 - Management and culture review (Claude Doc), 2026-11-23: Huang's philosophy in his own words, a drawn timeline of key choices 2015–2026, behaviour in crises, culture, capital allocation, ownership/pay/control, thesis implications and IR questions. Living copy: https://claude.ai/artifact/XwGfds8GW3WpT8MgvyM13X
+- [[Thesis]] — investment thesis, 2026-11-23 (proposed: Inconclusive / Stretch); living Claude Doc https://claude.ai/artifact/WH56ArMKqURKv8WUWdxfgt
 - [[china-platform-base-rates]] (theme) — base rates from the five China-internet books, applied to Q1–Q5, own brands, Temu and governance, with proposed verdict changes and tracking items, 2026-11-23
 
 ## Links
@@ -112,3 +113,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-23 — Temu reconciliation (Paul's question). Visible Alpha averages each line and period across different brokers, so the lines don't add up: quarterly 2025 Temu revenue less costs is −23.7bn against an operating line of −19.7bn. Most of the gap is overhead allocation (Temu G&A and other 18.2bn vs 12.5bn, group G&A+R&D 23.1bn). The annual 2026 column (−10.9bn) is stale: it needs a Q4 profit. UBS (Sep 2025) has 2024 −32bn and 2025 −50bn, which implies domestic margins of 56% and 52%. Its 2026E needs 9M domestic profit down about 7bn, which the results don't support. The quarterly series gives 9M 2026 domestic profit +7.7bn (+9%), which is plausible. The 20-F's PRC/non-PRC pre-tax split does not isolate Temu: overseas entities were in profit in 2023–24, so the losses are booked mainly in China (inference). Model v2.1: Temu history on the quarterly basis; Q4'26 Temu −4.3bn; 2026 marketplace margin 47.5%; Temu cost per order +US$0.10 on the same pace. Values unchanged; split sensitivity under US$0.2. Primer v1.3.
 - 2026-11-23 — Drivers note (Claude Doc) at Paul's request. Temu: loss per order is about −US$1.19 in 2026E, from −6.86 in 2023. Cost per order fell from US$20.7 to 13.2 (US ad cuts after de minimis; shipping moved to sellers) while revenue per order fell to 12.0 as the take rate dropped to 26%. Domestic take rate: down year on year for six quarters (fee relief), +19bp in Q3 2026 to 4.50%. Q3 2026 profit bridge: +6.1bn, of which sales and marketing −5.0bn. Marketplace margin about 45.7% → 47.5%. Duoduo Maicai: profit per item turned positive in 2024. Drivers: Meituan Youxuan's exit (June and December 2025; share 62%), supplier fees (take rate 8% → 13%) and density. Open question: press puts Maicai GMV near RMB 300bn with 60%+ growth from July 2025, against Visible Alpha's 255bn (+17%). If the press is right, the model understates Maicai.
 - 2026-11-23 — Management and culture review (Claude Doc) at Paul's request, from Huang's essays, letters and interviews, the FY2025 20-F (Items 6–7) and calls Q1 2025–Q3 2026. Desk findings: Huang is sole director of the PDD Partnership's holding vehicle (6.5%) as well as settlor of the trust (24.7%, votes entrusted to the board); the Partnership's nomination rights are not yet in force (fewer than five limited partners); Zhao's stake incl. awards is about a fifth of Chen Lei's; staff 25,474 (RMB 17m revenue per head); the FY2025 20-F reports the April 2026 RMB 1.5bn fine and that PDD 'accepted the penalty' but does not mention the obstruction finding; a separate Jan 2026 tax-office fine for late merchant tax data (Xinhua). Proposed (not Paul's): Q1 bear lean supported; Q2 toward bear; Q4 clear bear; long-investment scenario deserves more than tail weight.
+- 2026-11-23 — /thesis-writeup → [[Thesis]] and Claude Doc. Inputs: primer v1.3, debate, base rates, scuttlebutt, Layers, model v2.1, drivers note, management review, notes on the RMB 100bn programme (千亿扶持, launched 3 Apr 2025, >RMB 100bn of cash and traffic over three years, led by Zhao), supply-chain capabilities (orchestrated, not owned; PP&E 1.3bn → 6.4bn) and product quality (activity verified, results unproven: 网经社 H1 2026 PDD #2 consumer complaints and #1 merchant complaints; Black Cat reply rate 70–80% H1, <20% in July; SAMR 2025 online sampling failure 19.1% industry-wide). Proposed changes: Q2 to Balanced; new Q6–Q9. Scenario weights 25/30/15/30 (proposed). Price US$83.68 (20 Nov close); today's quote not retrieved.
