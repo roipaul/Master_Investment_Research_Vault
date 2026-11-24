@@ -13,7 +13,7 @@ price_check: "US$83.68 close 2026-11-20 (model v2.2 price; StockAnalysis/Yahoo).
 conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
-held: no               # yes once a buy is recorded in Decisions.md
+held: no               # pre-commitment recorded 2026-11-24; no position
 awaiting: "Paul: merchant calls (Q1 take rate), Temu-seller and factory calls (Q2/Q6), IR call; sign-off still open on debate verdicts, scenario weights and earnings-update Q3 call"
 updated: 2026-11-24
 data_through: FY2026-Q3
@@ -57,7 +57,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-24 — Primer v1.4 and a dated thesis update fold in the evidence work: the Q3 take-rate step looks like fewer refunds (one-off, laps Q3 2027); a 15% tax-deduction cap on ad spend limits ad intensity; PDD roughly holds share while Taobao loses; 2026 'other' loss is mostly fines and EU proceedings; governance checks slightly better than feared. Thesis call Intact; Inconclusive / Stretch (proposed) stands; on model v2.2 the price assumes ~0.6% growth and a ~20% chance capital is returned, and our central view returns 14.6% against the 15% hurdle. Paul's sign-off: Dig; bull lean.
+**Latest:** 2026-11-24 — Paul recorded a **pre-commitment, not buying yet** ([[Decisions]]): four pillars (earnings floor, spending peaks, cash preserved then returned, our claim intact) and drawdown triggers; review at the Q4 call, late March 2027. Earlier today: primer v1.4 and thesis update (Intact; Inconclusive / Stretch proposed; central view 14.6% vs 15% hurdle).
 
 ## Thesis in one paragraph
 
@@ -135,3 +135,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
   - **2026 "other" loss (−RMB 9.5bn over 9M):** probably not the portfolio; fines explain about RMB 3bn of Q2's 7.4bn; the rest is unexplained. Ask IR.
 - 2026-11-24 — Model v2.2 (files/PDD_Financial_Model_2026-11-24_v2.2.xlsx): adds two tabs. **Range of outcomes**: what the price implies at each cash credit, nine scenarios to end-2029 (bear −13% a year to bull-plus-return +35%), and return grids by growth × exit P/E. **Price slider**: one bear-to-bull bar per key question, marking what the price assumes (earning the 10.4% RMB cost of equity, the other questions held at the central view), what 15% needs, and the central view. At US$83.68: the price assumes operating-earnings growth of ~0.6% a year (needs 6.6%, central 6%), a ~20% chance capital is returned (needs 37%, central 35%), and a 7.7x exit P/E ex cash (needs 9.1x, central 9x). Central view returns 14.6% a year, just under the hurdle. The central-view inputs (6%, 9x, 35%) are not signed off.
 - 2026-11-24 — Sell-side check logged in [[DD]] addendum (3) (Bernstein and CLSA via Paul's logins; summaries only). /full-primer v1.4: files/PDD_Holdings_PDD_Primer_Full_v1.4.docx/.pdf (63 pages, 85 sources); revision appended to [[Primer]]. [[Thesis]] update appended: call Intact; re-scores proposed: Q1 bear ~60% with confidence up to Low–Medium (Q3 step from fewer refunds, laps Q3 2027; tax-deduction cap); Q5 confidence down to Low–Medium; others unchanged. New tracking: Q3 2027 lap, merchant refund metrics, FY2026 20-F (other loss, contra-revenue, Pujiang HK, equity book), EU obstruction decision, NBS online goods, Bemuvo.
+- 2026-11-24 — /decision-record: pre-commitment, no position. Paul's words: "Bull lean, needs more digging; price looks good on the surface." Four pillars and drawdown triggers accepted as drafted; capital-return evidence deadline FY2027 results (~Mar 2028); review at the Q4 2026 call (late Mar 2027). No frame on file yet (needed before an initiate). Thesis at b81d408.
