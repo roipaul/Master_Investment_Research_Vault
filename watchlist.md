@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 # Watchlist
@@ -20,3 +20,4 @@ Gate verdicts and Defers. One line per entry, newest at the bottom.
 | 2026-11-19 | Tencent (0700-HK) | Earnings-update: fresh money Wait (confirmed) | Evidence: Q4 ex-AI operating margin at or above 41% with the AI drag at or below RMB 15bn, and an FY2026 buyback of at least HK$50bn or a stated 2027 figure (FY2026 results, about 2027-03-18). Price: about HK$285 for the conservative case to clear 15% | — | 2027-03-18 |
 | 2026-11-19 | JD.com (JD) | Earnings-update: fresh money Wait (confirmed) | Evidence: a Q4 New Businesses loss at or below RMB 9bn with a 2027 budget, and an annual dividend of at least US$1.00 per ADS with repurchases resumed (Q4/FY2026 results, about early March 2027). Price: about US$21 for the conservative case to clear 15% | — | 2027-03-05 |
 | 2026-11-20 | PDD Holdings (PDD) | Triage: Dig (proposed); earnings-update fresh money Wait (proposed) | Framing/duration: market reads the 2024-26 investment phase as a permanent margin reset while online marketing re-accelerates (+12% in Q3). Wait evidence: Q4 online marketing ≥10% and S&M ≤26% of revenue (late Mar 2027), HNTE confirmed in FY2026 20-F. Price: about US$53 for the conservative case to clear 15% | 35 | 2027-03-31 |
+| 2026-11-24 | Tencent Music (TME) | Watch: monitor (Paul, 2026-11-24); fresh money Wait | Evidence unchanged: Q4 organic membership flat or better and year-end paying users of 125m or more (FY2026 results, about mid-March 2027); also ByteDance/Soda licence renewals and whether TME keeps up its free-tier response. Price: about US$8.30 for the probability-weighted case (30/50/20) to clear 15%; US$8.10 for the conservative case | — | 2027-03-17 |
