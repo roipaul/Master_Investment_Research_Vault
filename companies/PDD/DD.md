@@ -178,3 +178,74 @@ Form 144 notices of intended sale, 2023–2026 (units are ADS, judging by value 
   - Q2 −RMB 7.4bn, which the company calls overseas, ≈ the EU DSA fine of €200m (about RMB 1.55bn, 28 May 2026) plus a possible accrual for the EU foreign-subsidies inspection obstruction case. Preliminary findings came on 31 Jul 2026; the maximum is 1% of turnover, about RMB 4.3bn.
   - That totals about RMB 5.9bn, leaving about RMB 1.5bn unexplained.
 - **To confirm:** the Commission's final decision on obstruction (public); the FY2026 20-F contingencies note; ask IR.
+
+## Addendum 2026-11-24 (3): sell-side check (Bernstein, CLSA via Paul's logins)
+
+Summaries only. Report text is not copied here.
+
+**Reports read:**
+- Bernstein: upgrade to Outperform (22 Nov 2026, PT US$110); Q3 quick take (20 Nov); Q2 (25 Aug); Q1 (28 May); Q4 2025 (26 Mar); industry note on ad-tax deductions (31 Oct 2025).
+- CLSA: Q3 (20 Nov 2026, O-PF, PT US$127); Q2 (25 Aug); Double-11 highlights (17 Nov).
+
+**1. Take rate**
+- **Bernstein, estimated domestic all-in take rate:**
+
+  | Quarter | Take rate | Y/y |
+  |---|---|---|
+  | Q4 2025 | 5.1% | down from 5.2% |
+  | Q1 2026 | ~5.1% | flat (ad take rate implied −20–30 bp) |
+  | Q2 2026 | ~5.0% | −20 bp |
+  | Q3 2026 | ~4.9% | +10 bp, the first y/y rise in nine quarters |
+
+- **Bernstein channel checks on domestic GMV growth:** double-digit in Q1 2026, high-single-digit in Q2, high-single-digit to 10% in Q3. In Q3, ad revenue growth of 12.1% beat that GMV feedback.
+- **Bernstein 2027 model:** GMV up high single digits, take rate flat.
+- **Accounting change (Bernstein):**
+  - Q2: industry contacts said PDD had begun booking some marketing costs contra-revenue.
+  - Upgrade note: lower S&M partly reflects "domestic accounting changes".
+  - (Inference) This may tie to the April 2026 switch from refund red packets to direct billing exemption. It depresses reported ad revenue and S&M equally and does not change profit. Unconfirmed; ask IR.
+- **CLSA Q2:**
+  - Domestic take rate (ads plus commission) down ~0.5 pt y/y to 5.1%.
+  - Attributed to merchant support and the new tax-deduction rule, which reduced incentives for very high ad spending.
+  - CLSA's trailing-12-month GMV series is much higher than others: domestic GMV growth in the low teens in Q2 2026.
+
+**2. New structural point: ad spend tax-deduction cap**
+- Per Bernstein, a 4 Jul 2025 SAMR implementation note caps tax deduction of online traffic-acquisition spend at 15% of revenue (30% for cosmetics, beverages and pharma).
+- Bernstein's view:
+  - Performance ads are hit hardest, and white-label merchants are more exposed.
+  - Industry ad growth takes a 2–5% hit, front-loaded into 2026.
+- **For Q1 (inference):** merchants spending 15–50% of sales on ads (the scuttlebutt range) now pay tax on the excess. That raises their after-tax break-even ROAS and is a soft cap on ad intensity. The ROAS tracker should flag rows with ad spend above 15% of sales.
+
+**3. Refund rates**
+- CLSA's Double-11 2026 expert said return rates generally fell in 2026, helped by fewer pre-orders, more in-stock selling and tighter livestream oversight.
+- Apparel returns are about 30%, against past peaks of 50–60%.
+- This is consistent with the fewer-refunds explanation of the Q3 take-rate step (industry-wide, not PDD-specific).
+
+**4. "Other" loss and the equity portfolio**
+- **Neither broker explains it.**
+  - Bernstein called the Q2 RMB 7.4bn "unexplained".
+  - In Q1, Bernstein flagged net interest and investment expense of RMB 632m against RMB 436bn of net cash.
+- (Inference) The Q1 swing in the interest and investment line (normal is about RMB 5–6bn a quarter) is likely mark-to-market on the RMB 66bn equity portfolio. Q2 interest and investment income was RMB 13.5bn (+30% y/y); Q3 was RMB 5.4bn, "relatively normal". So the portfolio moves quarterly profit by several RMB bn either way.
+- CLSA models other income of −RMB 9.43bn in 2026 and zero thereafter, i.e. it treats the loss as one-off.
+- Nothing from either broker on the portfolio's holdings.
+
+**5. Market share (CLSA Double-11 2026 expert call)**
+- Industry GMV about +5% (Syntun +4.8%).
+- Douyin +8–10%, the fastest, with shelf commerce about 60% of its sales.
+- PDD up mid single digits; Taobao-Tmall and JD up low single digits (Tmall about +6%; Taobao sellers weaker).
+- Apparel and home goods are where PDD and Douyin pressure the others.
+- This supports the Market share tab's reading: Taobao and JD lose; PDD holds or gains modestly; Douyin gains most.
+
+**6. Temu**
+- **Bernstein:**
+  - Temu GMV about US$92bn in 2026, US$107bn in 2027 and US$120bn in 2028.
+  - Q3 operating loss about US$1bn.
+  - Sensor Tower: EU usage roughly halved since mid-2026, then stabilised.
+- **CLSA:**
+  - Q3 GMV about US$30bn, flat q/q; October MAU −18% y/y.
+  - Shift from full-consignment to semi-consignment after the EU de-minimis removal.
+  - Target of 80% local fulfilment in Europe.
+- Neither addresses how New Pinmu revenue will be booked (gross or net).
+
+**Effect:**
+- **Q1:** the tax cap adds a structural limit on ad intensity (bear point). The fewer-refunds evidence supports a one-off Q3 step. Verdict unchanged (bear lean ~60%, proposed).
+- **GMV estimates for Q3 2026 vary widely:** CLSA low teens (Q2), Bernstein HSD–10%, Visible Alpha 7.5%, NBS online goods 1.8%. The Cross-check range should reflect this.
