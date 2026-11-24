@@ -14,6 +14,10 @@ conservative_return:   # at the price above (owned by /variant-view)
 base_return:           # at the price above (owned by /variant-view)
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
+list: watch            # none | watch | buy (set only by /decision-record)
+buy_price:
+entry_level: "About US$8.30 probability-weighted, US$8.10 conservative, to clear 15% (2026-11-24)"
+alert:
 awaiting:
 fresh_money: "Wait at US$9.45, 2026-11-17 (confirmed 2026-11-19); evidence: Q4 organic membership flat or better and year-end paying users of 125m or more (FY2026 results, about mid-March 2027); price alternative about US$8.10 for the conservative case to clear 15%"
 updated: 2026-11-24
@@ -77,3 +81,4 @@ Peers: NetEase Cloud Music (9899.HK), Spotify, ByteDance (Soda Music, Douyin), X
 - 2026-11-19 — Read-across from parent [[0700-HK]] Q3 2026: Tencent's social networks revenue −1% YoY, fee-based VAS subscriptions 253m (−5% YoY), ad market "weak for several months", payments value per transaction still falling — consistent with TME's organic membership slip and ad weakness. Tencent's marketing GM fell 4pts partly on mini-drama content costs, a new content line competing for the same Weixin attention.
 - 2026-11-19 — Sign-off: Paul confirmed thesis Weakened (provisional baseline) and fresh money Wait for FY2026-Q3. Added to the watchlist.
 - 2026-11-24 — Paul: put on the watchlist to monitor. Reading notes added: lessons point to erosion of the paid core rather than collapse; probability-weighted (30/50/20) return about 10% a year at US$9.45; 15% at about US$8.30. Fresh money Wait unchanged. Revisit at FY2026 results (about 2027-03-17).
+- 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.

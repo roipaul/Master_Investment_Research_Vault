@@ -14,6 +14,10 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
+list: watch            # none | watch | buy (set only by /decision-record)
+buy_price:
+entry_level: "About US$142 for a 20% base-case return (earnings-update FY2027-Q3, 2026-11-18)"
+alert:
 awaiting:
 fresh_money: "Wait at $162.94, 2026-11-18 (evidence: 10-Q, BIS rule, 2027 capex guides and Q4 FY27; price about $142 for a 20% base-case return)"
 updated: 2026-11-18
@@ -77,3 +81,4 @@ Provisional; no debate has been run, so there are no probabilities.
 - 2026-11-18 — Hub created (new company). earnings-update FY2027-Q3 run on a provisional baseline (no thesis on file). Proposed: thesis Intact; fresh money Wait. Cycle set to Late cycle.
 - 2026-11-18 — Addendum to [[earnings/FY2027-Q3]] from the full call transcript (Paul's upload). Calls unchanged.
 - 2026-11-18 — Sign-off: Paul confirmed thesis Intact (provisional) and fresh money Wait. Added to the watchlist.
+- 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.

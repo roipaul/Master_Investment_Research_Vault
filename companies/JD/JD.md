@@ -14,6 +14,10 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
+list: watch            # none | watch | buy (set only by /decision-record)
+buy_price:
+entry_level: "About US$21 for the conservative case to clear 15% (2026-11-19)"
+alert:
 awaiting: "baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
 fresh_money: "Wait at US$25.43, 2026-11-17 (confirmed 2026-11-19); evidence: a Q4 New Businesses loss at or below RMB 9bn with a 2027 budget, and an annual dividend of at least US$1.00 per ADS with repurchases resumed (Q4/FY2026 results, about early March 2027); price alternative about US$21 for the conservative case to clear 15%"
 updated: 2026-11-19
@@ -73,3 +77,4 @@ Peers (read every period): Alibaba, PDD Holdings, [[3690-HK]] (Meituan); bellwet
 - 2026-11-19 — /earnings-update FY2026-Q3 (proposed, earnings watch): thesis Intact against a provisional baseline; fresh money Wait at US$25.43. CIK 0001549802. Peers Alibaba and PDD report 2026-11-19, Meituan 2026-11-27: addendum due by 2026-11-28. No Thesis.md to append to.
 - 2026-11-19 — Sign-off: Paul confirmed thesis Intact (provisional baseline) and fresh money Wait for FY2026-Q3. Added to the watchlist.
 - 2026-11-20 — Read-across from [[PDD]] and Alibaba September-quarter results (both 2026-11-19): Alibaba customer management revenue -5% reported, +1% like for like, quick-commerce losses cut "significantly" with a plan to halve them next year; PDD online marketing +12%, stays out of instant retail. Feeds the JD FY2026-Q3 addendum due by 2026-11-28 (Meituan 2026-11-27 still to come).
+- 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.

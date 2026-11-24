@@ -5,7 +5,24 @@ updated: 2026-11-24
 
 # Watchlist
 
-Gate verdicts and Defers. One line per entry, newest at the bottom.
+Two parts. **Current watchlist** is the list as it stands: names Paul has decided to watch, with what is still needed before he sets a buy price. It is rebuilt from the hubs (`list: watch`) whenever `/decision-record` changes it. A name leaves it for the buy list ([[buylist]]) when Paul sets a buy price, or leaves it with `/decision-record TICKER unlist`. **Log** below keeps every gate verdict, Defer and confirmed Wait, and is never rewritten.
+
+## Current watchlist
+
+| Ticker | Company | On list since | Basis | Work still missing before a buy price | Reference entry level (Claude's, not a buy price) | Revisit |
+|---|---|---|---|---|---|---|
+| [[NVDA]] | NVIDIA | 2026-11-18 | Fresh money Wait (confirmed) | No primer, frame, debate or thesis; provisional baseline only | About US$142 for a 20% base-case return (earnings-update FY2027-Q3) | 2026-12-15 |
+| [[TME]] | Tencent Music | 2026-11-24 | Watch: monitor (Paul) | No triage, frame or thesis since the primer | About US$8.30 probability-weighted; US$8.10 conservative (2026-11-24) | 2027-03-17 |
+| [[0700-HK]] | Tencent | 2026-11-19 | Fresh money Wait (confirmed) | No triage, frame or thesis since the primer refresh | About HK$285 for the conservative case to clear 15% (2026-11-19) | 2027-03-18 |
+| [[JD]] | JD.com | 2026-11-19 | Fresh money Wait (confirmed) | No primer, frame or thesis in the vault; provisional baseline only | About US$21 for the conservative case to clear 15% (2026-11-19) | 2027-03-05 |
+| [[PDD]] | PDD Holdings | 2026-11-24 | Pre-commitment, not buying yet (Paul, [[PDD/Decisions]]) | No frame; merchant, seller and IR calls open; debate sign-off open | About US$53 for the conservative case to clear 15% (2026-11-20); central view 14.6% at US$83.68 | 2027-03-31 |
+| SK Square (402340.KS) | SK Square | 2026-11-15 | Gate: Watch (confirmed) | No hub or primer; trigger is the holding discount above 55% or a hard fall in Hynix | — | 2027-03-31 |
+
+Carried over on 2026-11-24 from the confirmed entries in the log below. Fiserv is held, so it sits in [[overview]] under Held, not here.
+
+## Log
+
+Gate verdicts, Defers and confirmed Waits. One line per entry, newest at the bottom.
 
 | Date | Company | Verdict | Edge hypothesis or trigger | Coverage count | Revisit date |
 |---|---|---|---|---|---|

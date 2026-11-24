@@ -14,6 +14,15 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
+list: none             # none | watch | buy (set only by /decision-record)
+buy_price:             # Paul's buy price, local currency, e.g. "US$70.00" (list: buy only)
+buy_action:            # initiate | add
+buy_basis:             # Paul's words on what the buy price earns
+buy_set:               # date the buy price was set or last changed
+buy_review_by:         # date the buy price must be re-confirmed
+entry_level:           # Claude's reference price where the case clears the hurdle, with case and date
+alert:                 # armed | near | triggered <date> | paused (written by the price watch)
+catalysts: []
 awaiting:              # what is waiting on Paul, if anything
 updated:
 data_through:          # latest reported period the notes reflect
