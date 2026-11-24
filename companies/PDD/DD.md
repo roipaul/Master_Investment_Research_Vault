@@ -249,3 +249,8 @@ Summaries only. Report text is not copied here.
 **Effect:**
 - **Q1:** the tax cap adds a structural limit on ad intensity (bear point). The fewer-refunds evidence supports a one-off Q3 step. Verdict unchanged (bear lean ~60%, proposed).
 - **GMV estimates for Q3 2026 vary widely:** CLSA low teens (Q2), Bernstein HSD–10%, Visible Alpha 7.5%, NBS online goods 1.8%. The Cross-check range should reflect this.
+
+**IR questions added (24 Nov 2026):**
+1. From which quarter, and on what amount, has PDD booked merchant-related marketing costs (for example, ad-fee exemptions on refunded orders) as a reduction of online-marketing revenue rather than S&M? What would Q2–Q3 2026 online-marketing growth have been on the old basis?
+2. What made up "other income/(loss), net" in Q1–Q3 2026 (fines, provisions, FX, other), and how much relates to EU proceedings?
+3. Split of the RMB 66bn listed-equity portfolio by market and by in-house versus external management; is there a policy on its size?
