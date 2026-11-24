@@ -4,9 +4,9 @@ ticker: PDD
 name: PDD Holdings Inc.
 exchange: NASDAQ (ADS; 1 ADS = 4 ordinary shares)
 sector: China and global e-commerce (Pinduoduo, Temu)
-stage: triage          # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
+stage: evidence          # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict: "Thesis: business Inconclusive; price check Stretch (proposed 2026-11-23, awaiting Paul). Triage Dig also proposed."
+verdict: "Triage: Dig (Paul, 2026-11-24). Thesis: bull lean, needs more digging (Paul, 2026-11-24); Claude's proposed Inconclusive / Stretch stands as the counterpoint. Price: attractive on the surface (Paul)."
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "US$83.68 close 2026-11-20 (model v2.1 price; StockAnalysis/Yahoo)"
@@ -14,7 +14,7 @@ conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
-awaiting: "Paul (2026-11-22): cannot confirm the thesis yet; wants more research first. Still open: earnings-update FY2026-Q3 (proposed Intact / Wait), triage (proposed Dig), and Paul's own 2-3 sentence view as the baseline"
+awaiting: "Paul: merchant calls (Q1 take rate), Temu-seller and factory calls (Q2/Q6), IR call; sign-off still open on debate verdicts, scenario weights and earnings-update Q3 call"
 updated: 2026-11-23
 data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
@@ -57,7 +57,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-23 — Desk DD ([[DD]]): the 15% tax test is late 2027 (Shanghai HNTE lists), not the April 2027 20-F; New Pinmu near term is an export-services and settlement layer for Temu sellers (朴动, RMB 5bn) plus a ~100-person buyout pilot for export (鸿乔, RMB 10bn), no domestic sales yet; Fufeitong licence renewed long-term, still controlled by Chen Lei; Huang's trust unchanged at 1,409.7m shares, offshore-trust tax exposure probably limited. Debate verdicts unchanged except Q6 leans 'Temu supply-chain layer' ~55% (proposed). Thesis still Inconclusive / Stretch (proposed, awaiting Paul).
+**Latest:** 2026-11-24 — Paul signed off triage **Dig**. His view: the thesis is a **bull lean** that needs more digging, and the price is good on the surface. Claude's proposed Inconclusive / Stretch remains the counterpoint. Next: test merchants' reliance on marketing services (Q1), then the people calls.
 
 ## Thesis in one paragraph
 
@@ -123,3 +123,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-23 — /thesis-writeup → [[Thesis]] and Claude Doc. Inputs: primer v1.3, debate, base rates, scuttlebutt, Layers, model v2.1, drivers note, management review, notes on the RMB 100bn programme (千亿扶持, launched 3 Apr 2025, >RMB 100bn of cash and traffic over three years, led by Zhao), supply-chain capabilities (orchestrated, not owned; PP&E 1.3bn → 6.4bn) and product quality (activity verified, results unproven: 网经社 H1 2026 PDD #2 consumer complaints and #1 merchant complaints; Black Cat reply rate 70–80% H1, <20% in July; SAMR 2025 online sampling failure 19.1% industry-wide). Proposed changes: Q2 to Balanced; new Q6–Q9. Scenario weights 25/30/15/30 (proposed). Price US$83.68 (20 Nov close); today's quote not retrieved.
 - 2026-11-23 — /desk-dd → [[DD]]. Corrected HNTE catalyst date (renewal visible in Shanghai 2027 lists, Oct–Dec 2027); added Baillie Gifford Q4 13F as forced-flow catalyst; new policy note [[china-offshore-trust-iit-2026]]. Q6 → ~55% 'Temu supply-chain layer' (proposed); all else unchanged. Blocked: EDGAR direct, Qichacha/Tianyancha pages, CNIPA trademarks.
 - 2026-11-24 — [[DD]] addendum (registry/SEC via Paul's browser): Huang's trust last filed a 13G/A on 18 Mar 2021, nothing since; Form 144s 2023–26 show only plan-share sales (Zheng Zhenwei US$20.4m, Zhao ~US$12.4m, Xiao US$7.0m), none by Chen Lei or Huang; New Pinmu entities 100% owned by Pujiang Hong Kong Limited (not in FY2025 20-F), paid-in undisclosed, 朴动 contribution due by 2031; 鸿乔 holds 239 trademarks incl. first brand Bemuvo (registered 21 Nov 2026) and a licence that allows domestic online retail. Verdicts unchanged.
+- 2026-11-24 — Paul's sign-off: triage Dig; thesis bull lean, needs more digging; price attractive on the surface. Stage → evidence. Claude drafted hypotheses on merchant reliance on marketing services (Q1) for testing.

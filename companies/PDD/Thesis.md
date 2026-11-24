@@ -51,3 +51,6 @@ Business verdict still Inconclusive: both critical questions near even on Low co
 3. New Pinmu inventory + prepayments > RMB 30bn by end-2027, or domestic own-brand selling against merchants.
 4. HNTE not renewed, or a second case naming PDD for obstruction or fee limits.
 5. Transaction services keep falling in 2027 with no rise in group margin.
+
+## Paul's view (2026-11-24)
+Triage Dig confirmed. Thesis: bull lean, needs more digging. Price looks good on the surface. (Claude's proposed Inconclusive / Stretch above is kept as the counterpoint.)
