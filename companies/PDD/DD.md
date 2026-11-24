@@ -62,3 +62,58 @@ Scope run today: desk steps 1 (New Pinmu), 2 (15% high-tech tax status), 3 (Huan
 - **Factories approached for buyout (2–3):** order size, prepayment %, who designs, return/markdown terms, brand ownership.
 - **PDD IR:** split of the RMB 15bn between 鸿乔 and 朴动 activity; whether New Pinmu will sell domestically; Fufeitong buy-in timing.
 - **Wait:** Q4 13F (mid-Feb 2027) for Baillie Gifford's remaining sale; Q4 results (late Mar 2027); FY2026 20-F (Apr 2027) for New Pinmu balance-sheet lines; Shanghai 2027 HNTE lists (Oct–Dec 2027).
+
+---
+
+## Addendum 2026-11-24 — registry, trademark and SEC checks (Paul's browser)
+
+Sources: SEC EDGAR submissions index for PDD (CIK 1737806) and Form 144 filings; Qichacha (企查查) pages, which relay the national enterprise credit system and CNIPA trademark data. Baidu Aiqicha asked for a CAPTCHA and was not used.
+
+### 5. Huang's trust has filed nothing since March 2021 (fact)
+- The last Schedule 13G/A by Zheng Huang / his trust is dated 18 Mar 2021. No 13D/13G filing by him or the trust since, so no reportable change in 5½ years.
+- Other 13G filers since then: Banyan Partners (6.36% Feb 2022 → 4.42% Feb 2023), SCC Growth IV (Sequoia China, 1.3%, Feb 2023), BlackRock (1.9% Jul 2023; 2.4% Oct 2024).
+- A pledge would not by itself need a 13G amendment; check the FY2026 20-F ownership footnotes.
+
+### 6. Insider sales are small and come only from plan shares (fact; reading = inference)
+Form 144 notices of intended sale, 2023–2026 (units are ADS, judging by value per unit); every one is stock acquired under the share incentive plan:
+
+| Seller | Notices | ADS | Value (US$m) | Latest |
+|---|---|---|---|---|
+| Zheng Zhenwei (SVP) | 1 | 170,101 | 20.4 | Mar 2024 |
+| Zhao Jiazhen (co-CEO) | 6 | ~110,000 | 12.4 | Sep 2025 (40,000 ADS, 5.1) |
+| Xiao Junyun (SVP) | 1 | 49,000 | 7.0 | Dec 2023 |
+| Liu Jun (VP finance) | 3 | ~29,600 | 2.9 | Dec 2023 |
+| Directors Kam, Rietjens | 9 | small | ~1.5 | Sep 2026 |
+
+- No notice from Chen Lei or Huang.
+- (Inference) Zhao's notices total about 7% of his 1.55m beneficially owned ADS; no sign of stress or of insiders cashing out.
+
+### 7. New Pinmu: the registry confirms two tracks (fact; reading = inference)
+| | 上海新拼姆鸿乔电子商务 | 上海新拼姆朴动电子商务 |
+|---|---|---|
+| Founded | 2 Feb 2026 | 3 Feb 2026 |
+| Registered capital | RMB 10bn | RMB 5bn |
+| Paid-in | not disclosed | not disclosed; contribution due by 28 Jan 2031 |
+| Owner | 100% Pujiang Hong Kong Limited (foreign-owned, outside the VIE) | 100% Pujiang Hong Kong Limited |
+| Officers | Zhao Jiazhen (director, legal rep), 朱政 (supervisor), 黄晶晶 (finance head) | same three |
+| Location | Changning (天山路688号) | Lujiazui, Shanghai FTZ |
+| Business scope | Broad retail and wholesale incl. domestic online sales, food, apparel, home, cosmetics, pet, baby, appliances, jewellery; warehousing; **brand management** | Import/export agency, freight forwarding, **customs declaration**, procurement agency, trade brokerage |
+| Trademarks | 239 | 0 |
+
+- **Trademarks:** mostly defensive filings of "拼姆" (filed 26 Mar 2026) and "拼姆计划" (filed 29 Apr 2026) across nearly all 45 classes, registered Sep–Nov 2026. One Latin-script brand, **Bemuvo / BEMUVO**, filed in Oct 2026, with a first registration on 21 Nov 2026: likely the first export consumer brand (inference). Trademark transfers into 鸿乔 recorded on 18 Nov 2026. The full list is behind a login.
+- **Reading (inference):** 朴动 is the export-services and settlement company Temu sellers signed with; 鸿乔 is the brand and buyout company. 鸿乔's licence allows domestic online retail, so the option to sell at home exists even though the company says it is not used now.
+- **Capital:** the registry does not show paid-in capital, so "RMB 15bn cash injected" is the company's statement, not verified. The 2031 contribution deadline means the registered RMB 15bn need not all be paid quickly.
+- **Pujiang Hong Kong Limited** is not named in the FY2025 20-F; check the FY2026 subsidiary list (Exhibit 8.1).
+- Five unrelated small companies registered "新拼姆" names in Apr–Jul 2026 (Yiwu, Fujian, Foshan, Guangzhou, Zhongshan): name-squatters, noise for scuttlebutt.
+
+### 8. Fufeitong chain (fact)
+- 上海易翼信息科技 (Fufeitong's 93.89% owner): legal representative and executive director Chen Lei, supervisor Zheng Zhenwei, registered capital RMB 500m. Chen Lei also holds a role at 宁波合忻股权投资合伙企业 (Ningbo Hexin), consistent with the 20-F's chain. Yiyi's own shareholders not opened.
+
+### Effect on the debate
+- Governance: slightly better than feared. No founder or CEO selling, no trust filings, modest plan-share sales.
+- Q6 New Pinmu: unchanged at ~55% "Temu supply-chain layer", but note the domestic-retail option in 鸿乔's licence and the first brand (Bemuvo).
+- Overall: unchanged (Inconclusive / Stretch, proposed).
+
+### Still blocked
+- Paid-in capital, change records and the full trademark list (Qichacha login).
+- Pujiang Hong Kong Limited (HK Companies Registry search is paid).
