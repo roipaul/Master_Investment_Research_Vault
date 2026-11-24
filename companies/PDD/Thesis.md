@@ -2,7 +2,7 @@
 type: document
 doc: thesis
 tickers: [PDD]
-updated: 2026-11-23
+updated: 2026-11-24
 data_through: "Q3 2026 results (2026-11-19)"
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%, FY2026 non-GAAP op margin >=27%, 'investment phase' wording); FY2026 20-F about April 2027 (HNTE end date, New Pinmu inventory and prepayments, PFIC, cash location)"
 sources: [skill:thesis-writeup]
@@ -54,3 +54,83 @@ Business verdict still Inconclusive: both critical questions near even on Low co
 
 ## Paul's view (2026-11-24)
 Triage Dig confirmed. Thesis: bull lean, needs more digging. Price looks good on the surface. (Claude's proposed Inconclusive / Stretch above is kept as the counterpoint.)
+
+## Update — 2026-11-24: evidence work since the write-up
+
+Inputs: [[DD]] addenda (1)–(3), the ROAS tracker and its Market share tab (Claude Sheet), Bernstein and CLSA notes (Paul's logins; summarised), [[Primer]] v1.4, model v2.2 (`files/PDD_Financial_Model_2026-11-24_v2.2.xlsx`). Price unchanged at US$83.68 (20 Nov close). Re-scores are proposals; Paul has not signed them off.
+
+**Call: Intact, not strengthened.** The new evidence explains the Q3 step better, but it does not settle either critical question. Business verdict still Inconclusive; price check still Stretch, now measured: the central view returns 14.6% a year against the 15% hurdle.
+
+### What changed
+1. **The Q3 take-rate step is most likely fewer refunds, not higher bids.**
+   - Online marketing grew 12.1% in Q3 2026, against about 3.5% in Q2.
+   - Every ad-fee refund rule since Aug 2024 widened the exemption. Refund-only was scaled back from 1 Aug 2026, and industry return rates fell in 2026 (CLSA).
+   - Fewer refunded orders means fewer exempted fees, so the take rate rose by about 2–4% without merchants bidding more (inference).
+   - That is healthy, but it is a one-off step that laps in Q3 2027.
+2. **A structural limit on ad intensity.**
+   - Since July 2025, only ad spend up to 15% of a merchant's revenue is tax-deductible (per Bernstein).
+   - Merchants spending 15–50% of sales on ads (the scuttlebutt range) now pay tax on the excess, which lifts their break-even return.
+   - This is a soft ceiling on the take rate: a bear point for Q1.
+3. **GMV is not the problem; the market is.**
+   - Brokers' Q3 GMV checks: high single digits to 10% (Bernstein), low teens (CLSA, Q2), 7.5% (Visible Alpha). Official online goods growth was 1.8%, and −3.6% in October.
+   - On the share table, PDD roughly held share in 2025 while Taobao lost and Douyin gained.
+   - Douyin's gains come mainly from Taobao; the JD part is unknown.
+   - Q5 confidence lowered to Low–Medium; the lean is unchanged.
+4. **Reported ad revenue may be understated.** Bernstein flags that some marketing costs are now booked as a reduction of revenue. If so, reported online marketing growth understates the underlying take rate, and profit is unchanged. Unconfirmed; it is IR question 1.
+5. **Regulatory costs are now in the earnings line.** The 2026 "other" loss of RMB 9.5bn is mostly fines and EU proceedings (reconstruction: SAMR 1.52bn, EU DSA about 1.55bn, a possible EU obstruction accrual of up to 4.3bn, about 1.5bn unexplained).
+   - The model's CLSA-style treatment, a one-off in 2026, is the base.
+   - A recurring RMB 2–4bn a year of fines is a Q3 (state slice) risk, about 2–4% of profit.
+6. **Capital goes into listed equities, not to shareholders.**
+   - RMB 11.5bn of new money went into the RMB 66bn quoted-equity book in 2025.
+   - The holdings are unidentifiable (no 13F).
+   - Its marks swung quarterly profit by about RMB 6bn in Q1 2026.
+   - This is a small bear point for Q4 (cash return): spare cash is being deployed, just not returned.
+7. **Governance is slightly better than feared.**
+   - The founder's trust has filed nothing since March 2021.
+   - Insider sales are small, all plan shares, with none by Chen Lei or Huang.
+   - New Pinmu sits in two Pujiang Hong Kong-owned companies. The brand company's licence allows domestic online retail, and the first brand, Bemuvo, was registered on 21 Nov 2026. The RMB 15bn paid-in capital is the company's claim; the registry does not confirm it.
+
+### Re-scored questions (proposed)
+| Question | Before | Now | Why |
+|---|---|---|---|
+| Q1 Domestic profit 8–10% a year | Bear ~60%, Low | Bear ~60%, Low–Medium | Q3 step explained as one-off (laps Q3 2027); tax cap limits ad intensity; GMV holding is the offset |
+| Q2 Investment peaks in 2026 | Balanced ~55% | Unchanged | New Pinmu's domestic-retail option and first brand; paid-in capital unverified |
+| Q3 State slice | Balanced ~55%, skewed bear | Unchanged, skewed bear | Fines now visible in the earnings line (about RMB 3bn identified in 2026) |
+| Q4 Cash returned | Clear bear ~65–70% | Unchanged | New cash went to listed equities; no capital-return language |
+| Q5 Douyin | Bull ~60% | Bull ~60%, confidence Low–Medium | PDD roughly holds share; Douyin takes from Taobao |
+| Q6 New Pinmu | ~55% Temu supply-chain layer | Unchanged | Registry shows an export-services company and a brand company |
+
+### Price check: where the price sits (model v2.2, Price slider)
+The slider moves one question at a time, holding the others at the central view (6% growth, 9x exit, 35% chance of capital return; the central view is not signed off). "Priced in" means today's price earns exactly the 10.4% RMB cost of equity.
+
+| Question | Priced in | Needed for 15% | Central view |
+|---|---|---|---|
+| Operating-earnings growth 2027–29, a year | 0.6% | 6.6% | 6.0% |
+| Probability capital is returned | 20% | 37% | 35% |
+| Exit P/E ex cash | 7.7x | 9.1x | 9.0x |
+| Annual return, all at central view | 10.4% | 15.0% | 14.6% |
+
+- The market's doubt is mostly about growth: it prices flat earnings.
+- On the cash, the price is close to our own estimate (about 20% against 35%).
+- To clear 15%, we need either more conviction that capital comes back (37%+) or growth above about 6.6%.
+- Range: about −13% a year (bear: take rate gives back, GMV stalls, cash stays in) to about +35% (10% growth, 10x, capital returned).
+
+### New tracking items
+- **Q3 2027:** online marketing growth against GMV, when the refund step laps. If ad growth falls to GMV growth or below, the step was one-off.
+- **Merchant calls:** the dashboard's 退单率, 退款率 and 退款豁免率 before and after Aug 2026; share of ad spend above 15% of sales.
+- **FY2026 20-F (April 2027):**
+  - the breakdown of the "other" loss and any contingencies;
+  - disclosure of the contra-revenue reclassification;
+  - Pujiang Hong Kong in Exhibit 8.1;
+  - the size of the equity book and any new purchases.
+- **EU:** final decision in the foreign-subsidies obstruction case.
+- **Statistics bureau:** monthly online goods growth (October −3.6%).
+- **Bemuvo:** where it sells, and whether any New Pinmu goods appear on Pinduoduo.
+
+### Falsifiers
+None triggered. #1 (online marketing below +3% for two quarters in 2027 with a falling take rate) is now the one to watch from Q3 2027, when the refund step laps.
+
+### IR questions (from [[DD]])
+1. Since when, and how much, merchant-related marketing cost is booked as a reduction of online marketing revenue; what Q2–Q3 2026 growth would have been on the old basis.
+2. What made up "other income/(loss)" in Q1–Q3 2026, and how much relates to EU proceedings.
+3. The split of the RMB 66bn equity portfolio by market and by in-house versus external management; any policy on its size.

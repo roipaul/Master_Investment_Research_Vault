@@ -9,13 +9,13 @@ track: undecided       # undecided | view | price-alone
 verdict: "Triage: Dig (Paul, 2026-11-24). Thesis: bull lean, needs more digging (Paul, 2026-11-24); Claude's proposed Inconclusive / Stretch stands as the counterpoint. Price: attractive on the surface (Paul)."
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
-price_check: "US$83.68 close 2026-11-20 (model v2.1 price; StockAnalysis/Yahoo)"
+price_check: "US$83.68 close 2026-11-20 (model v2.2 price; StockAnalysis/Yahoo). Central view 14.6% a year to end-2029 vs 15% hurdle (v2.2 Price slider; central view not signed off)"
 conservative_return:   # at the price above
 base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held: no               # yes once a buy is recorded in Decisions.md
 awaiting: "Paul: merchant calls (Q1 take rate), Temu-seller and factory calls (Q2/Q6), IR call; sign-off still open on debate verdicts, scenario weights and earnings-update Q3 call"
-updated: 2026-11-23
+updated: 2026-11-24
 data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
@@ -57,7 +57,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-24 — Paul signed off triage **Dig**. His view: the thesis is a **bull lean** that needs more digging, and the price is good on the surface. Claude's proposed Inconclusive / Stretch remains the counterpoint. Next: test merchants' reliance on marketing services (Q1), then the people calls.
+**Latest:** 2026-11-24 — Primer v1.4 and a dated thesis update fold in the evidence work: the Q3 take-rate step looks like fewer refunds (one-off, laps Q3 2027); a 15% tax-deduction cap on ad spend limits ad intensity; PDD roughly holds share while Taobao loses; 2026 'other' loss is mostly fines and EU proceedings; governance checks slightly better than feared. Thesis call Intact; Inconclusive / Stretch (proposed) stands; on model v2.2 the price assumes ~0.6% growth and a ~20% chance capital is returned, and our central view returns 14.6% against the 15% hurdle. Paul's sign-off: Dig; bull lean.
 
 ## Thesis in one paragraph
 
@@ -92,6 +92,8 @@ steps:                 # date each step last ran
 - `files/PDD_Holdings_PDD_Primer_Full_v1.2.docx` and `.pdf` — primer v1.2 with new Section 4.5 (operating drivers and the four scenarios), 2026-11-23; revision section appended to [[Primer]]
 - `files/PDD_Financial_Model_2026-11-23_v2.1.xlsx` — model v2.1: Temu on one basis (Visible Alpha quarterly), with memo rows for the annual column and UBS and the domestic margin each implies; values unchanged, 2026-11-23
 - `files/PDD_Holdings_PDD_Primer_Full_v1.3.docx` and `.pdf` — primer v1.3: Temu table on one basis and a reconciliation subsection in 4.5; correction appended to [[Primer]], 2026-11-23
+- `files/PDD_Holdings_PDD_Primer_Full_v1.4.docx` and `.pdf` — primer v1.4 (63 pages, 85 sources): ad-fee refund rules, filings and registry check, tax cap on ad spend, growth and share by platform, equity portfolio and "other" loss, new Section 4.6 on broker estimates and what the price implies; revision appended to [[Primer]], 2026-11-24
+- `files/PDD_Financial_Model_2026-11-24_v2.2.xlsx` — model v2.2 with Range of outcomes and Price slider tabs, 2026-11-24
 - Drivers note (Claude Doc), 2026-11-23: what is driving each business's turn (Temu per order, the domestic take rate, the Q3 2026 profit bridge, the marketplace margin, Duoduo Maicai per item). Living copy: https://claude.ai/artifact/YDe7QCpxZZoog1zYHzWLAt
 - Management and culture review (Claude Doc), 2026-11-23: Huang's philosophy in his own words, a drawn timeline of key choices 2015–2026, behaviour in crises, culture, capital allocation, ownership/pay/control, thesis implications and IR questions. Living copy: https://claude.ai/artifact/XwGfds8GW3WpT8MgvyM13X
 - [[DD]] — desk due diligence, 2026-11-23 (New Pinmu, HNTE timing, Huang trust, Fufeitong)
@@ -132,3 +134,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
   - **Equity portfolio:** RMB 66.0bn of Level 1 listed equities (cost 47.2bn); gains go through interest and investment income. No 13F or 13D/G filed by PDD, so the holdings are non-US or externally managed.
   - **2026 "other" loss (−RMB 9.5bn over 9M):** probably not the portfolio; fines explain about RMB 3bn of Q2's 7.4bn; the rest is unexplained. Ask IR.
 - 2026-11-24 — Model v2.2 (files/PDD_Financial_Model_2026-11-24_v2.2.xlsx): adds two tabs. **Range of outcomes**: what the price implies at each cash credit, nine scenarios to end-2029 (bear −13% a year to bull-plus-return +35%), and return grids by growth × exit P/E. **Price slider**: one bear-to-bull bar per key question, marking what the price assumes (earning the 10.4% RMB cost of equity, the other questions held at the central view), what 15% needs, and the central view. At US$83.68: the price assumes operating-earnings growth of ~0.6% a year (needs 6.6%, central 6%), a ~20% chance capital is returned (needs 37%, central 35%), and a 7.7x exit P/E ex cash (needs 9.1x, central 9x). Central view returns 14.6% a year, just under the hurdle. The central-view inputs (6%, 9x, 35%) are not signed off.
+- 2026-11-24 — Sell-side check logged in [[DD]] addendum (3) (Bernstein and CLSA via Paul's logins; summaries only). /full-primer v1.4: files/PDD_Holdings_PDD_Primer_Full_v1.4.docx/.pdf (63 pages, 85 sources); revision appended to [[Primer]]. [[Thesis]] update appended: call Intact; re-scores proposed: Q1 bear ~60% with confidence up to Low–Medium (Q3 step from fewer refunds, laps Q3 2027; tax-deduction cap); Q5 confidence down to Low–Medium; others unchanged. New tracking: Q3 2027 lap, merchant refund metrics, FY2026 20-F (other loss, contra-revenue, Pujiang HK, equity book), EU obstruction decision, NBS online goods, Bemuvo.

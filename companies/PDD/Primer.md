@@ -2,7 +2,7 @@
 type: document
 doc: full-primer
 tickers: [PDD]
-updated: 2026-11-22
+updated: 2026-11-24
 data_through: Q3 2026 (reported 2026-11-19)
 next_checkpoint: "Q4/FY2026 results, about late March 2027 (e)"
 sources: [skill:full-primer]
@@ -1160,3 +1160,214 @@ Domestic margin is group core EBITA less Temu, divided by group revenue less Tem
 - **What the split does change** is the story: when Temu breaks even (2028 to beyond 2030) and how profitable the domestic business is (marketplace margin about 46% to 51% in 2026).
 
 Source added: [65] UBS, 'PDD Holdings: APAC Focus — growth revival', 30 Sep 2025 (user's research folder).
+
+## Revision 2026-11-24 — edition v1.4
+
+Word and PDF: `files/PDD_Holdings_PDD_Primer_Full_v1.4.docx` and `.pdf` (63 pages, 85 sources). Earlier editions and the text above are kept unchanged. Sources [66]–[85] are new; numbers continue the v1.3 list.
+
+**What changed.** Evidence gathered after the thesis write-up, from filings, registries, broker research (Bernstein, CLSA) and official statistics:
+- ad fees on refunded orders: the dated rule changes (Section 1.1);
+- the filings and registry check on the founder's trust, insider sales and the New Pinmu companies (Section 1.1);
+- the tax-deduction cap on advertising, and growth and share by platform (Section 3.1);
+- the equity portfolio and the 2026 "other" loss (Section 4.1);
+- a new Section 4.6: broker estimates of the take rate, GMV and Temu, a cross-check of the Q3 2026 take-rate step, and what the price implies (model v2.2).
+
+**Added passages (v1.4 text).**
+
+### Section 1.1 — How the business model works
+
+**Ad fees on refunded orders (added in v1.4).** Merchants pay for traffic on orders that are later refunded. Since August 2024 PDD has widened the cases in which it gives that fee back. Every dated change below widened the exemption; none narrowed it.
+
+| Date | Change | Source |
+|---|---|---|
+| Before Aug 2024 | Ad fees on orders refunded soon after purchase were not returned | [73] |
+| 26–27 Aug 2024 | Under the 百亿减免 fee-relief programme, ad fees came back as red packets (valid 14 days) for orders fully refunded before shipment and for platform-initiated refunds | [73] |
+| Jan 2025 | Net-deal bidding (净成交出价 / 净目标投产比): unshipped orders refunded within an hour are not billed | [74] |
+| Mar 2025 | Extended to unshipped orders refunded after an hour (red packets) | [74] |
+| Aug 2025 | The company put ad-fee refunds in the first year of 百亿减免 above RMB 10bn, about 5% of 2025 online marketing revenue (computed) | [75] |
+| 2 Sep 2025 | The ad dashboard adds settled GMV, refund-order rate, refund rate and refund-exemption rates | [76] |
+| By Apr 2026 | Refunds before delivery within about 48 hours exempted by reducing the bill directly, not by red packets (secondary; not confirmed by PDD) | [77] |
+| 10 Apr 2026 | Internet platform pricing rules in force: no fees that are not clearly posted; no forced promotions | [39] |
+| 1 Aug 2026 | Refund-only (仅退款) rulings scaled back | [78] |
+
+Online marketing revenue grew about 3.5% year on year in Q2 2026 and 12.1% in Q3 2026 [8][2]. The timing matches the scaling back of refund-only: fewer refunded orders mean fewer exempted fees, so revenue per unit of GMV rises without merchants bidding more (inference). CLSA's Double-11 expert call also reports lower return rates across the industry in 2026, with apparel at about 30% against past peaks of 50–60% [72]. If that is the cause, the step laps in Q3 2027 (inference).
+
+
+### Section 1.1 — Ownership, control and related parties
+
+**Filings and registry check (added in v1.4).**
+
+- **The founder's trust.** The last Schedule 13G/A filed by Zheng Huang or his trust is dated 18 March 2021. No 13D or 13G filing by him or the trust has followed, so there has been no reportable change in five and a half years [80]. A share pledge would not by itself require an amendment.
+- **Insider sales are small and come from plan shares.** Form 144 notices of intended sale from 2023 to 2026 all cover stock acquired under the share incentive plan [80]:
+
+| Seller | Notices | ADS | Value (US$m) | Latest |
+|---|---|---|---|---|
+| Zhenwei Zheng (SVP) | 1 | 170,101 | 20.4 | Mar 2024 |
+| Jiazhen Zhao (co-CEO) | 6 | about 110,000 | 12.4 | Sep 2025 |
+| Junyun Xiao (SVP) | 1 | 49,000 | 7.0 | Dec 2023 |
+| Jun Liu (VP finance) | 3 | about 29,600 | 2.9 | Dec 2023 |
+| Directors Kam and Rietjens | 9 | small | about 1.5 | Sep 2026 |
+
+  There is no notice from Lei Chen or Zheng Huang. Zhao's notices total about 7% of his 1.55m beneficially owned ADS (computed).
+- **The New Pinmu companies.** The registry shows two companies founded in February 2026, both 100% owned by Pujiang Hong Kong Limited, an entity not named in the FY2025 20-F, and both with Jiazhen Zhao as legal representative [81]:
+  - 上海新拼姆鸿乔电子商务 has registered capital of RMB 10bn. Its business scope covers retail and wholesale, including domestic online sales, and brand management. It holds 239 trademarks, mostly defensive filings of 拼姆. One Latin-script brand, Bemuvo, was first registered on 21 November 2026.
+  - 上海新拼姆朴动电子商务 has registered capital of RMB 5bn. Its scope covers import and export agency, freight forwarding and customs declaration. Its contribution is due by January 2031.
+
+  Paid-in capital is not shown, so the RMB 15bn cash injection is the company's statement, not verified [81][4].
+- **Fufeitong's owner.** 上海易翼信息科技 holds 93.89% of Fufeitong. Lei Chen is its legal representative and Zhenwei Zheng its supervisor, which is consistent with the 20-F [81][1].
+
+
+### Section 3.1 — Key industry trends
+
+**8. A cap on the tax deduction for advertising (added in v1.4).** According to Bernstein, a SAMR implementation note of 4 July 2025 caps the tax deduction for online traffic-acquisition spend at 15% of revenue, or 30% for cosmetics, beverages and pharmaceuticals [69]. Spending above the cap is paid out of after-tax profit, which raises the return on ad spend a merchant needs to break even. Bernstein expects performance advertising to be hit hardest, and white-label merchants more than brands. It estimates a 2–5% hit to industry ad growth, front-loaded into 2026 [69]. CLSA links part of the fall in PDD's take rate in Q2 2026 to the same rule [71]. Merchants who spend 15–50% of sales on ads, the range seen in scuttlebutt, are above the cap (inference).
+
+**9. Growth and share by platform, 2024–26 (added in v1.4).** Online sales of physical goods have slowed sharply. Growth by quarter is derived from the statistics bureau's cumulative monthly releases [79]:
+
+| Online retail sales of physical goods | Q3 2025 | Q4 2025 | Q1 2026 | Q2 2026 | Q3 2026 | Oct 2026 |
+|---|---|---|---|---|---|---|
+| Growth, year on year | +7.5% | +2.3% | +7.5% | +2.3% | +1.8% | −3.6% |
+
+Change in share of the five largest platforms' combined GMV, 2024 to 2025. These are estimates on mixed bases: company disclosures where they exist, broker and press estimates where they do not [84]:
+
+| Platform | Share change, 2024 → 2025 |
+|---|---|
+| Taobao and Tmall | −2.1 pts |
+| Douyin | +2.0 pts |
+| Pinduoduo | +0.5 pts at Visible Alpha's 12.2% GMV growth; −0.3 pts at 7.5% |
+| JD | about −0.6 pts (placeholder estimate) |
+| Kuaishou | +0.3 pts |
+
+On these figures Pinduoduo needed about 9.2% GMV growth in 2025 to hold its share [84].
+
+CLSA's Double-11 2026 expert call gives the same order [72]:
+- Industry GMV rose about 5%.
+- Douyin grew fastest, at 8–10%; shelf commerce was about 60% of its sales.
+- Pinduoduo grew by a mid-single-digit rate.
+- Taobao, Tmall and JD grew by low single digits.
+
+Apparel and home goods are where Pinduoduo and Douyin take share from the others [72].
+
+
+### Section 4.1 — Below the operating line
+
+**The equity portfolio and the 2026 "other" loss (added in v1.4).**
+
+- **The portfolio.** At the end of 2025 PDD held RMB 66.0bn of listed equity securities, all quoted (Level 1), at a cost of RMB 47.2bn [1]. A year earlier it held RMB 44.5bn at a cost of RMB 35.7bn, so about RMB 11.5bn of new money went in during 2025 (computed). Fair-value gains were RMB 1.0bn in 2023, 6.8bn in 2024 and 10.4bn in 2025, and they run through interest and investment income, not other income [1].
+- **The holdings are not identifiable.** PDD has never filed a 13F or a 13D/G as a holder [80]. So the holdings are either outside the US or run by outside managers who report them in their own filings (inference).
+- **The portfolio swings quarterly profit.** Interest and investment income was a net expense of RMB 632m in Q1 2026, against roughly RMB 5–6bn in a normal quarter. It was RMB 13.5bn in Q2 and RMB 5.4bn in Q3 [9][8][2][67]. The Q1 swing is most likely mark-to-market on the portfolio (inference).
+- **The "other" loss.** Other income or loss was −RMB 2.0bn in Q1 2026, −7.4bn in Q2 and −0.07bn in Q3 [9][8][2].
+  - Neither the FY2025 20-F nor the releases break it down [1].
+  - The company's only explanation, given with the Q2 results, pointed to losses on overseas non-operating items [82].
+  - Investment income rose in Q2, so the portfolio was not the cause [82].
+  - Known events explain part of it (reconstruction, not disclosed): the SAMR fine of RMB 1.52bn in Q1 [40], and the EU DSA fine of €200m, about RMB 1.55bn, in Q2 [37].
+  - A possible accrual for the EU's foreign-subsidies obstruction case could add more; the maximum fine is 1% of turnover, about RMB 4.3bn [83].
+  - About RMB 1.5bn of Q2 stays unexplained even on that reading.
+  - CLSA models other income at −RMB 9.4bn in 2026 and zero after, treating it as one-off [70].
+
+
+### 4.6 Sell-Side Estimates and What the Price Implies (new in v1.4)
+
+*What this section adds.* PDD does not disclose GMV, its take rate or Temu's results. This section sets out the estimates of the two brokers read for this edition, Bernstein and CLSA [66]–[72]. It then checks the third-quarter step in online marketing revenue against each GMV estimate. It ends with what the share price implies, from model v2.2 [85]. All broker figures are estimates.
+
+#### Domestic Take Rate and GMV
+
+**Bernstein's estimate of the domestic all-in take rate (ads plus commission)** [68][67]:
+
+| Quarter | Take rate | Change, year on year |
+|---|---|---|
+| Q4 2025 | 5.1% | down from 5.2% |
+| Q1 2026 | about 5.1% | flat (ad take rate implied −20 to −30bp) |
+| Q2 2026 | about 5.0% | −20bp |
+| Q3 2026 | about 4.9% | +10bp, the first rise in nine quarters |
+
+**Bernstein's channel checks on domestic GMV growth** [68][67]:
+- Q1 2026: double digits.
+- Q2 2026: high single digits.
+- Q3 2026: high single digits to 10%.
+- Bernstein's 2027 model has GMV up by a high-single-digit rate with the take rate flat [66].
+
+**CLSA** has domestic GMV growing in the low teens in Q2 2026 on a trailing-twelve-month basis. It puts the domestic take rate down about 0.5 points year on year, at 5.1%. It attributes the fall to merchant support and to the tax-deduction cap (Section 3.1) [71].
+
+**An accounting change flagged by Bernstein.** Industry contacts told Bernstein in Q2 2026 that PDD had begun booking some marketing costs as a reduction of revenue rather than as selling expense. Bernstein's upgrade note says lower selling expense partly reflects "domestic accounting changes" [68][66]. Such a change would lower reported online marketing revenue and selling expense by the same amount and leave profit unchanged. PDD has not disclosed it. It may tie to the 2026 switch from red-packet refunds to direct billing reductions (inference; Section 1.1).
+
+#### Cross-Check of the Third-Quarter Step
+
+Online marketing revenue rose 12.1% year on year in Q3 2026, from RMB 53,350m to RMB 59,819m [2]. The change in revenue per unit of GMV that each GMV estimate implies is computed as (1.121 ÷ (1 + GMV growth)) − 1 [84]:
+
+| GMV growth estimate, Q3 2026 | GMV growth | Implied change in ad revenue per unit of GMV |
+|---|---|---|
+| CLSA (Q2 trend) | about 12% | +0.1% |
+| Bernstein channel checks | about 9% | +2.9% |
+| Visible Alpha consensus | 7.5% | +4.3% |
+| CLSA Double-11 expert (industry) | about 5% | +6.8% |
+| Statistics bureau, online goods | 1.8% | +10.2% |
+
+The spread is wide: from almost no take-rate gain, if PDD grew GMV at CLSA's rate, to about +10% if it grew with the market. The higher estimates of PDD's GMV growth do not square with an online goods market growing 1.8% unless PDD took a lot of share (inference).
+
+#### Temu
+
+**Bernstein** [66][67]:
+- Temu GMV of about US$92bn in 2026, US$107bn in 2027 and US$120bn in 2028.
+- A Q3 2026 operating loss of about US$1bn.
+- Sensor Tower data show EU usage roughly halved from mid-2026, then stabilised.
+
+**CLSA** [70]:
+- Q3 GMV of about US$30bn, flat on the quarter; October monthly users down 18% year on year.
+- A shift from fully managed to semi-managed selling after the EU duty change.
+- A target of 80% local fulfilment in Europe.
+
+Neither broker says how New Pinmu's revenue will be booked, gross or net [66][70].
+
+#### Broker Views
+
+- **Bernstein** upgraded PDD to Outperform on 22 November 2026, with a US$110 target [66].
+- **CLSA** rates PDD Outperform with a US$127 target [70].
+- Neither broker explains the 2026 other loss or the holdings of the equity portfolio [67][70].
+
+#### What the Price Implies
+
+Model v2.2 adds two tabs: Range of outcomes and Price slider [85].
+
+- **The earnings base.** Operating earnings are core EBITA after tax, RMB 88.1bn in 2026E. They exclude interest income because surplus cash, about RMB 522bn at 30 September 2026, is valued separately.
+- **The price used.** US$83.68 (20 November 2026 close), about RMB 823bn of market value.
+
+| If the price counts this much of the cash | Implied P/E on 2026E operating earnings | Implied perpetual growth (RMB cost of equity 10.4%) |
+|---|---|---|
+| None | 9.3x | −0.3% |
+| 30% | 7.6x | −2.8% |
+| 50% | 6.4x | −5.3% |
+| All | 3.4x | −18.9% |
+
+The slider moves one question at a time and holds the others at a central view: 6% growth, a 9x exit P/E and a 35% chance that capital is returned. That central view is a proposal and has not been signed off. "Priced in" is the setting at which today's price earns exactly the cost of equity; "needed" is the setting that earns 15% a year to the end of 2029 [85].
+
+| Question | Priced in | Needed for 15% a year | Central view |
+|---|---|---|---|
+| Operating earnings growth, 2027–29, a year | 0.6% | 6.6% | 6.0% |
+| Probability that capital is returned | 20% | 37% | 35% |
+| Exit P/E on 2029E operating earnings, excluding cash | 7.7x | 9.1x | 9.0x |
+| Annual return, all three at the central view | 10.4% | 15.0% | 14.6% |
+
+The scenarios run from about −13% a year (a falling take rate, stalled GMV, cash kept inside) to about +35% (10% growth, a 10x exit and capital returned) [85].
+
+**Sources added.**
+
+66. Bernstein (2026-11-22) — PDD Holdings upgrade to Outperform, target US$110 (user's Bernstein access) — sell-side
+67. Bernstein (2026-11-20) — PDD Holdings Q3 2026 first take (user's Bernstein access) — sell-side
+68. Bernstein (2026-08-25, 2026-05-28, 2026-03-26) — PDD Holdings results notes on Q2 2026, Q1 2026 and Q4 2025 (user's Bernstein access) — sell-side
+69. Bernstein (2025-10-31) — China internet note on the tax deduction cap for online traffic-acquisition spend (user's Bernstein access) — sell-side
+70. CLSA (2026-11-20) — PDD Holdings Q3 2026 results note, Outperform, target US$127 (user's CLSA access) — sell-side
+71. CLSA (2026-08-25) — PDD Holdings Q2 2026 results note (user's CLSA access) — sell-side
+72. CLSA (2026-11-17) — Double-11 2026 highlights, expert call (user's CLSA access) — sell-side
+73. Wallstreetcn and Sina Finance (2024-09-12) — merchant interviews on 百亿减免 and ad-fee red packets for refunded orders — secondary
+74. 电商派 and Sohu (Jan–Mar 2025); 亿邦动力 via Sina Finance (2025-03-17) — net-deal bidding (净成交出价) and the extension of ad-fee exemptions — secondary
+75. Ifeng / 证券市场周刊 (Aug 2025) — report on Q2 2025 results citing ad-fee refunds above RMB 10bn in the first year of 百亿减免 — secondary
+76. Sina Tech (2025-09-02) — Pinduoduo ad dashboard adds settled GMV and refund metrics — secondary
+77. ipseo.net and fuyuan7 trade blogs (May 2026) — 促进净成交高级版 and the 48-hour pre-delivery refund exemption — secondary, not confirmed by PDD
+78. 36Kr (Aug 2026) — Pinduoduo scales back refund-only (仅退款) from 1 Aug 2026 — secondary
+79. National Bureau of Statistics — monthly retail sales releases, online retail sales of physical goods (cumulative), 2024 to October 2026; quarterly growth derived — official statistics
+80. SEC EDGAR — PDD Holdings (CIK 1737806) filings index and full-text search, accessed 24 Nov 2026: Schedule 13G/A by Zheng Huang (18 Mar 2021), other 13G filings, Form 144 notices 2023–26 — regulatory filings
+81. Qichacha (企查查), company pages for 上海新拼姆鸿乔电子商务有限公司, 上海新拼姆朴动电子商务有限公司 and 上海易翼信息科技有限公司 (relaying the national enterprise credit system and CNIPA trademark data), accessed 24 Nov 2026 — registry, secondary relay
+82. 财闻 (2026-08-25) and Huxiu (Aug 2026) — reports on PDD's Q2 2026 results explanation and investment income — secondary
+83. Guosen Securities (2026-08-26) and press reports — EU foreign-subsidies inspection obstruction case against Temu (preliminary findings 31 Jul 2026; maximum fine 1% of turnover) — secondary
+84. PDD merchant ROAS tracker (Claude Sheet, 24 Nov 2026), Market share and Cross-check tabs, built from [2], [57], [66]–[72] and [79] — research workbook
+85. PDD Financial Model v2.2 (2026-11-24), "PDD_Financial_Model_2026-11-24_v2.2.xlsx" (vault files folder), Range of outcomes and Price slider tabs — model
