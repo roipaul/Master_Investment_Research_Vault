@@ -117,3 +117,55 @@ Form 144 notices of intended sale, 2023–2026 (units are ADS, judging by value 
 ### Still blocked
 - Paid-in capital, change records and the full trademark list (Qichacha login).
 - Pujiang Hong Kong Limited (HK Companies Registry search is paid).
+
+## Addendum 2026-11-24 (2): ad-fee refund rules and the "other" loss
+
+### A. How PDD treats ad fees on refunded orders (dated)
+
+| Date | Change | Source |
+|---|---|---|
+| Before Aug 2024 | Ad fees on orders refunded seconds after purchase were not returned | Wallstreetcn merchant interview, Sep 2024 |
+| 26–27 Aug 2024 | Part of 百亿减免: ad fees auto-returned as red packets (valid 14 days) for orders fully refunded before shipment and for platform-initiated refunds | Wallstreetcn / Sina, 12 Sep 2024; maijiaw |
+| Jan 2025 | 净成交出价 / 净目标投产比: orders refunded within 1 hour and unshipped excluded from billing | 电商派; Sohu, Mar 2025 |
+| 14–17 Mar 2025 | Extended to orders refunded after 1 hour but unshipped (red packets) | 亿邦动力 via Sina, 17 Mar 2025 |
+| Aug 2025 | Company-cited figure: ad-fee refunds in the first year of 百亿减免 exceeded RMB 10bn (≈5% of 2025 online-marketing revenue, e) | Ifeng / 证券市场周刊 on Q2 2025 results |
+| 2 Sep 2025 | Ad dashboard adds settled GMV, refund-order rate, refund rate, and refund-exemption rates | Sina Tech, 2 Sep 2025 |
+| By 8 Apr 2026 | 促进净成交高级版 forced on all eligible shops: refunds before delivery within ~48 hours exempted by direct billing reduction, not red packets | Trade/SEO blogs (ipseo.net, fuyuan7), May 2026 — secondary, not confirmed by PDD |
+| 10 Apr 2026 | 互联网平台价格行为规则 in force: no fees not clearly posted; no forced promotions | NDRC / Xinhua, 10 Apr 2026 |
+| 1 Aug 2026 | Refund-only (仅退款) rulings scaled back (see Debate) | 36Kr, Aug 2026 |
+
+**Read (inference):**
+- Every rule change since Aug 2024 widened the exemption. Rules did not tighten.
+- So the expert-note claim (Apr 2026) that smaller ad-fee refunds drive the take rate can only work through fewer refunds, not stingier rules.
+- Timing fits:
+  - Online marketing grew about 3.5% in Q2 2026 and 12.1% in Q3 2026.
+  - Refund-only was scaled back from 1 Aug 2026.
+- Fewer refunded orders mean fewer exempted fees, so the take rate rises without merchants bidding more per stuck order.
+- That is healthier for Q1 than higher bids, but it is a step change that laps in Q3 2027.
+- Size: exemptions ran at about 5% of ad revenue. A one-third fall in refunds would add about 1.5–2% to the take rate (e).
+
+**For merchant calls:** ask for the dashboard's 退单率, 退款率 and 退款豁免率, and how they moved after Aug 2026.
+
+### B. The RMB 66bn equity portfolio and the RMB 9.5bn "other" loss
+
+**What the FY2025 20-F shows (Note 4 and the fair-value table):**
+- Equity securities of RMB 66.0bn at end-2025, all Level 1 (quoted). Cost RMB 47.2bn; unrealised gain RMB 18.8bn.
+- At end-2024: RMB 44.5bn, cost RMB 35.7bn. So about RMB 11.5bn of new cost was added in 2025.
+- Fair-value change: RMB 10.4bn in 2025, 6.8bn in 2024, 1.0bn in 2023.
+- Note 2(h): gains and losses on these investments go through "Interest and investment income, net", not "Other income".
+- Equity-method LP fund stakes are RMB 1.87bn and not material.
+
+**EDGAR check (efts full-text and entity search, 24 Nov 2026):**
+- The only PDD entity on EDGAR is CIK 1737806.
+- PDD has never filed a 13F or a 13D/13G as a holder; every 13D/G under its CIK has PDD as the subject.
+- Inference: the listed equities are either non-US (not 13(f) securities) or run by outside managers who report them in their own 13Fs. The holdings cannot be identified from public filings.
+
+**The 2026 "other" loss is probably not the portfolio:**
+- "Other income, net" was +RMB 2.7–3.1bn a year in 2023–25.
+- In 2026 it was −RMB 2.0bn in Q1, −7.4bn in Q2 and −0.07bn in Q3.
+- Press and brokers link Q2 to fines:
+  - the domestic 幽灵外卖 fine of about RMB 1.52bn (Huxiu);
+  - the EU fine on Temu of about €200m (Guosen, 26 Aug 2026);
+  - Goldman points to "regulatory fines".
+- That leaves roughly RMB 4bn in Q2 and RMB 2bn in Q1 unexplained.
+- Inference: the line now carries regulatory and legal costs, which matter more for normalised earnings than market losses would. Ask IR for the breakdown.
