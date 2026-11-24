@@ -169,3 +169,12 @@ Form 144 notices of intended sale, 2023–2026 (units are ADS, judging by value 
   - Goldman points to "regulatory fines".
 - That leaves roughly RMB 4bn in Q2 and RMB 2bn in Q1 unexplained.
 - Inference: the line now carries regulatory and legal costs, which matter more for normalised earnings than market losses would. Ask IR for the breakdown.
+
+**Follow-up on the "other" loss (24 Nov 2026):**
+- **FY2025 20-F:** Item 5 gives only the total "other net income" (RMB 2,726.9m in 2025, 3,119.8m in 2024) with no breakdown. There is no accounting policy on fines. The litigation note says a possible loss "cannot be made". The FY2025 20-F cannot explain 2026 items; that waits for the FY2026 20-F (Apr 2027).
+- **Company's only explanation:** the Q2 2026 release blamed lower profit on ecosystem investment plus losses on overseas non-operating items (财闻, 25 Aug 2026). Investment income rose RMB 3.08bn y/y in Q2 (Huxiu), so the portfolio was not the cause.
+- **Claude's reconstruction (hypothesis, not disclosed):**
+  - Q1 −RMB 2.0bn ≈ the SAMR 幽灵外卖 fine of RMB 1.52bn (decided April, conduct before Q1 end).
+  - Q2 −RMB 7.4bn, which the company calls overseas, ≈ the EU DSA fine of €200m (about RMB 1.55bn, 28 May 2026) plus a possible accrual for the EU foreign-subsidies inspection obstruction case. Preliminary findings came on 31 Jul 2026; the maximum is 1% of turnover, about RMB 4.3bn.
+  - That totals about RMB 5.9bn, leaving about RMB 1.5bn unexplained.
+- **To confirm:** the Commission's final decision on obstruction (public); the FY2026 20-F contingencies note; ask IR.
