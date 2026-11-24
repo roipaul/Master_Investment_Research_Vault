@@ -31,7 +31,7 @@ Dates marked (e) are estimates from past reporting patterns, not company announc
 | [[000807-SZ]] | Yunnan Aluminium | cninfo / SZSE; company IR (Chinese) | none (primer through Q3 2026) | FY2026 annual: Mar-Apr 2027 (e) | waiting |
 | [[POOL]] | Pool Corporation | EDGAR 8-K item 2.02, CIK 0000945841; company IR | none | Q4 2026: mid-Feb 2027 (e) | ready (backfill #6: Q3 2026, released 2026-10-22) |
 | [[1590-TW]] | Airtac | TWSE MOPS; company IR | none | Q4 2026: Feb-Mar 2027 (e) | ready (backfill #10: Q3 2026, released 2026-10-29) |
-| [[105560-KS]] | KB Financial | DART; EDGAR 6-K, CIK 0001445930; company IR | none | Q4 2026: early Feb 2027 (e) | ready (backfill #2: Q3 2026, released 2026-10-29; profit revised 2026-11-12) |
+| [[105560-KS]] | KB Financial | DART; EDGAR 6-K, CIK 0001445930; kbfg.com (Fact Book and webcast script readable; results deck PDF blocked to the watch) | FY2026-Q3 | Q4/FY2026: early Feb 2027 (e; not announced; FY2025 was 2026-02-05) | done FY2026-Q3, sign-off pending |
 | [[2454-TW]] | MediaTek | TWSE MOPS; company IR | none | Q4 2026: late Jan-early Feb 2027 (e) | ready (backfill #3: Q3 2026, released 2026-10-30) |
 | [[ZTO]] | ZTO Express | EDGAR 6-K, CIK 0001677250; decks at zto.investorroom.com/Investor-Presentations (PDFs blocked to the watch); HKEXnews (2057) | none | Q3 2026: released 2026-11-17 US ET (6-K 0001104659-26-129305), call held 19:30 ET the same evening | awaiting upload: "ZTO 3Q 2026 Corporate Presentation" (English PDF) and "3Q26 Financial Details For Earnings Call" (PDF). Release and full transcript (Motley Fool) already readable. Asked 2026-11-19; next reminder 2026-11-26 |
 | [[3690-HK]] | Meituan | HKEXnews; company IR | none | Q3 2026: 2026-11-27 (HKEX notice of board meeting, 2026-11-17) | waiting |
@@ -66,7 +66,7 @@ Approved by Paul on 2026-11-19. These results came out before `watch_from`, so d
 | # | Ticker | Period | Released | Notes for the run | Done |
 |---|---|---|---|---|---|
 | 1 | [[KSPI]] | 3Q / 9M 2026 | 2026-11-09 | Marketplace GMV guidance cut to about 12% (was about 20%); tenge weakness. 9M interim statements on 6-K of 2026-11-12. Deck on ir.kaspi.kz | done 2026-11-20 |
-| 2 | [[105560-KS]] | Q3 2026 | 2026-10-29 | Use the amended figures: 6-K/A of 2026-11-12 cut Q3 net profit to KRW 1.76tn after regulatory fines (Kookmin Bank, KB Securities). The Motley Fool transcript has gaps: look for a complete one before Step C | |
+| 2 | [[105560-KS]] | Q3 2026 | 2026-10-29 | Use the amended figures: 6-K/A of 2026-11-12 cut Q3 net profit to KRW 1.76tn after regulatory fines (Kookmin Bank, KB Securities). The Motley Fool transcript has gaps: look for a complete one before Step C  done 2026-11-24 |
 | 3 | [[2454-TW]] | Q3 2026 | 2026-10-30 | Q4 guide NT$210-222bn on AI ASIC revenue; US$3.9bn convertible. Company PDF has prepared remarks only; full transcript elsewhere. Read with [[ai-infrastructure-cycle]] and [[NVDA]] | |
 | 4 | [[WCC]] | Q3 2026 | 2026-10-29 | FY26 EPS guide raised to US$18.00-18.50; data centres. Read with [[ai-infrastructure-cycle]] | |
 | 5 | [[FDR-MC]] | 9M 2026 | 2026-10-29 | Guidance narrowed on weak new-pool construction. Run on the same day as POOL; read PNR, HAYW, LESL from "Peers only" | |
