@@ -5,7 +5,7 @@ tickers: [0700-HK]
 updated: 2026-11-24
 data_through: FY2026-Q3 (quarter ended 2026-09-30)
 next_checkpoint: FY2026 results, about 2027-03-18
-sources: [skill:full-primer]
+sources: [skill:full-primer, annual-report-2025, bernstein-2026-11-19, clsa-2026-11-19]
 ---
 
 % Tencent Holdings (0700.HK) — Company Primer
@@ -32,11 +32,11 @@ sources: [skill:full-primer]
 
 ## 1.1 Tencent Holdings (0700.HK) — Company Primer
 
-> **Source limitations.** Tencent's own investor-relations site (static.www.tencent.com, tencent.com) serves a bot-check page to automated readers, so the 2025 Annual Report, the results presentations and the Q3 2026 HKEX announcement could not be read directly. This primer is built from the HKEX results announcements for FY2024, FY2025 and H1 2026 [1][4][9], the quarterly earnings releases [2][5][7][10] and call transcripts [3][6][8]. Four kinds of figure therefore rest on secondary sources and are labelled where they appear: (1) shareholdings of Prosus and of the founder [13][22][23]; (2) corporate history before 2018 [13][14][15]; (3) Q3 2026 cost detail beyond the press release, taken from the call [3]; (4) revenue by geography, which the documents read do not disclose. Directors' pay, the five-year summary and the geographic note in the Annual Report were not read; supplying that PDF would close these gaps.
+> **Source limitations.** Tencent's investor-relations site serves a bot-check page to automated readers, so the results presentations and the Q3 2026 HKEX announcement could not be read directly. This primer is built from the 2025 Annual Report [40] (supplied from Paul's files), the HKEX results announcements for FY2024, FY2025 and H1 2026 [1][4][9], the quarterly earnings releases [2][5][7][10] and call transcripts [3][6][8]. Corporate history before 2018 rests on secondary sources [13][14][15], and some Q3 2026 cost detail comes from the call [3] and from broker results notes [41][42], labelled where used.
 
 ### Company Overview
 
-Tencent is the company behind Weixin (called WeChat outside mainland China), the messaging and services app that 1.45 billion people use each month, and it makes money from that audience in four ways: selling items inside video games, selling advertising, taking small fees on payments and financial products, and renting computing power and software to businesses [2]. It is incorporated in the Cayman Islands, listed in Hong Kong since June 2004 (stock code 700 in Hong Kong dollars and 80700 in renminbi) and headquartered in Shenzhen [1][13]. Ma Huateng (Pony Ma), one of the five founders, is Chairman and CEO; Martin Lau is President, James Mitchell Chief Strategy Officer and John Lo Chief Financial Officer. No succession has been announced. The same four executives have presented results since at least 2018 [3][6][8].
+Tencent is the company behind Weixin (called WeChat outside mainland China), the messaging and services app that 1.45 billion people use each month, and it makes money from that audience in four ways: selling items inside video games, selling advertising, taking small fees on payments and financial products, and renting computing power and software to businesses [2]. It is incorporated in the Cayman Islands, listed in Hong Kong since June 2004 (stock code 700 in Hong Kong dollars and 80700 in renminbi) and headquartered in Shenzhen; it mainly operates in mainland China [1][13][40]. It had 9,120,235,999 shares in issue at the end of 2025 [40]. Ma Huateng (Pony Ma), one of the five founders, is Chairman and CEO; Martin Lau is President, James Mitchell Chief Strategy Officer and John Lo Chief Financial Officer. No succession has been announced. The same four executives have presented results since at least 2018 [3][6][8].
 
 The scale: revenue of RMB 751.8bn in 2025, up 14%, and non-IFRS operating profit of RMB 280.7bn, a 37% margin [1]. The company had 115,849 employees at the end of 2025 [1]. Weixin and WeChat had 1,449m combined monthly active users (MAU) and QQ, the older desktop-era messenger, had 533m mobile MAU at 30 September 2026; paid subscriptions to video, music and other content averaged 253m a day in Q3 2026 [2]. Besides its operating businesses Tencent holds minority stakes in other companies: listed stakes worth RMB 505.4bn at fair value and unlisted stakes carried at RMB 397.2bn at 30 September 2026 [2][3].
 
@@ -201,7 +201,7 @@ The history is thinly covered in the primary documents read; the founding facts 
 - **2021–2023: regulation and the return of capital.** Rules limiting minors to three hours of online games a week took effect in August 2021 [17]. Tencent distributed most of its JD.com stake (about US$16.4bn) to shareholders in December 2021 and most of its Meituan stake (about US$20bn) in November 2022 [19][20]. The People's Bank of China fined Tencent and Tenpay about RMB 2.99bn in July 2023 for past payment-business breaches, closing the fintech rectification [16]. Draft rules in December 2023 proposed limits on in-game spending incentives; Tencent and NetEase shares fell sharply on the day [18]. (The rules were not enacted in that form; approvals have since run at multi-year highs — Part 3.)
 - **2024–2026: buybacks, the US list and AI.** Tencent repurchased HK$112.0bn of shares in 2024 and HK$80.0bn in 2025 [1][9]. The US Department of Defense added Tencent to its Section 1260H list of "Chinese military companies" on 6 January 2025; Tencent called this a mistake and said its business would be unaffected [21]. From 2026 Tencent separated its AI-native businesses for disclosure, raised capital spending sharply, and cut the pace of buybacks [2][6][8].
 
-Prosus, through MIH TC Holdings, held 22.996% after a sale on 17 July 2025 and is reported to hold about 22.8% in mid-2026; it has been selling Tencent shares steadily since 2022 to fund its own buybacks [22][23]. The founder's stake is reported at about 8.5% [13]; this figure was not verified against the 2025 Annual Report.
+**Ownership and pay (31 December 2025).** Prosus (through MIH Internet Holdings B.V., controlled by Naspers) held 2,079,512,000 shares, 22.80%; it has been selling steadily since 2022 to fund its own buybacks [22][40]. Ma Huateng held 804,859,700 shares, 8.82%, through Advance Data Services, including 95,000,000 held through the Ma Huateng Global Foundation [40]. No other holder was above the disclosure threshold. Ma's 2025 pay was RMB 48.5m (salary RMB 7.6m, bonus RMB 39.4m, no share-based pay), up from RMB 45.1m [40]; his stake is worth well over a thousand times his annual pay. The executives below board level are paid mostly in shares: the twelve senior managers other than the CEO received RMB 4.46bn in 2025, of which RMB 3.92bn share-based, and seven of them were above HK$300m each [40]. The five highest-paid individuals (none of them directors) received RMB 7.59bn, including a one-off RMB 4bn share-based charge from restructuring a commercial arrangement at an overseas subsidiary; the top individual was in the HK$3.34bn band [40]. Martin Lau, President, is not a director and his pay is not separately disclosed.
 
 # 2. Company Logistics
 
@@ -268,18 +268,19 @@ No commodity-level procurement detail, named supplier shares or contract expiry 
 
 ## 2.3 Geographic Distribution
 
-The results announcements read do not give revenue by country or region [1][4]. The best proxies:
+The 2025 Annual Report gives revenue by location in the segment note [40]:
 
-| Proxy | FY2023 | FY2024 | FY2025 | 9M 2026 |
-|---------|-----|-----|-----|-----|
-| International games revenue (RMB bn) | — | 58.0 | 77.4 | 56.3 |
-| International games as % of group revenue | — | 8.8% | 10.3% | 9.3% |
-| International games growth, reported | — | — | +33% | — |
-| International games growth, constant currency | — | — | +32% | Q3: −4% |
+| Region | FY2024 revenue (RMB bn) | % | FY2025 revenue (RMB bn) | % | YoY |
+|---------|-----|-----|-----|-----|-----|
+| Chinese Mainland | 595.5 | 90.2% | 662.1 | 88.1% | +11% |
+| Others | 64.8 | 9.8% | 89.6 | 11.9% | +38% |
+| **Total** | **660.3** | **100%** | **751.8** | **100%** | **+14%** |
 
-*Sources: [1][2][5][7][9]. 9M 2026 = 18.8 + 18.6 + 18.9. FY2023 split not in the documents read.*
+*Source: [40], Note 6. Growth computed.*
 
-Adding international cloud and the overseas WeChat and advertising-network revenue (none disclosed separately), mainland China accounts for roughly 85–90% of revenue (estimate, not a disclosed figure). The international portion is almost entirely games from Tencent-controlled studios: Riot (League of Legends, VALORANT) and Supercell (Clash Royale, Clash of Clans, Brawl Stars) are headquartered in the US and Finland, Miniclip in Switzerland and the UK, Digital Extremes in Canada.
+Revenue outside the mainland is mostly international games (RMB 77.4bn in 2025 [1]), plus international cloud and advertising. International games have since slowed: 9M 2026 international games revenue was RMB 56.3bn (18.8 + 18.6 + 18.9) [2][5][7], so the non-mainland share is likely to fall back in 2026.
+
+Assets are less concentrated than revenue. At the end of 2025, operating and other assets were RMB 594.1bn in the mainland and RMB 487.7bn elsewhere; investments were RMB 493.0bn in mainland China and Hong Kong, RMB 130.0bn in North America and RMB 179.0bn in the rest of Asia [40]. The overseas assets are mainly the game studios: Riot (US), Supercell (Finland), Miniclip (Switzerland/UK), Digital Extremes (Canada).
 
 **Regional dynamics.**
 - *Mainland China* drives the platform, advertising, payments and most games revenue. Weixin's user base grows about 2% a year [2].
@@ -495,7 +496,7 @@ Tencent does not decompose revenue into price, volume and mix. For advertising i
 
 *Sources: [1][2][3][5][6][7][8][10].*
 
-**Drivers.** Weixin adds about 30m users a year; growth in usage comes from time spent, which Tencent reports through Video Accounts (+20% a year) and Mini Programs (+20% in 2025) [8]. Subscriptions are declining as long-form video loses ground to short video and micro-dramas. Video Accounts monetisation accelerated in Q3 2026 when impressions grew more than twice as fast as time spent, meaning ad load rose [3]. Cloud accelerated in each quarter of 2026 on AI demand and price increases; WorkBuddy revenue in Q3 was more than five times Q2's and Model-as-a-Service revenue more than tripled quarter on quarter [3]. Deferred revenue at September 2026 was 17% above year-end 2025, supporting recognised games revenue in later quarters [1][2].
+**Drivers.** Weixin adds about 30m users a year; growth in usage comes from time spent, which Tencent reports through Video Accounts (+20% a year) and Mini Programs (+20% in 2025) [8]. Subscriptions are declining as long-form video loses ground to short video and micro-dramas. Video Accounts monetisation accelerated in Q3 2026 when impressions grew more than twice as fast as time spent, meaning ad load rose [3]. Cloud accelerated in each quarter of 2026 on AI demand and price increases; WorkBuddy revenue in Q3 was more than five times Q2's and Model-as-a-Service revenue more than tripled quarter on quarter [3]. Deferred revenue at September 2026 was 17% above year-end 2025, but that comparison is seasonal; against September 2025 it was up only about 5%, which Bernstein reads as a 4–5% fall in games cash billings in Q3 2026, reflecting high Delta Force and Supercell comparisons [1][2][41].
 
 ### Profitability KPIs
 
@@ -517,9 +518,9 @@ Tencent does not decompose revenue into price, volume and mix. For advertising i
 | | Q3'25 | Q4'25 | Q1'26 | Q2'26 | Q3'26 |
 |---------|-----|-----|-----|-----|-----|
 | Gross margin — group | 56% | 56% | 57% | 58% | 56% |
-| Gross margin — VAS | 61% (d) | 60% | — | 64% | 64% |
-| Gross margin — Marketing services | 56% (d) | 60% | — | 57% | 52% |
-| Gross margin — FBS | 50% (d) | 51% | — | 52% | 50% |
+| Gross margin — VAS | 61.2% | 59.5% | 62.6% | 63.9% | 64.1% |
+| Gross margin — Marketing services | 56.7% | 59.7% | 55.0% | 57.3% | 52.4% |
+| Gross margin — FBS | 50.2% | 50.7% | 52.1% | 52.1% | 49.6% |
 | Non-IFRS operating profit (RMB bn) | 72.6 | 69.5 | 75.6 | 75.6 | 68.1 |
 | Non-IFRS operating margin | 38% | 36% | 38.5% | 37% | 33% |
 | Non-IFRS op. profit excl. new AI products (RMB bn) | — | — | 84.4 | 86.1 | 83.3 |
@@ -530,13 +531,13 @@ Tencent does not decompose revenue into price, volume and mix. For advertising i
 | Non-IFRS diluted EPS (RMB) | 7.575 | 6.966 | 7.364 | 7.433 | 7.227 |
 | — YoY | +18% | +18% | — | +9% | −5% |
 
-*Sources: [1][2][3][4][5][7][10]. (d) = derived from the YoY changes management gave on the Q3 2026 call [3]. Q1'26 segment margins were not in the documents read.*
+*Sources: [1][2][3][4][5][7][10]; segment gross margins to one decimal from segment gross profit tables as compiled by CLSA [42], consistent with the company's rounded figures.*
 
 **What moved margins.**
 
 *2023–2025: mix and cost discipline.* Group gross margin rose 8 points in two years. In VAS the driver was internally developed games growing faster than licensed ones; in advertising, Video Accounts and AI targeting raising price on owned traffic; in FBS, exiting low-margin cloud projects and the growth of wealth management [1][8][9]. Headcount grew 10% while revenue grew 23% over the two years [1][9]. Non-IFRS operating margin rose from 31.5% to 37.3%.
 
-*2026: the core held up, the AI line widened.* Excluding new AI products, operating margin was 43.0% and 42% in Q1 and Q2 2026, up about 3 points year on year, then 40% in Q3, flat year on year [2][5][7]. Management attributed the Q3 pressure to weak consumption affecting fintech and advertising, mini-drama start-up content costs, and higher memory (DRAM) prices absorbed by existing products, and said these pressures would last "the next few quarters" [3]. VAS margin kept rising (64%, +3 points) on in-house games; advertising margin fell 4 points to 52% on AI infrastructure and mini-drama content costs [3]. The new-AI-products loss grew from RMB 8.8bn to RMB 15.2bn (derived), so reported non-IFRS operating margin fell to 33%, down 5 points [2][3]. Operating expenses in Q3 2026: R&D RMB 32.4bn (+42%), selling and marketing RMB 12.1bn (+6%), G&A excluding R&D RMB 11.7bn (+2%) [3].
+*2026: the core held up, the AI line widened.* Excluding new AI products, operating margin was 43.0% and 42% in Q1 and Q2 2026, up about 3 points year on year, then 40% in Q3, flat year on year [2][5][7]. Management attributed the Q3 pressure to weak consumption affecting fintech and advertising, mini-drama start-up content costs, and higher memory (DRAM) prices absorbed by existing products, and said these pressures would last "the next few quarters" [3]. VAS margin kept rising (64%, +3 points) on in-house games; advertising margin fell 4 points to 52% on AI infrastructure and mini-drama content costs [3]. The new-AI-products loss grew from RMB 8.8bn to RMB 15.2bn (derived), so reported non-IFRS operating margin fell to 33%, down 5 points [2][3]. Operating expenses in Q3 2026: R&D RMB 32.4bn (+42%), selling and marketing RMB 12.1bn (+6%), G&A excluding R&D RMB 11.7bn (+2%) [3]. Bernstein reports bandwidth and server costs of RMB 20.0bn in Q3 2026, up 132%, and non-staff R&D (largely compute) up 152% [41].
 
 *AI spending before the new disclosure.* On the Q4 2025 call management said it spent RMB 18bn on Hunyuan and Yuanbao in 2025 (RMB 7bn in Q4), excluding AI work on existing products and GPUs supplied to cloud customers, and expected to "more than double" investment in new AI products in 2026 [8][12]. This figure is investment spending and not directly comparable with the 2026 operating-loss measure.
 
@@ -602,7 +603,7 @@ The gap between IFRS and non-IFRS operating profit was RMB 39.1bn in 2025 (280.7
 
 **1. Two sets of profit numbers, and the gap is widening.** From 2026 the company invites readers to look at operating profit "excluding new AI products". That figure grew 17%, 19% and 8% in the first three quarters of 2026; reported non-IFRS operating profit grew 9%, 9% and −6% [2][5][7]. The difference — the derived AI-products drag of RMB 34.5bn over nine months — is a management-defined carve-out; the allocation of shared infrastructure and staff between "core" and "new AI products" is not audited or explained in the documents read.
 
-**2. Capital intensity has changed.** Accrual capex was RMB 23.9bn in 2023, under 4% of revenue [9]. In the first nine months of 2026 it was RMB 166.1bn, 27% of revenue [2][5][7]. Management describes cash capex of about RMB 65bn a quarter as the peak, holding through 2027 [3]. Depreciation follows with a lag: depreciation of PP&E, investment properties and right-of-use assets was RMB 32.8bn in all of 2025 and RMB 11.2bn in Q2 2026 alone [1][4].
+**2. Capital intensity has changed.** Accrual capex was RMB 23.9bn in 2023, under 4% of revenue [9]. In the first nine months of 2026 it was RMB 166.1bn, 27% of revenue [2][5][7]. Management describes cash capex of about RMB 65bn a quarter as the peak, holding through 2027 [3]. On top of capex, Bernstein reports a further RMB 86bn of compute prepayments booked in Q3 2026 [41]. Depreciation follows with a lag: depreciation of PP&E, investment properties and right-of-use assets was RMB 32.8bn in all of 2025 and RMB 11.2bn in Q2 2026 alone [1][4].
 
 **3. The investment portfolio is large relative to the operating business and moves IFRS earnings.** Listed and unlisted stakes totalled RMB 902.6bn at September 2026 [2]. Fair-value swings and disposals pass through IFRS profit and the share of associates, which is why Tencent and most analysts use non-IFRS figures.
 
@@ -677,6 +678,7 @@ Tencent does not give numerical revenue, margin or capex guidance [3][6]. Manage
 | Core profit pressure | Weak consumption, mini-drama costs and DRAM costs for "the next few quarters" | Nov 2026 [3] | Ex-AI margin 40%, flat YoY |
 | Advertising 2027 | "More upside than downside risk"; no base-effect pressure expected | Nov 2026 [3] | Q3 +19% |
 | International games | Return to premium, upfront-sales games "next year" | Nov 2026 [3] | Q3 −4% cc |
+| WorkBuddy revenue | More than US$500m annualised run-rate (first disclosure; a weekly run-rate) | Nov 2026 [41][42] | Q3 revenue >5x Q2 |
 | Xiaowei | Clarity on monetisation in 6–12 months; cost at full rollout below Yuanbao's early-2026 run-rate; could add "10% or 20%" to Weixin revenue | Nov 2026 [3] | 30m DAU |
 | AI payback | Timing uncertain; "no one knows" | Nov 2026 [3] | — |
 | Capital return | Lower buybacks than 2025, higher dividend; allocation "dynamic" | Mar and Aug 2026 [6][8] | Buybacks HK$31.5bn 9M; DPS +18% |
@@ -742,4 +744,7 @@ Tencent does not give numerical revenue, margin or capex guidance [3][6]. Manage
 37. Kuaishou Technology, Fourth Quarter and Full Year 2025 Financial Results, 2026-03-25 — earnings release
 38. Alibaba Group, September Quarter 2026 Results, reported by StockAnalysis, 2026-11-19 — press summary of earnings release (secondary)
 39. Bloomberg, "TikTok Owner ByteDance on Track for $50 Billion Profit in 2025", 2025-12-19 — press (secondary)
+40. Tencent Holdings, Annual Report 2025 (HKEX), April 2026 — annual report (copy from Paul's research folder)
+41. Bernstein (Robin Zhu et al.), "Tencent Q3: Peak capex", 2026-11-19 — broker results note (secondary)
+42. CLSA (Elinor Leung), "Tencent: Step-up in AI investment", 2026-11-19 — broker results note (secondary)
 
