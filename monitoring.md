@@ -40,7 +40,7 @@ Dates marked (e) are estimates from past reporting patterns, not company announc
 | [[0268-HK]] | Kingdee | HKEXnews; company IR | none | FY2026 annual: mid-late Mar 2027 (e) | waiting |
 | [[0669-HK]] | Techtronic | HKEXnews; company IR | none | FY2026 annual: early Mar 2027 (e) | waiting |
 | [[WCC]] | Wesco | EDGAR 8-K item 2.02 (release ex. 99.1, slides ex. 99.2), CIK 0000929008; investors.wesco.com (10-Q and slides readable) | FY2026-Q3 | Q4/FY2026: 2027-02-09 (stated by the CEO on the Q3 call; not yet on the IR calendar) | done FY2026-Q3, sign-off pending |
-| [[FDR-MC]] | Fluidra | CNMV; company IR | none | FY2026: late Feb 2027 (e) | ready (backfill #5: 9M 2026, released 2026-10-29) |
+| [[FDR-MC]] | Fluidra | CNMV; fluidra.com/investors/quarterly-results (release, deck, APM file and the company's call transcript all readable; full statements only at H1 and FY) | FY2026-Q3 | FY2026: late Feb 2027 (e; not announced; FY2025 was 2026-02-26; the 2026 calendar was filed on 2026-01-12) | done FY2026-Q3, sign-off pending |
 | [[STZ]] | Constellation Brands | EDGAR 8-K item 2.02, CIK 0000016918; company IR | none | Q3 FY2027: early Jan 2027 (e) | ready (backfill #9: Q2 FY2027, released 2026-10-06) |
 | [[UNH]] | UnitedHealth | EDGAR 8-K item 2.02, CIK 0000731766; company IR | none | Q4 2026: mid-Jan 2027 (e) | ready (backfill #7: Q3 2026, released 2026-10-13) |
 | [[AA]] | Alcoa | EDGAR 8-K item 2.02, CIK 0001675149; company IR | none | Q4 2026: mid-Jan 2027 (e) | ready (backfill #8: Q3 2026, released 2026-10-15) |
@@ -69,7 +69,7 @@ Approved by Paul on 2026-11-19. These results came out before `watch_from`, so d
 | 2 | [[105560-KS]] | Q3 2026 | 2026-10-29 | Use the amended figures: 6-K/A of 2026-11-12 cut Q3 net profit to KRW 1.76tn after regulatory fines (Kookmin Bank, KB Securities). The Motley Fool transcript has gaps: look for a complete one before Step C  done 2026-11-24 |
 | 3 | [[2454-TW]] | Q3 2026 | 2026-10-30 | Q4 guide NT$210-222bn on AI ASIC revenue; US$3.9bn convertible. Company PDF has prepared remarks only; full transcript elsewhere. Read with [[ai-infrastructure-cycle]] and [[NVDA]]  paused 2026-11-24: awaiting upload of the Q3 statements |
 | 4 | [[WCC]] | Q3 2026 | 2026-10-29 | FY26 EPS guide raised to US$18.00-18.50; data centres. Read with [[ai-infrastructure-cycle]]  done 2026-11-24 |
-| 5 | [[FDR-MC]] | 9M 2026 | 2026-10-29 | Guidance narrowed on weak new-pool construction. Run on the same day as POOL; read PNR, HAYW, LESL from "Peers only" | |
+| 5 | [[FDR-MC]] | 9M 2026 | 2026-10-29 | Guidance narrowed on weak new-pool construction. Run on the same day as POOL; read PNR, HAYW, LESL from "Peers only" | done 2026-11-25 |
 | 6 | [[POOL]] | Q3 2026 | 2026-10-22 | EPS flat; Team Horner acquisition agreed 2026-11-16. Read with FDR-MC | |
 | 7 | [[UNH]] | Q3 2026 | 2026-10-13 | FY26 adjusted EPS guide raised to at least US$20.50 | |
 | 8 | [[AA]] | Q3 2026 | 2026-10-15 | South32 aluminium assets deal (US$3.1bn) heading to close in H1 2027. Read with [[000807-SZ]] primer | |
