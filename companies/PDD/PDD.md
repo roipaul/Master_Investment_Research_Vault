@@ -5,21 +5,21 @@ name: PDD Holdings Inc.
 exchange: NASDAQ (ADS; 1 ADS = 4 ordinary shares)
 sector: China and global e-commerce (Pinduoduo, Temu)
 stage: evidence          # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
-track: undecided       # undecided | view | price-alone
+track: view                 # undecided | view | price-alone
 verdict: "Triage: Dig (Paul, 2026-11-24). Thesis: bull lean, needs more digging (Paul, 2026-11-24); Claude's proposed Inconclusive / Stretch stands as the counterpoint. Price: attractive on the surface (Paul)."
-zone:                  # price-alone | needs-a-view | pass-on-price
-conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
+zone: needs-a-view         # Discount type; business path alone = pass-on-price (VariantView 2026-11-25)
+conviction: "none adopted; candidates V1 (capital return), V2 (earnings ~6% via share gains)"
 price_check: "US$83.68 close 2026-11-20 (model v2.2 price; StockAnalysis/Yahoo). Central view 14.6% a year to end-2029 vs 15% hurdle (v2.2 Price slider; central view not signed off)"
-conservative_return:   # at the price above
-base_return:           # at the price above
-harsh_case:            # return or loss in the harsh case
+conservative_return: "0-4% a year to end-2029 (flat earnings; cash 0-30%) at US$83.68"
+base_return: "8.5% (6% growth) to 12.7% (model path) with no re-rating, 30% cash; 14.6% central view with 9x and 35% chance of return"
+harsh_case: "-13% a year (cash at zero, -5% growth, 7x); about -6% total at 30% cash credit"
 held: no               # pre-commitment recorded 2026-11-24; no position
 list: watch            # none | watch | buy (set only by /decision-record)
 buy_price:
 entry_level: "About US$53 for the conservative case to clear 15% (2026-11-20)"
 alert:
 awaiting: "Paul: merchant calls (Q1 take rate), Temu-seller and factory calls (Q2/Q6), IR call; sign-off still open on debate verdicts, scenario weights and earnings-update Q3 call"
-updated: 2026-11-24
+updated: 2026-11-25
 data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
@@ -49,11 +49,11 @@ steps:                 # date each step last ran
   abridged:
   triage: 2026-11-20
   model: 2026-11-23
-  frame:
+  frame: 2026-11-25
   debate: 2026-11-22
   dd: 2026-11-23
   scuttlebutt: 2026-11-22
-  views:
+  views: 2026-11-25
   writeup: 2026-11-23
   decision:
   update: 2026-11-20
@@ -61,7 +61,7 @@ steps:                 # date each step last ran
 
 # PDD Holdings Inc. (PDD)
 
-**Latest:** 2026-11-24 — Paul recorded a **pre-commitment, not buying yet** ([[Decisions]]): four pillars (earnings floor, spending peaks, cash preserved then returned, our claim intact) and drawdown triggers; review at the Q4 call, late March 2027. Earlier today: primer v1.4 and thesis update (Intact; Inconclusive / Stretch proposed; central view 14.6% vs 15% hurdle).
+**Latest:** 2026-11-25 — /variant-view build with macro overlay → [[VariantView]]: zone **Needs a view (Discount)**; on the business path alone it is Pass on price (8.5–12.7% a year without re-rating). Covered share 53% (cash 0%) / 73% (30%). Two candidate views for Paul to adopt: V1 capital return by FY2027 results (~35–40% vs ~20% priced); V2 operating earnings ~6% a year via trade-down share gains (cuts-ahead flag). Macro (weak China demand, Fed at 3.75–4%, firm yuan, US–China truce) is an accepted risk, not a separate view. Pre-commitment recorded 2026-11-24.
 
 ## Thesis in one paragraph
 
@@ -81,6 +81,8 @@ steps:                 # date each step last ran
 
 | V# | Claim | Type | Conviction | Last changed | Resolves by | Evidence deadline |
 |---|---|---|---|---|---|---|
+| V1 (candidate) | Capital returned by FY2027 results (~35–40% vs ~20% priced) | Probability (Discount) | not adopted | 2026-11-25 | ~Mar 2028 | Payout signal or smaller equity book by ~Mar 2028 |
+| V2 (candidate) | Operating earnings ~6% a year 2027–29 via share gains (vs ~0–2% priced; cuts ahead) | Magnitude (Duration) | not adopted | 2026-11-25 | ~Mar 2028 | Q3 2027 lap: ad growth ≥ GMV growth |
 
 ## Documents
 
@@ -98,6 +100,7 @@ steps:                 # date each step last ran
 - `files/PDD_Holdings_PDD_Primer_Full_v1.3.docx` and `.pdf` — primer v1.3: Temu table on one basis and a reconciliation subsection in 4.5; correction appended to [[Primer]], 2026-11-23
 - `files/PDD_Holdings_PDD_Primer_Full_v1.4.docx` and `.pdf` — primer v1.4 (63 pages, 85 sources): ad-fee refund rules, filings and registry check, tax cap on ad spend, growth and share by platform, equity portfolio and "other" loss, new Section 4.6 on broker estimates and what the price implies; revision appended to [[Primer]], 2026-11-24
 - `files/PDD_Financial_Model_2026-11-24_v2.2.xlsx` — model v2.2 with Range of outcomes and Price slider tabs, 2026-11-24
+- [[VariantView]] — frame and candidate views with macro overlay, 2026-11-25: Needs a view (Discount); V1 capital return, V2 share-gain growth (candidates)
 - Drivers note (Claude Doc), 2026-11-23: what is driving each business's turn (Temu per order, the domestic take rate, the Q3 2026 profit bridge, the marketplace margin, Duoduo Maicai per item). Living copy: https://claude.ai/artifact/YDe7QCpxZZoog1zYHzWLAt
 - Management and culture review (Claude Doc), 2026-11-23: Huang's philosophy in his own words, a drawn timeline of key choices 2015–2026, behaviour in crises, culture, capital allocation, ownership/pay/control, thesis implications and IR questions. Living copy: https://claude.ai/artifact/XwGfds8GW3WpT8MgvyM13X
 - [[DD]] — desk due diligence, 2026-11-23 (New Pinmu, HNTE timing, Huang trust, Fufeitong)
@@ -141,3 +144,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-24 — Sell-side check logged in [[DD]] addendum (3) (Bernstein and CLSA via Paul's logins; summaries only). /full-primer v1.4: files/PDD_Holdings_PDD_Primer_Full_v1.4.docx/.pdf (63 pages, 85 sources); revision appended to [[Primer]]. [[Thesis]] update appended: call Intact; re-scores proposed: Q1 bear ~60% with confidence up to Low–Medium (Q3 step from fewer refunds, laps Q3 2027; tax-deduction cap); Q5 confidence down to Low–Medium; others unchanged. New tracking: Q3 2027 lap, merchant refund metrics, FY2026 20-F (other loss, contra-revenue, Pujiang HK, equity book), EU obstruction decision, NBS online goods, Bemuvo.
 - 2026-11-24 — /decision-record: pre-commitment, no position. Paul's words: "Bull lean, needs more digging; price looks good on the surface." Four pillars and drawdown triggers accepted as drafted; capital-return evidence deadline FY2027 results (~Mar 2028); review at the Q4 2026 call (late Mar 2027). No frame on file yet (needed before an initiate). Thesis at b81d408.
 - 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.
+- 2026-11-25 — /variant-view build (macro overlay) → [[VariantView]]. Zone Needs a view (Discount); conservative 0–4%, base 8.5–12.7% without re-rating; covered share 53%/73%. Peer test: sector near valuation lows and used as an AI-trade funding source (Citi); peers hold buyback authorisations (Alibaba US$19.1bn, Trip.com 5bn, Baidu 4.8bn, NetEase 2.9bn, JD 1.4bn), PDD none, so the cash discount is company-specific. Macro: China retail +0.4% Oct, online goods +2.9% YTD; Fed 3.75–4% after a Sept hike; yuan ~6.66–6.71; US–China tariff cuts on US$30bn incl. Temu categories. Candidates V1/V2 await Paul's workshop.

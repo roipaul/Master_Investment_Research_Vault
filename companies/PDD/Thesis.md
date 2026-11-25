@@ -134,3 +134,10 @@ None triggered. #1 (online marketing below +3% for two quarters in 2027 with a f
 1. Since when, and how much, merchant-related marketing cost is booked as a reduction of online marketing revenue; what Q2–Q3 2026 growth would have been on the old basis.
 2. What made up "other income/(loss)" in Q1–Q3 2026, and how much relates to EU proceedings.
 3. The split of the RMB 66bn equity portfolio by market and by in-house versus external management; any policy on its size.
+
+### Tracking added by [[VariantView]] (2026-11-25)
+- Peer capital returns (buyback authorisations, payouts) as the base rate for Q4.
+- NBS monthly retail and online goods; the 15th Five-Year Plan household-income measures.
+- US–China truce expiry (January 2027) and any tariff changes on small-parcel categories.
+- Fed path and US 10-year yield (China-ADR required return); USD/CNY (USD returns).
+- Sector re-rating signals: AI-trade rotation; China internet multiples.
