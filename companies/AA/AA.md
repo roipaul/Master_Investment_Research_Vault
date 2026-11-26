@@ -21,6 +21,9 @@ data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results, January 2027 (no date announced): 2027 outlook and supply-demand view, Alumina segment profit at the higher alumina price, Q4 working-capital release, acquisition timetable and the reset net-debt target"
 next_results: "Q4/FY2026: January 2027 (CEO on the Q3 call: 'next update in January'; not announced as of 2026-11-25)"
 cycle: "Aluminium: Rolling over, from Peak in Q2 2026 (London three-month about US$2,780 against a Q3 average of US$3,226; 2027 surplus forecast; exchange stocks still very low). Alumina: Early recovery, from Trough — 2026-11-26 (Claude's read, proposed)"
+cycle_phase: "aluminium: Rolling over; alumina outside China: Early recovery — cycle note [[aluminium]], 2026-11-26 (Claude's read, proposed)"
+mid_cycle_note: 2026-11-26   # over-earning by about 58%: 2026 EBITDA about US$3.0bn (e) against the 2018-2025 average of US$1.9bn
+dial_markets: "earnings: world metal prices and the US Midwest premium, no single market read; listing: us"
 catalysts:
   - date: "H1 2027"
     event: "Acquisition of South32's bauxite, alumina and aluminium assets (AliGroup) expected to close: US$3.1bn cash, about 17.0m shares, up to US$750m contingent; about a dozen regulatory approvals, some received; net-debt target to be reset at closing"
@@ -92,9 +95,10 @@ Not written in the vault yet. Until Paul's earlier work is imported, an earnings
 
 ## Links
 
-Peers (read every period): Norsk Hydro, Rio Tinto, Century Aluminum; South32 until the acquired assets close; Chalco as a China bellwether. In the vault: [[000807-SZ]] (Yunnan Aluminium). Theme: [[aluminium-cycle]].
+Peers (read every period): Norsk Hydro, Rio Tinto, Century Aluminum; South32 until the acquired assets close; Chalco as a China bellwether. In the vault: [[000807-SZ]] (Yunnan Aluminium). Theme: [[aluminium-cycle]]. Cycle note: [[aluminium]] (`cycles/aluminium.md`).
 
 ## Log
 
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
 - 2026-11-26 — `/earnings-update` FY2026-Q3 (backfill; results of 2026-10-15). Proposed: thesis Intact against a provisional baseline (Claude's framing), alumina leg behind; fresh money Wait at US$35.07, on evidence and the cycle. Cycle read: aluminium Rolling over from Peak, alumina Early recovery. Queue note corrected: the South32 assets cost US$4.1bn up front (US$3.1bn is the cash part) plus up to US$750m contingent. Q3 10-Q not opened; addendum due. Read-across written to [[aluminium-cycle]] (new theme note) and logged on [[000807-SZ]]. No Thesis.md to append to.
+- 2026-11-26 — `/cycle-view` (weekly check): cycle note [[aluminium]] built (`cycles/aluminium.md`). Phase Rolling over, the same as the Q3 earnings update. Against mid-cycle: over-earning by about 58% (2026 EBITDA about US$3.0bn (e) against the 2018-2025 average of US$1.9bn; eight years in dollars, not a ten-year margin). Since the Q3 average London three-month has fallen US$467 to US$2,759 (26 November) and alumina FOB Western Australia has risen to US$406. Hub fields added: `cycle_phase`, `mid_cycle_note`, `dial_markets`; `cycle` left as the earnings update wrote it. No verdict, entry level or view changed.
