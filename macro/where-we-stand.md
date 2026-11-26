@@ -9,7 +9,7 @@ sources: [skill:cycle-view]
 
 A view rebuilt by `/cycle-view stand` from the cycle notes in `cycles/`, the market reads in `macro/` and the hubs. Do not edit it by hand: change the notes, not this page. It describes the present. It makes no forecast, and nothing here is Paul's view or a decision.
 
-Built so far: two of three active cycle notes and neither of the two active market reads. The gaps are marked.
+Built so far: all three active cycle notes and neither of the two active market reads. The gaps are marked.
 
 ## 1. The dial, by market
 
@@ -29,7 +29,7 @@ With no dial confirmed, the skills apply their usual tests. A proposal needs two
 |---|---|---|---|---|---|
 | [[aluminium]] | **Rolling over**. Alumina: Trough inside China, Early recovery outside | none (first note; Alcoa's Q3 update read the same) | 2026-11-26 | Shanghai futures 13% below the August high and London three-month below a year ago, while China's social inventories are at a five-year seasonal low (428 kt, 26 Nov). Price and inventories disagree | [[000807-SZ]], [[AA]] |
 | [[us-housing-channel]] | **Downturn to Trough** (a range: the indicators disagree) | none (first note; the pool names' Q3 updates read "Trough, extended") | 2026-11-26 | Existing-home sales 3.75m in October, the lowest since August 2010; single-family permits the lowest since January 2023; 30-year mortgage rate 7.21% against 6.23% a year ago. Repair and remodel spending and big-box comparable sales are flat to slightly up | [[POOL]], [[FDR-MC]], [[0669-HK]]; Pentair has no hub |
-| china-freight-parcel | active, not yet built | | | No earnings update on file for either name | [[YMM]], ZTO |
+| [[china-freight-parcel]] | **Parcels: Rolling over. Road freight: Trough, extended** | none (first note) | 2026-11-26 | National parcel volume -0.5% on the year in October after +5.0% in H1; revenue per parcel still about +2.8% but narrowing. Road freight rate index 104.9, unchanged from a year ago; heavy-truck sales -15.8%. Both names are growing well ahead of their industries | [[YMM]], [[ZTO]] |
 | factory-automation, chips-handsets, china-internet-competition, korea-credit | later | | | | |
 | memory-chip-capex, china-property-credit, oil-energy-shipping, us-consumer-credit (light notes) | later | | | | |
 
@@ -41,6 +41,8 @@ Earnings against mid-cycle, from the notes built:
 | [[000807-SZ]] | Over-earning by about 140% (provisional) | Nine-month 2026 net margin 22.1% against a 2023-2025 average of 9.2%; ten-year margins not on file | [[aluminium]], 2026-11-26 |
 | [[POOL]], [[FDR-MC]] | Under-earning on volume in the discretionary part; not sized | New in-ground pools about 31% below the ten-year average; the companies' sales split and ten-year margins are not on file | [[us-housing-channel]], 2026-11-26 |
 | [[0669-HK]] | Not read | Nothing on file | [[us-housing-channel]], 2026-11-26 |
+| [[YMM]] | About 72% above its three-year average margin; possibly structural | Q3 2026 adjusted operating margin 46.9% against 27.2% for 2023-2025; the primer attributes the rise to mix | [[china-freight-parcel]], 2026-11-26 |
+| [[ZTO]] | Not sized | No margin history on file | [[china-freight-parcel]], 2026-11-26 |
 
 ## 3. What the theses depend on
 
@@ -67,6 +69,7 @@ Cycles at Downturn or Trough in a cycle note, and areas hurt and priced as if pe
 
 - **Chinese alumina refining: Trough** ([[aluminium]], 2026-11-26). The SMM index (RMB 2,640) is below October's average full cost (RMB 2,764) and stocks are building. It is one leg of the aluminium note, not a registered cycle, and no name in the vault is a pure refiner. Whether it is priced as permanent has not been tested.
 - **US housing channel: Downturn to Trough** ([[us-housing-channel]], 2026-11-26). Housing turnover is at a 16-year low and new pools are about 31% below their ten-year average, but the leading data were still falling in October, so a bottom is not confirmed. On the names' earnings updates neither [[POOL]] nor [[FDR-MC]] is priced for a recovery, and neither is priced as if the damage were permanent (19.4 and 13.3 times earnings).
+- **China road freight: Trough, extended** ([[china-freight-parcel]], 2026-11-26). Rates flat for two years, the logistics profit index at 47, truck sales falling. [[YMM]] is the vault's name here and is growing through it; whether its price treats the industry's condition as permanent is not on file (the gate note of 2026-11-13 read a forward P/E of about 10.9 as implying roughly no growth).
 - Hurt-and-priced-as-permanent areas: none listed, because no market read is built.
 
 ## 6. Concentration
@@ -77,6 +80,7 @@ Deep-work names by cycle and by the condition each depends on. Weights are from 
 |---|---|---|---|---|
 | Aluminium price and the metal-to-alumina spread | none | 0 | 0 | [[AA]], [[000807-SZ]] |
 | US housing turnover, new building and remodel | none | 0 | 0 | [[POOL]], [[FDR-MC]], [[0669-HK]] |
+| China parcel volume and price; China road freight | none | 0 | 0 | [[ZTO]], [[YMM]] |
 | China consumer and platform competition (hub reads; no cycle note, `china-internet-competition` is `later`) | none | 0 | 3: [[PDD]], [[JD]], [[0700-HK]] | |
 | AI data-centre build (hub read; no cycle note) | none | 0 | 1: [[NVDA]] | |
 | Not cyclical in a way that matters (hub reads) | [[FISV]] (own money, under 3%) | 0 | 1: [[TME]] | |
@@ -86,4 +90,4 @@ One position is recorded as held, at under 3% of the account, so there is no con
 
 ## Sources
 
-`cycles/index.md`; `cycles/aluminium.md`; `cycles/us-housing-channel.md`; `settings.md`; the hubs; `watchlist.md`; `buylist.md`; `companies/FISV/Decisions.md`; `companies/PDD/VariantView.md`.
+`cycles/index.md`; `cycles/aluminium.md`; `cycles/us-housing-channel.md`; `cycles/china-freight-parcel.md`; `settings.md`; the hubs; `watchlist.md`; `buylist.md`; `companies/FISV/Decisions.md`; `companies/PDD/VariantView.md`.
