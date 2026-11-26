@@ -73,7 +73,7 @@ Block: **Neutral, mixed.** Leverage says investors are confident. What they tell
 | Implied equity risk premium (Damodaran) | 4.41% on 1 Nov, with a Treasury rate of 4.94%; 4.20% the month before [21] | His history table was not read; other versions on the same page run from 3.4% to 5.8% | Not scored |
 | Earnings yield less the 10-year Treasury | Forward: 5.5% less 5.05% = about 0.4 points. Trailing: 3.9% less 5.05% = about -1.1 points (computed from [6] and [4]) | Range not read | Not scored. In plain terms: on forecast earnings an investor is paid under half a point more than on a Treasury |
 
-Block: **Neutral to Hot.** The one measure with a long history is at its second-highest level in 135 years. The forward multiple is a little below average, because analysts expect earnings to rise 33% in 2026 and 16% in 2027 [6] on margins already 2.4 points above their five-year average. Which measure is right depends on whether the margin lasts, and this page does not say.
+Block: **Neutral to Hot.** The one measure with a long history has been higher only once, in 2000, in a record that goes back to 1890. The forward multiple is a little below average, because analysts expect earnings to rise 33% in 2026 and 16% in 2027 [6] on margins already 2.4 points above their five-year average. Which measure is right depends on whether the margin lasts, and this page does not say.
 
 ### 5. The dial
 
@@ -96,7 +96,7 @@ A map for research. "Priced?" is filled only where a dated source or a vault fil
 
 | Area | Helped or hurt, and by what | Priced? |
 |---|---|---|
-| Large companies' earnings | Helped: nominal growth and record-wide margins (S&P 500 margin 15.0%) | CAPE near 41 says fully priced; forward P/E 18.3 says not. See block 4 |
+| Large companies' earnings | Helped: nominal growth and wide margins (S&P 500 margin 15.0% against a five-year average of 12.6%) | CAPE near 41 says fully priced; forward P/E 18.3 says not. See block 4 |
 | Leveraged buyers of shares and the brokers that lend to them | Helped: margin debt +22% on the year | Not read |
 | AI data-centre supply chain | Helped; [[NVDA]]'s hub reads the build as Late cycle | Not read here |
 | US aluminium smelting | Helped by the tariff premium; rolling over ([[aluminium]]) | [[AA]]'s price assumes a lower metal price than today's |
