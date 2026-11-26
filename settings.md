@@ -13,7 +13,8 @@ dials:                        # set only by Paul, via /cycle-view dial MARKET co
   japan:
   korea:
   taiwan:
-updated:
+skill_freeze: "on since 2026-11-27 — edits to existing skills only; see _system/skill-tests.md"
+updated: 2026-11-27
 ---
 
 # Settings
@@ -24,3 +25,4 @@ The skills read this file. Change a value here and it applies from the next run.
 - **max_active** — the most names that can sit between triage and decision at one time.
 - **frame_stale_days / frame_stale_price_move** — when the zone and priced-in work is re-run.
 - **dials** — the confirmed aggressive-to-defensive setting for each market (Defensive, Neutral or Aggressive). Blank means none is confirmed, and the skills apply their usual tests. The hurdle does not change with the dial.
+- **skill_freeze** — while on, no new research skill is built. It lifts when each new skill has run on two or three names; the count is kept in `_system/skill-tests.md`.
