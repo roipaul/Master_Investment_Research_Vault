@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 
 # Watchlist
@@ -16,6 +16,7 @@ Two parts. **Current watchlist** is the list as it stands: names Paul has decide
 | [[0700-HK]] | Tencent | 2026-11-19 | Fresh money Wait (confirmed) | No triage, frame or thesis since the primer refresh | About HK$285 for the conservative case to clear 15% (2026-11-19) | 2027-03-18 |
 | [[JD]] | JD.com | 2026-11-19 | Fresh money Wait (confirmed) | No primer, frame or thesis in the vault; provisional baseline only | About US$21 for the conservative case to clear 15% (2026-11-19) | 2027-03-05 |
 | [[PDD]] | PDD Holdings | 2026-11-24 | Pre-commitment, not buying yet (Paul, [[PDD/Decisions]]) | No frame; merchant, seller and IR calls open; debate sign-off open | About US$53 for the conservative case to clear 15% (2026-11-20); central view 14.6% at US$83.68 | 2027-03-31 |
+| [[YMM]] | Full Truck Alliance | 2026-11-26 | Watch: views not yet tested (Paul) | His earnings numbers; three deciding questions (cash, commission cap, growth); Q3 update; debate, views and write-up | Not computed: the conservative case clears 15% only if all the cash is credited (2026-11-26) | 2027-03 |
 | SK Square (402340.KS) | SK Square | 2026-11-15 | Gate: Watch (confirmed) | No hub or primer; trigger is the holding discount above 55% or a hard fall in Hynix | — | 2027-03-31 |
 
 Carried over on 2026-11-24 from the confirmed entries in the log below. Fiserv is held, so it sits in [[overview]] under Held, not here.
@@ -38,3 +39,4 @@ Gate verdicts, Defers and confirmed Waits. One line per entry, newest at the bot
 | 2026-11-19 | JD.com (JD) | Earnings-update: fresh money Wait (confirmed) | Evidence: a Q4 New Businesses loss at or below RMB 9bn with a 2027 budget, and an annual dividend of at least US$1.00 per ADS with repurchases resumed (Q4/FY2026 results, about early March 2027). Price: about US$21 for the conservative case to clear 15% | — | 2027-03-05 |
 | 2026-11-20 | PDD Holdings (PDD) | Triage: Dig (proposed); earnings-update fresh money Wait (proposed) | Framing/duration: market reads the 2024-26 investment phase as a permanent margin reset while online marketing re-accelerates (+12% in Q3). Wait evidence: Q4 online marketing ≥10% and S&M ≤26% of revenue (late Mar 2027), HNTE confirmed in FY2026 20-F. Price: about US$53 for the conservative case to clear 15% | 35 | 2027-03-31 |
 | 2026-11-24 | Tencent Music (TME) | Watch: monitor (Paul, 2026-11-24); fresh money Wait | Evidence unchanged: Q4 organic membership flat or better and year-end paying users of 125m or more (FY2026 results, about mid-March 2027); also ByteDance/Soda licence renewals and whether TME keeps up its free-tier response. Price: about US$8.30 for the probability-weighted case (30/50/20) to clear 15%; US$8.10 for the conservative case | — | 2027-03-17 |
+| 2026-11-26 | Full Truck Alliance (YMM) | Watch (Paul, 2026-11-26; short path) | Views not yet tested: a commission cap comes much later (probability); fulfilment has runway (duration). Drop if a large commission cap, or order growth well below 10% for two quarters | 15 | 2027-03 |

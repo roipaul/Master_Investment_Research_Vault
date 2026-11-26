@@ -11,3 +11,4 @@ One line per decision recorded with `/decision-record`, passes included. The ful
 |---|---|---|---|---|---|---|---|---|
 | 2026-11-18 | FISV | Hold | Own | <3% | — | — | 2027-02-15 | No |
 | 2026-11-24 | PDD | Pre-commitment (no position) | — | 0% | not set | none adopted | 2027-03 (Q4 call, e) | No |
+| 2026-11-26 | YMM | Watchlist (no position; short path) | — | 0% | needs-a-view | none entered | 2027-03 (Q4 results, e) | No |

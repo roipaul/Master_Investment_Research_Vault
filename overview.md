@@ -1,7 +1,7 @@
 ---
 type: view
 doc: overview
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 
 # Research overview
@@ -31,13 +31,13 @@ None yet. See [[buylist]].
 | [[0700-HK]] | Tencent | Fresh money Wait (confirmed) | No triage, frame or thesis | About HK$285 (conservative) | HK$350, 2026-11-19 intraday (Reuters via Investing.com), 2.5-year low | 2027-03-18 |
 | [[JD]] | JD.com | Fresh money Wait (confirmed) | No primer, frame or thesis in the vault | About US$21 (conservative) | US$25.43 per ADS, close 2026-11-17 (Insider Monkey via Yahoo Finance); 9618.HK HK$97.65 on 2026-11-18 | 2027-03-05 |
 | [[PDD]] | PDD Holdings | Pre-commitment, not buying yet (Paul) | Frame; merchant, seller and IR calls; debate sign-off | About US$53 (conservative); central view 14.6% at US$83.68 | US$83.68 close 2026-11-20 | 2027-03-31 |
+| [[YMM]] | Full Truck Alliance | Watch: views not yet tested (Paul, 2026-11-26) | His earnings numbers; three deciding questions; Q3 update; debate, views, write-up | Not computed | US$8.91, close 2026-11-25 (StockAnalysis) | 2027-03 |
 | SK Square (402340.KS) | SK Square | Gate: Watch (confirmed) | No hub or primer | — | — | 2027-03-31 |
 
 ## 4. In research (not yet on a list)
 
 | Ticker | Company | Stage | Next step |
 |---|---|---|---|
-| [[YMM]] | Full Truck Alliance | Primer (reused) | Post-primer triage; Q3 update waits on two uploads |
 | [[6417-T]] | Sankyo | Primer (2026-11-15) | Post-primer triage |
 | [[000807-SZ]] | Yunnan Aluminium | Primer (2026-11-15) | Post-primer triage |
 | Odawara Engineering (6149.T) | Odawara Engineering | Gate: Primer, first in queue (no hub yet) | Full primer |
