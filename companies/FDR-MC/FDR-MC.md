@@ -16,11 +16,14 @@ harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
 entry_level: "about EUR 17.80 — base case (14 times 2029 adjusted EPS of about EUR 1.78) meets the 15% hurdle; 2026-11-25 (Claude's read, proposed)"
 awaiting: "confirm earnings-update FY2026-Q3: thesis Intact, fresh money Wait; baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
-updated: 2026-11-25
+updated: 2026-11-26
 data_through: FY2026-Q3
 next_checkpoint: "FY2026 results, late February 2027 (e): the 2027 guide and its margin without tariff refunds, restructuring charges for 2027, North American sell-in against sell-through, Q4 volume, Aiper"
 next_results: "FY2026: late February 2027 (e; not announced; FY2025 was 2026-02-26)"
 cycle: "Trough, extended: new build and remodel at the bottom with housing data worsening; aftermarket steady and price-led; North American channel destocked — 2026-11-25 (Claude's read, proposed)"
+cycle_phase: "us-housing-channel: Downturn to Trough — cycle note [[us-housing-channel]], 2026-11-26 (Claude's read, proposed); the Q3 earnings update's own read above is Trough, extended"
+mid_cycle_note: 2026-11-26   # not sized: under-earning on volume, not on margin; the sales split by new build, remodel and aftermarket is not on file
+dial_markets: "earnings: us for the North American part (Europe has no market read); listing: Spain, no market read"
 catalysts:
   - date: "2026-12-06"
     event: "Maytronics Q3 2026 results (robot cleaners; Chinese competition in Europe)"
@@ -80,9 +83,10 @@ Not written in the vault yet. Until Paul's earlier work is imported, an earnings
 
 ## Links
 
-Peers (starting set): Pentair (PNR), Hayward (HAYW). Read each period for the cycle section: those two plus [[POOL]] (largest customer; in the watch list) and Maytronics (robot cleaners), with Latham, Home Depot and US housing data as bellwethers. Themes: [[pool-industry-cycle]].
+Peers (starting set): Pentair (PNR), Hayward (HAYW). Read each period for the cycle section: those two plus [[POOL]] (largest customer; in the watch list) and Maytronics (robot cleaners), with Latham, Home Depot and US housing data as bellwethers. Themes: [[pool-industry-cycle]]. Cycle note: [[us-housing-channel]] (`cycles/us-housing-channel.md`).
 
 ## Log
 
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
 - 2026-11-25 — earnings-update FY2026-Q3 (backfill; results of 2026-10-29). Proposed: thesis Intact against a provisional baseline (Claude's framing, not Paul's view), margin leg behind; fresh money Wait at EUR 18.55, on price and evidence (base case about 13% a year; hurdle met at about EUR 17.80). Cycle: Trough, extended. Nine-month sales +4.3% at constant currency, adjusted EBITDA +5.9%, margin 24.1%; Q3 organic growth +1.3% with volume about -2% (derived); 2026 guide narrowed to the lower half (sales +3.5-5.5%, margin 23.3-23.5%, adjusted EPS +5-9%); about EUR 6m of net tariff refunds in Q3 EBITDA, disclosed in Q&A; restructuring EUR 40m against 13; 2027 list prices +3.5-5% in North America and about +2% in Europe. No verdict, zone or conviction changed. Read-across written to [[pool-industry-cycle]] (new theme note).
+- 2026-11-26 — `/cycle-view` (weekly check): cycle note [[us-housing-channel]] built (`cycles/us-housing-channel.md`). Phase Downturn to Trough for US housing-linked demand: October existing-home sales the lowest since August 2010, single-family permits the lowest since January 2023, mortgage rate about a point above a year ago; repair and remodel flat. The Q3 update's "Trough, extended" is left as written; the note covers the US only, not Southern Europe. Earnings against mid-cycle not sized. Hub fields added: `cycle_phase`, `mid_cycle_note`, `dial_markets`. No verdict, entry level or view changed.
