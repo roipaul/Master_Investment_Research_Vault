@@ -1,7 +1,7 @@
 ---
 type: log
 doc: monitoring
-updated: 2026-11-25
+updated: 2026-11-26
 watch_from: 2026-11-16      # results released before this date are not picked up; ask for a backfill instead
 max_updates_per_run: 2
 ---
@@ -42,7 +42,7 @@ Dates marked (e) are estimates from past reporting patterns, not company announc
 | [[WCC]] | Wesco | EDGAR 8-K item 2.02 (release ex. 99.1, slides ex. 99.2), CIK 0000929008; investors.wesco.com (10-Q and slides readable) | FY2026-Q3 | Q4/FY2026: 2027-02-09 (stated by the CEO on the Q3 call; not yet on the IR calendar) | done FY2026-Q3, sign-off pending |
 | [[FDR-MC]] | Fluidra | CNMV; fluidra.com/investors/quarterly-results (release, deck, APM file and the company's call transcript all readable; full statements only at H1 and FY) | FY2026-Q3 | FY2026: late Feb 2027 (e; not announced; FY2025 was 2026-02-26; the 2026 calendar was filed on 2026-01-12) | done FY2026-Q3, sign-off pending |
 | [[STZ]] | Constellation Brands | EDGAR 8-K item 2.02, CIK 0000016918; company IR | none | Q3 FY2027: early Jan 2027 (e) | ready (backfill #9: Q2 FY2027, released 2026-10-06) |
-| [[UNH]] | UnitedHealth | EDGAR 8-K item 2.02, CIK 0000731766; company IR | none | Q4 2026: mid-Jan 2027 (e) | ready (backfill #7: Q3 2026, released 2026-10-13) |
+| [[UNH]] | UnitedHealth | EDGAR 8-K item 2.02, CIK 0000731766; unitedhealthgroup.com/investors (release and 10-Q readable; no slides published; the prepared-remarks PDF did not open for the watch; transcript is third-party) | FY2026-Q3 | Q4/FY2026: mid-to-late Jan 2027 (e; not announced as of 2026-11-25; FY2025 was 2026-01-27). Investor meeting with the 2027 outlook promised before year-end, no date yet | done FY2026-Q3, sign-off pending |
 | [[AA]] | Alcoa | EDGAR 8-K item 2.02, CIK 0001675149; company IR | none | Q4 2026: mid-Jan 2027 (e) | ready (backfill #8: Q3 2026, released 2026-10-15) |
 | [[KSPI]] | Kaspi.kz | EDGAR 6-K, CIK 0001985487; ir.kaspi.kz (deck at ir.kaspi.kz/media/, readable) | FY2026-Q3 | Q4 2026: late Feb 2027 (e) | done FY2026-Q3, sign-off pending |
 
@@ -71,7 +71,7 @@ Approved by Paul on 2026-11-19. These results came out before `watch_from`, so d
 | 4 | [[WCC]] | Q3 2026 | 2026-10-29 | FY26 EPS guide raised to US$18.00-18.50; data centres. Read with [[ai-infrastructure-cycle]]  done 2026-11-24 |
 | 5 | [[FDR-MC]] | 9M 2026 | 2026-10-29 | Guidance narrowed on weak new-pool construction. Run on the same day as POOL; read PNR, HAYW, LESL from "Peers only" | done 2026-11-25 |
 | 6 | [[POOL]] | Q3 2026 | 2026-10-22 | EPS flat; Team Horner acquisition agreed 2026-11-16. Read with FDR-MC | done 2026-11-25 |
-| 7 | [[UNH]] | Q3 2026 | 2026-10-13 | FY26 adjusted EPS guide raised to at least US$20.50 | |
+| 7 | [[UNH]] | Q3 2026 | 2026-10-13 | FY26 adjusted EPS guide raised to at least US$20.50 | done 2026-11-26 |
 | 8 | [[AA]] | Q3 2026 | 2026-10-15 | South32 aluminium assets deal (US$3.1bn) heading to close in H1 2027. Read with [[000807-SZ]] primer | |
 | 9 | [[STZ]] | Q2 FY2027 | 2026-10-06 | New CEO; comparable EPS guide reaffirmed. Q3 FY2027 due early Jan 2027 | |
 | 10 | [[1590-TW]] | Q3 2026 | 2026-10-29 | Payout ratio raised to 65%. Q3 consolidated report approved 2026-11-12 | |
@@ -85,6 +85,7 @@ Not queued: Sankyo H1 and Yunnan Aluminium Q3 (already in their primers); Techtr
 - **Sign-off:** WCC FY2026-Q3 — proposed thesis Intact (against a provisional baseline), fresh money Wait at US$303.06 (2026-11-23); base case meets the hurdle at about US$245. Confirm or override with `/earnings-update WCC confirm`.
 - **Sign-off:** FDR-MC (Fluidra) FY2026-Q3 — proposed thesis Intact (against a provisional baseline; margin leg behind), fresh money Wait at EUR 18.55 (2026-11-24), close to Own; base case meets the hurdle at about EUR 17.80. Confirm or override with `/earnings-update FDR-MC confirm`.
 - **Sign-off:** POOL FY2026-Q3 — proposed thesis Intact (against a provisional baseline; margin and cost legs behind), fresh money Wait at US$213.85 (2026-11-24); base case meets the hurdle at about US$173. Confirm or override with `/earnings-update POOL confirm`.
+- **Sign-off:** UNH FY2026-Q3 — proposed thesis Intact (against a provisional baseline; Medicare leg under new policy risk since the print), fresh money Wait at US$346.19 (2026-11-25), close to Own; base case meets the hurdle at about US$320. Confirm or override with `/earnings-update UNH confirm`.
 - **Upload:** YMM FY2026-Q3 — "Q3 2026 Full Truck Alliance Investor Presentation" (PDF, ir.fulltruckalliance.com/Webcast-Presentations) and the company's "3Q 26 Earnings Transcript" (PDF, ir.fulltruckalliance.com/Quarterly-Results). Put them in `inbox/uploads/YMM/` or a chat with `/earnings-update YMM`. Asked 2026-11-20.
 - **Upload:** ZTO FY2026-Q3 — "ZTO 3Q 2026 Corporate Presentation" (English PDF) and "3Q26 Financial Details For Earnings Call" (PDF), both listed at zto.investorroom.com/Investor-Presentations. Put them in `inbox/uploads/ZTO/` or a chat with `/earnings-update ZTO`. Asked 2026-11-19.
 - **Upload:** 2454-TW (MediaTek) FY2026-Q3 — "Financial Statements.pdf" for 2026Q3 (needed) and "Q3 Consolidated Report.pdf" (the full report with notes), both listed at mediatek.com/investor-relations/financial-information; the company's "Transcript.pdf" for 2026Q3 is welcome but not needed. Put them in `inbox/uploads/2454-TW/` or a chat with `/earnings-update 2454-TW`. Asked 2026-11-24.
