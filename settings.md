@@ -7,6 +7,12 @@ frame_stale_days: 90
 frame_stale_price_move: "15%"
 primer_stale_months: 12
 liquidity_floor:              # minimum average daily value traded, set by Paul
+dials:                        # set only by Paul, via /cycle-view dial MARKET confirm
+  us:
+  china-hk:
+  japan:
+  korea:
+  taiwan:
 updated:
 ---
 
@@ -17,3 +23,4 @@ The skills read this file. Change a value here and it applies from the next run.
 - **flow_mode** — `ask-every-step` asks before each skill runs. `gates-only` chains the mechanical steps and stops at the four judgment points: after the gate, after triage, after the frame, and for views and decisions.
 - **max_active** — the most names that can sit between triage and decision at one time.
 - **frame_stale_days / frame_stale_price_move** — when the zone and priced-in work is re-run.
+- **dials** — the confirmed aggressive-to-defensive setting for each market (Defensive, Neutral or Aggressive). Blank means none is confirmed, and the skills apply their usual tests. The hurdle does not change with the dial.
