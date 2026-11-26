@@ -9,19 +9,19 @@ sources: [skill:cycle-view]
 
 A view rebuilt by `/cycle-view stand` from the cycle notes in `cycles/`, the market reads in `macro/` and the hubs. Do not edit it by hand: change the notes, not this page. It describes the present. It makes no forecast, and nothing here is Paul's view or a decision.
 
-Built so far: all three active cycle notes and neither of the two active market reads. The gaps are marked.
+Built so far: all three active cycle notes and one of the two active market reads (us). The china-hk read is not yet built. The gaps are marked.
 
 ## 1. The dial, by market
 
 | Market | Confirmed dial (`settings.md`) | Proposal | Market read |
 |---|---|---|---|
-| us | none confirmed | none | active, not yet built |
+| us | none confirmed | none. The first reading points to Neutral; a proposal needs a second reading that agrees | [[us]], 2026-11-26: Economy Hot; Credit Neutral, cooling; Psychology Neutral, mixed; Price of risk Neutral to Hot |
 | china-hk | none confirmed | none | active, not yet built |
 | japan | none confirmed | none | later |
 | korea | none confirmed | none | later |
 | taiwan | none confirmed | none | later |
 
-With no dial confirmed, the skills apply their usual tests. A proposal needs two market reads in a row that point the same way, so the earliest a dial can be proposed is the second read of a market.
+With no dial confirmed, the skills apply their usual tests. A proposal needs two market reads in a row that point the same way, so the earliest a dial can be proposed is the second read of a market (us: due about 2027-02-19).
 
 ## 2. Cycle phases
 
@@ -61,7 +61,14 @@ Other names have no thesis or variant-view file in the vault.
 
 ## 4. Helped and hurt, by market
 
-Not built. This map comes from the market reads, and neither active read (us, china-hk) exists yet.
+United States, from [[us]] (2026-11-26). China and Hong Kong: not built.
+
+| Helped | Priced? | Hurt | Priced? |
+|---|---|---|---|
+| Large companies' earnings (S&P 500 margin 15.0% against a five-year average of 12.6%) | Fully on ten-year earnings (CAPE near 41); not on forecast earnings (18.3 times, below average) | Housing-linked demand (mortgage rate 7.21%; home sales at a 16-year low) | Not as permanent: [[POOL]] 19.4 times earnings |
+| Leveraged buyers of shares (margin debt +22% on the year) | Not read | Small firms and commercial property borrowers (banks tightened in Q3) | Not read |
+| AI data-centre supply chain ([[NVDA]]: Late cycle, hub read) | Not read | The lowest-rated borrowers (CCC spreads 14%, wider than April 2025) | For distress, in the bonds |
+| US aluminium smelting, on the tariff premium ([[aluminium]]: Rolling over) | [[AA]]'s price assumes a lower metal price | Recent listings (two-thirds of October's IPOs below issue) | Not read |
 
 ## 5. Where to look next
 
@@ -70,7 +77,7 @@ Cycles at Downturn or Trough in a cycle note, and areas hurt and priced as if pe
 - **Chinese alumina refining: Trough** ([[aluminium]], 2026-11-26). The SMM index (RMB 2,640) is below October's average full cost (RMB 2,764) and stocks are building. It is one leg of the aluminium note, not a registered cycle, and no name in the vault is a pure refiner. Whether it is priced as permanent has not been tested.
 - **US housing channel: Downturn to Trough** ([[us-housing-channel]], 2026-11-26). Housing turnover is at a 16-year low and new pools are about 31% below their ten-year average, but the leading data were still falling in October, so a bottom is not confirmed. On the names' earnings updates neither [[POOL]] nor [[FDR-MC]] is priced for a recovery, and neither is priced as if the damage were permanent (19.4 and 13.3 times earnings).
 - **China road freight: Trough, extended** ([[china-freight-parcel]], 2026-11-26). Rates flat for two years, the logistics profit index at 47, truck sales falling. [[YMM]] is the vault's name here and is growing through it; whether its price treats the industry's condition as permanent is not on file (the gate note of 2026-11-13 read a forward P/E of about 10.9 as implying roughly no growth).
-- Hurt-and-priced-as-permanent areas: none listed, because no market read is built.
+- Hurt-and-priced-as-permanent areas, United States ([[us]], 2026-11-26): only the lowest-rated corporate credit shows a price of distress (CCC spreads at 14%, above the April 2025 peak). No equity area was found priced that way; most valuations in the map were not read. China and Hong Kong: not built.
 
 ## 6. Concentration
 
@@ -90,4 +97,4 @@ One position is recorded as held, at under 3% of the account, so there is no con
 
 ## Sources
 
-`cycles/index.md`; `cycles/aluminium.md`; `cycles/us-housing-channel.md`; `cycles/china-freight-parcel.md`; `settings.md`; the hubs; `watchlist.md`; `buylist.md`; `companies/FISV/Decisions.md`; `companies/PDD/VariantView.md`.
+`cycles/index.md`; `cycles/aluminium.md`; `cycles/us-housing-channel.md`; `cycles/china-freight-parcel.md`; `macro/us.md`; `settings.md`; the hubs; `watchlist.md`; `buylist.md`; `companies/FISV/Decisions.md`; `companies/PDD/VariantView.md`.
