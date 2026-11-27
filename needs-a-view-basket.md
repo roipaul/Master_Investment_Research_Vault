@@ -22,7 +22,9 @@ Started 2026-11-27 (Paul) with SANKYO and the nine "Needs a view" names from the
 | [[001060-KS]] JW Pharmaceutical | 2026-11-15 | 13.8% | That the phase 3 gout drug pays for its R&D; payout low | Price-alone check | Phase 3 readout; price | 2027-03-20 |
 | [[005180-KS]] Binggrae | 2026-11-15 | 13.3% | That the merger and succession leave minority holders whole (governance Fail) | Price-alone check | Succession or merger terms | 2027-03-20 |
 | [[3686-HK]] Clifford Modern Living | 2026-11-15 | 0.0% | That operating profit recovers, with cash above the market cap (five tests Fail) | Price-alone check | Results; any distribution of the cash | 2027-03-31 |
+| [[9709-T]] NCS&A | 2026-11-27 | 12.0% (five-year profit, cash at the payout rate) | That margins of about 12% are the new level, not the peak of a migration wave ahead of the "2025 cliff" | Price-alone re-check | Q3 FY3/2027 results (late January 2027); price | 2027-02-15 |
 
 ## Log
 
 - 2026-11-27 — Basket started. SANKYO added after its frame (Paul: Defer). Nine names carried over from the price-alone basket, where their status stays "Needs a view".
+- 2026-11-27 — NCS&A added (Paul confirmed Needs a view after the re-check).
