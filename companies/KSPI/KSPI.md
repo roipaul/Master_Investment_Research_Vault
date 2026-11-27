@@ -46,7 +46,7 @@ steps:                 # date each step last ran
 
 # Kaspi.kz (KSPI)
 
-**Latest:** 2026-11-20 — FY2026 Q3 earnings update written as a backfill (results of 2026-11-09). Proposed, Claude's read against a provisional baseline: thesis Intact; fresh money Wait at US$85.80 (2026-11-19), on evidence, not price. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-20 — FY2026 Q3 earnings update written as a backfill (results of 2026-11-09); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact; fresh money Wait at US$85.80 (2026-11-19), on evidence, not price. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 

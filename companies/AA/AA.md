@@ -74,7 +74,7 @@ steps:                 # date each step last ran
 
 # Alcoa Corporation (AA)
 
-**Latest:** 2026-11-26 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-15). Proposed, Claude's read against a provisional baseline: thesis Intact with the alumina leg behind; fresh money Wait at US$35.07 (2026-11-25), on evidence and the cycle, not price: the base case (London aluminium about US$2,800) returns about 17% a year and clears the hurdle, but a London price US$150 lower returns nothing, the cycle is rolling over, and about US$3.5bn of debt is to be added when the South32 assets close in H1 2027. The Q3 10-Q could not be opened; an addendum is due. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-26 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-15); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact with the alumina leg behind; fresh money Wait at US$35.07 (2026-11-25), on evidence and the cycle, not price: the base case (London aluminium about US$2,800) returns about 17% a year and clears the hurdle, but a London price US$150 lower returns nothing, the cycle is rolling over, and about US$3.5bn of debt is to be added when the South32 assets close in H1 2027. The Q3 10-Q could not be opened; an addendum is due. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 

@@ -71,7 +71,7 @@ steps:                 # date each step last ran
 
 # UnitedHealth Group (UNH)
 
-**Latest:** 2026-11-26 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-13). Proposed, Claude's read against a provisional baseline: thesis Intact, with the print ahead on margins and the Medicare leg under new policy risk since (audit proposal of 2026-11-16); fresh money Wait at US$346.19 (2026-11-25), on price and evidence and close to Own: the base case returns about 12% a year and meets the 15% hurdle at about US$320 (16 times) or US$357 (18 times). Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-26 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-13); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact, with the print ahead on margins and the Medicare leg under new policy risk since (audit proposal of 2026-11-16); fresh money Wait at US$346.19 (2026-11-25), on price and evidence and close to Own: the base case returns about 12% a year and meets the 15% hurdle at about US$320 (16 times) or US$357 (18 times). Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 

@@ -52,7 +52,7 @@ steps:                 # date each step last ran
 
 # Wesco International (WCC)
 
-**Latest:** 2026-11-24 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-29). Proposed, Claude's read against a provisional baseline: thesis Intact; fresh money Wait at US$303.06 (2026-11-23), on cycle and price: about 60% of growth is data centres, the base case returns about 7% a year and meets the 15% hurdle at about US$245. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-24 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-29); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact; fresh money Wait at US$303.06 (2026-11-23), on cycle and price: about 60% of growth is data centres, the base case returns about 7% a year and meets the 15% hurdle at about US$245. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 

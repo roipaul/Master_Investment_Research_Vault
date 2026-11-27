@@ -62,7 +62,7 @@ steps:                 # date each step last ran
 
 # Fluidra (FDR.MC)
 
-**Latest:** 2026-11-25 — FY2026 Q3 / nine-month earnings update written as a backfill (results of 2026-10-29). Proposed, Claude's read against a provisional baseline: thesis Intact with the margin leg behind; fresh money Wait at EUR 18.55 (2026-11-24), on price and evidence and close to Own: the base case returns about 13% a year and meets the 15% hurdle at about EUR 17.80. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-25 — FY2026 Q3 / nine-month earnings update written as a backfill (results of 2026-10-29); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact with the margin leg behind; fresh money Wait at EUR 18.55 (2026-11-24), on price and evidence and close to Own: the base case returns about 13% a year and meets the 15% hurdle at about EUR 17.80. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 

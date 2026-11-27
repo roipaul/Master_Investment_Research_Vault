@@ -68,7 +68,7 @@ steps:                 # date each step last ran
 
 # Pool Corporation (POOL)
 
-**Latest:** 2026-11-25 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-22). Proposed, Claude's read against a provisional baseline: thesis Intact with the margin and cost legs behind; fresh money Wait at US$213.85 (2026-11-24), on price: the shares are up 24% since the day before the results, the base case returns about 7% a year and meets the 15% hurdle at about US$173. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
+**Latest:** 2026-11-25 — FY2026 Q3 earnings update written as a backfill (results of 2026-10-22); both calls confirmed by Paul on 2026-11-27. Claude's read against a provisional baseline: thesis Intact with the margin and cost legs behind; fresh money Wait at US$213.85 (2026-11-24), on price: the shares are up 24% since the day before the results, the base case returns about 7% a year and meets the 15% hurdle at about US$173. Awaiting Paul's sign-off and his own baseline. See [[earnings/FY2026-Q3]].
 
 ## Thesis in one paragraph
 
