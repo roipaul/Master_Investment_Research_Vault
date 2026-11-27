@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # Watchlist
@@ -42,3 +42,5 @@ Gate verdicts, Defers and confirmed Waits. One line per entry, newest at the bot
 | 2026-11-26 | Full Truck Alliance (YMM) | Watch (Paul, 2026-11-26; short path) | Views not yet tested: a commission cap comes much later (probability); fulfilment has runway (duration). Drop if a large commission cap, or order growth well below 10% for two quarters | 15 | 2027-03 |
 | 2026-11-27 | Sankyo (6417.T) | Triage: Dig, narrow (proposed) | Next: frame, then likely price-alone check; desk work on the earnings base and governance | 4 | — |
 | 2026-11-27 | Yunnan Aluminium (000807.SZ) | Triage: Defer (proposed) | Trigger: about RMB 18-21 (Claude's arithmetic), the aluminium cycle at Downturn or Trough, or ten-year margins showing a higher mid-cycle | 18 | 2027-04 |
+| 2026-11-27 | Sankyo (6417.T) | Triage: Dig, narrow (confirmed by Paul) | Next: frame, then likely price-alone check | 4 | — |
+| 2026-11-27 | Yunnan Aluminium (000807.SZ) | Triage: Defer (confirmed by Paul) | Trigger: about RMB 16-19 (Claude's arithmetic, revised after the cycle-note check), the aluminium cycle at Downturn or Trough, or a lasting alumina glut that lifts mid-cycle | 18 | 2027-04 |
