@@ -6,7 +6,7 @@ exchange: Bolsa de Madrid
 sector: Pool equipment manufacturer
 stage: monitoring            # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict:               # latest triage or thesis verdict
+verdict: "Thesis Intact (provisional baseline; margin leg behind) - earnings-update FY2026-Q3, confirmed 2026-11-27"
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "EUR 18.55, close 2026-11-24 (Bolsamania; the company's share-data page agrees)"
@@ -15,8 +15,9 @@ base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
 entry_level: "about EUR 17.80 — base case (14 times 2029 adjusted EPS of about EUR 1.78) meets the 15% hurdle; 2026-11-25 (Claude's read, proposed)"
-awaiting: "confirm earnings-update FY2026-Q3: thesis Intact, fresh money Wait; baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
-updated: 2026-11-26
+fresh_money: "Wait at EUR 18.55, 2026-11-24 (confirmed 2026-11-27); Price and evidence, close to Own: the base case returns about 13% a year and meets the 15% hurdle at about EUR 17.80. Evidence: the 2027 guide in late February 2027, the margin it implies without tariff refunds, and whether restructuring charges fall"
+awaiting: "baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
+updated: 2026-11-27
 data_through: FY2026-Q3
 next_checkpoint: "FY2026 results, late February 2027 (e): the 2027 guide and its margin without tariff refunds, restructuring charges for 2027, North American sell-in against sell-through, Q4 volume, Aiper"
 next_results: "FY2026: late February 2027 (e; not announced; FY2025 was 2026-02-26)"
@@ -79,7 +80,7 @@ Not written in the vault yet. Until Paul's earlier work is imported, an earnings
 
 ## Documents
 
-- [[earnings/FY2026-Q3]] — earnings update, Q3 / nine months 2026 (reported 2026-10-29; written 2026-11-25; status proposed)
+- [[earnings/FY2026-Q3]] — earnings update, Q3 / nine months 2026 (reported 2026-10-29; written 2026-11-25; status confirmed 2026-11-27)
 
 ## Links
 
@@ -90,3 +91,4 @@ Peers (starting set): Pentair (PNR), Hayward (HAYW). Read each period for the cy
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
 - 2026-11-25 — earnings-update FY2026-Q3 (backfill; results of 2026-10-29). Proposed: thesis Intact against a provisional baseline (Claude's framing, not Paul's view), margin leg behind; fresh money Wait at EUR 18.55, on price and evidence (base case about 13% a year; hurdle met at about EUR 17.80). Cycle: Trough, extended. Nine-month sales +4.3% at constant currency, adjusted EBITDA +5.9%, margin 24.1%; Q3 organic growth +1.3% with volume about -2% (derived); 2026 guide narrowed to the lower half (sales +3.5-5.5%, margin 23.3-23.5%, adjusted EPS +5-9%); about EUR 6m of net tariff refunds in Q3 EBITDA, disclosed in Q&A; restructuring EUR 40m against 13; 2027 list prices +3.5-5% in North America and about +2% in Europe. No verdict, zone or conviction changed. Read-across written to [[pool-industry-cycle]] (new theme note).
 - 2026-11-26 — `/cycle-view` (weekly check): cycle note [[us-housing-channel]] built (`cycles/us-housing-channel.md`). Phase Downturn to Trough for US housing-linked demand: October existing-home sales the lowest since August 2010, single-family permits the lowest since January 2023, mortgage rate about a point above a year ago; repair and remodel flat. The Q3 update's "Trough, extended" is left as written; the note covers the US only, not Southern Europe. Earnings against mid-cycle not sized. Hub fields added: `cycle_phase`, `mid_cycle_note`, `dial_markets`. No verdict, entry level or view changed.
+- 2026-11-27 — Sign-off: Paul confirmed thesis Intact (provisional baseline; margin leg behind) and fresh money Wait for FY2026-Q3. `verdict` and `fresh_money` set; `list` and `held` not changed.

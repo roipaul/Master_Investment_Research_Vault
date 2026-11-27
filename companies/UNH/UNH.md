@@ -6,7 +6,7 @@ exchange: NYSE
 sector: US managed care and health services
 stage: monitoring            # gate | primer | triage | frame | debate | evidence | views | writeup | decision | monitoring | deferred | dropped
 track: undecided       # undecided | view | price-alone
-verdict:               # latest triage or thesis verdict
+verdict: "Thesis Intact (provisional baseline; Medicare leg under new policy risk) - earnings-update FY2026-Q3, confirmed 2026-11-27"
 zone:                  # price-alone | needs-a-view | pass-on-price
 conviction:            # open variant views and levels, e.g. "V1:2, V2:1"
 price_check: "US$346.19, close 2026-11-25 (stockscan.io; MarketScreener agrees)"
@@ -15,8 +15,9 @@ base_return:           # at the price above
 harsh_case:            # return or loss in the harsh case
 held:                  # not recorded; yes once a buy is recorded in Decisions.md
 entry_level: "about US$320 — base case (16 times 2029 EPS of about US$28.5) meets the 15% hurdle; about US$357 at 18 times; 2026-11-26 (Claude's read, proposed)"
-awaiting: "confirm earnings-update FY2026-Q3: thesis Intact, fresh money Wait; baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
-updated: 2026-11-26
+fresh_money: "Wait at US$346.19, 2026-11-25 (confirmed 2026-11-27); Price and evidence, close to Own: the base case returns about 12% a year at 16 times 2029 earnings and meets the 15% hurdle at about US$320 (about US$357 at 18 times). Evidence: the 2027 outlook promised before year-end and any sizing of the CMS audit proposal"
+awaiting: "baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
+updated: 2026-11-27
 data_through: FY2026-Q3
 next_checkpoint: "2027 outlook at the investor meeting promised before year-end (no date announced as of 2026-11-25): Medicare Advantage membership and margin, Medicaid and Optum Health margin paths, any sizing of the audit proposal. Then Q4/FY2026 results, mid-to-late January 2027 (e)"
 next_results: "Q4/FY2026: mid-to-late January 2027 (e; not announced as of 2026-11-25; FY2025 was 2026-01-27)"
@@ -88,7 +89,7 @@ Not written in the vault yet. Until Paul's earlier work is imported, an earnings
 
 ## Documents
 
-- [[earnings/FY2026-Q3]] — FY2026 Q3 earnings update (backfill, written 2026-11-26; proposed)
+- [[earnings/FY2026-Q3]] — FY2026 Q3 earnings update (backfill, written 2026-11-26; confirmed 2026-11-27)
 
 ## Links
 
@@ -98,3 +99,4 @@ Peers (read every period): Elevance Health, Humana, CVS Health (Aetna), Cigna; b
 
 - 2026-11-19 — Hub created and added to `monitoring.md` (earnings watch set-up). No primer, thesis or model on file.
 - 2026-11-26 — `/earnings-update` FY2026-Q3 (backfill; results of 2026-10-13). Proposed: thesis Intact against a provisional baseline (Claude's framing); fresh money Wait at US$346.19, on price and evidence. Cycle read: Early recovery. Entry level about US$320 at 16 times 2029 earnings. Post-print events logged as catalysts: CMS audit proposal (2026-11-16), Star Ratings suit (2026-11-19). No Thesis.md to append to; no theme note for managed care exists, so no read-across was written.
+- 2026-11-27 — Sign-off: Paul confirmed thesis Intact (provisional baseline; Medicare leg under new policy risk) and fresh money Wait for FY2026-Q3. `verdict` and `fresh_money` set; `list` and `held` not changed.
