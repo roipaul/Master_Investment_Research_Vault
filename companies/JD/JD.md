@@ -18,7 +18,7 @@ list: watch            # none | watch | buy (set only by /decision-record)
 buy_price:
 entry_level: "About US$21 for the conservative case to clear 15% (2026-11-19)"
 alert:
-awaiting: "baseline needs Paul's view or imported work; import primer and earlier outputs into the vault"
+awaiting: "baseline needs Paul's view or imported work; primer imported 2026-11-27, other earlier outputs still to import"
 fresh_money: "Wait at US$25.43, 2026-11-17 (confirmed 2026-11-19); evidence: a Q4 New Businesses loss at or below RMB 9bn with a 2027 budget, and an annual dividend of at least US$1.00 per ADS with repurchases resumed (Q4/FY2026 results, about early March 2027); price alternative about US$21 for the conservative case to clear 15%"
 updated: 2026-11-19
 data_through: FY2026-Q3
@@ -65,6 +65,8 @@ Not written in the vault yet. Provisional baseline (Claude's framing, not Paul's
 
 ## Documents
 
+- [[Primer]] — full primer, data through Q3 2026 (2026-11-24); Word and PDF under `files/`
+
 - [[earnings/FY2026-Q3]] — Q3 2026 earnings update (confirmed 2026-11-19), 2026-11-19. First vault document for this name; carries the provisional baseline, the cycle indicator set and the first scenario table.
 
 ## Links
@@ -78,3 +80,5 @@ Peers (read every period): Alibaba, PDD Holdings, [[3690-HK]] (Meituan); bellwet
 - 2026-11-19 — Sign-off: Paul confirmed thesis Intact (provisional baseline) and fresh money Wait for FY2026-Q3. Added to the watchlist.
 - 2026-11-20 — Read-across from [[PDD]] and Alibaba September-quarter results (both 2026-11-19): Alibaba customer management revenue -5% reported, +1% like for like, quick-commerce losses cut "significantly" with a plan to halve them next year; PDD online marketing +12%, stays out of instant retail. Feeds the JD FY2026-Q3 addendum due by 2026-11-28 (Meituan 2026-11-27 still to come).
 - 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.
+- 2026-11-27 — Primer of 2026-11-24 (built in claude.ai) imported as `Primer.md` with Word and PDF in `files/`.
+- 2026-11-27 — Read-across from [[3690-HK]] Q3 2026 (Preliminary): Meituan's core local commerce back to a 7.3% margin; Goldman's Q3 order shares put JD at about 10% (18m a day) against Meituan 48% and Taobao 42%. Input for the JD addendum.
