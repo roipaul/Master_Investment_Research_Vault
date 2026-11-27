@@ -63,3 +63,10 @@ Medium. It is the Chinese half of the aluminium spread that Alcoa sits on the ot
 - Cycle note: `cycles/aluminium.md` (2026-11-26).
 - [S1] ETNet quote page: RMB 24.72 intraday on 2026-11-06; 52-week range RMB 21.22-38.23. https://www.etnet.com.hk/www/sc/ashares/quote.php?code=000807
 - [S2] CFI quote page: RMB 23.21; undated, with the latest announcement dated 2026-11-07. https://quote.cfi.cn/quote_000807.html
+
+## Correction 2026-11-27 (after a check of the cycle note)
+
+- **Mid-cycle.** Ten years of margins are now in [[aluminium]]. Mid-cycle net profit stays at about RMB 6bn, in a range of RMB 4.7-6.5bn. The caveat that the base "may be too low" is withdrawn: the pre-cap years were far worse. At today's futures price the earnings rate is about RMB 7-9bn, against RMB 15.5bn at the nine-month pace.
+- **The cap.** Section 2 said the cycle note "doubts the cap binds". Corrected: built capacity exceeds 45 Mt, but output runs within about 1-2% of the cap, so it binds. That does not restore the gate's edge. The post-cap years already include the cap, and the market has priced the fade.
+- **Reference levels** (Claude's arithmetic, not a buy price): with net cash of RMB 21bn credited, the conservative case clears 15% at about RMB 16.2 on RMB 5.3bn of mid-cycle profit, and about RMB 18.6 on RMB 6.5bn. The earlier range of RMB 18-21 becomes about RMB 16-19.
+- **Verdict unchanged:** Defer, proposed. At RMB 23.21 the conservative return is about 9-11% with no growth.

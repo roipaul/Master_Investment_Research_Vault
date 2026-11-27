@@ -148,3 +148,75 @@ Readings are from SMM (Shanghai Metals Market, news.metal.com) unless stated. Da
 21. AL Circle, republishing SMM's Alumina Weekly Review, 2026-11-14: https://www.alcircle.com/news/press-release/inventory-buildup-continues-spot-prices-steady-to-weak-ex-china-price-spread-widens-amid-china-s-loose-supply-121933
 
 In the vault: `companies/AA/earnings/FY2026-Q3.md`, `companies/000807-SZ/Primer.md`, `themes/aluminium-cycle.md`.
+
+## Check of 2026-11-27: the mid-cycle estimate and the cap
+
+Paul asked for a check of this note and of the mid-cycle figure for [[000807-SZ]]. Only section 4's estimate and the cap point in section 3 are revisited. The phase and the indicator readings of 2026-11-26 stand.
+
+### Yunnan Aluminium: ten years of margins, now on file
+
+| Year | Revenue (RMB bn) | Attributable net profit (RMB bn) | Net margin |
+|---|---|---|---|
+| 2016 | 15.56 | about 0.11 (computed from 2017's growth of 494%) | 0.7% |
+| 2017 | 22.13 | 0.66 | 3.0% |
+| 2018 | 21.69 | -1.47 | -6.8% |
+| 2019 | 24.28 (sum of the four quarters) | about 0.50 (preliminary; EPS 0.19) | 2.1% |
+| 2020 | 29.57 | 0.90 | 3.0% |
+| 2021 | 41.67 | 3.32 | 8.0% |
+| 2022 | 48.46 | 4.57 | 9.4% |
+| 2023 | 42.67 | 3.96 | 9.3% |
+| 2024 | 54.45 | 4.41 | 8.1% |
+| 2025 | 60.04 | 6.05 | 10.1% |
+
+Sources: annual reports for 2018 and 2022 on CNINFO/SZSE (2016-18 revenue; 2020-22); 2019 annual report summary (quarterly revenue, EPS, ROE); Caitong Securities note of 2020-02-03 for 2017-18 profit and the 2019 preliminary figure (secondary); primer for 2023-25.
+
+Two regimes show up in the table:
+- **2016-2020:** an average margin of 0.4%. In this period the industry earned more than RMB 2,000 a tonne in only four months between 2011 and 2019, on one consultant's monitoring (Jiemian, citing Aize Consulting). The company's debt was 69-81% of assets in 2014-18 (China Merchants Securities, 2024-12-31), and it was still building its hydropower smelters.
+- **2021-2025:** an average margin of 9.0%, after the 45 Mt cap began to bind, debt fell to about 15-20% of assets, and minorities were bought in.
+
+The earlier years describe a different industry and a different balance sheet, so the ten-year average is not used as mid-cycle.
+
+### Three ways to estimate mid-cycle
+
+| Method | Mid-cycle net profit (RMB bn a year) | Note |
+|---|---|---|
+| Ten-year average margin (4.7%) times annualised 2026 revenue (about RMB 70bn) | about 3.3 | Mixes the pre-cap, high-debt years with the post-cap ones. Not representative |
+| 2021-2025 average margin (9.0%) times RMB 70bn | about 6.3 | Close to the first build's 6.4. Overstates, because RMB 70bn of revenue is at 2026's high metal price |
+| Industry profit per tonne: the 2021-2025 average times the company's share of it times 3.2 Mt | **about 4.7-6.3** | Preferred. Industry average about RMB 3,300 a tonne for 2021-25 (below). The company kept about 0.44 of the industry's pre-tax profit per tonne as attributable net profit in 2025 and about 0.62 in 2026 so far |
+
+Industry average profit per tonne used, all approximate:
+- 2021: about 5,000, the middle of Mysteel's range of 3,000-7,000 (Jiemian, citing Mysteel);
+- 2022: about 1,935, computed from 2023's +14.4%;
+- 2023: 2,214 (SMM, via Cailian);
+- 2024: about 3,000, the H1 figure (Cailian, citing Huarong Rongda Futures);
+- 2025: about 4,250, an estimate from SMM's 5,022 in October and a broker's 4,500-5,000 late in the year.
+Only 2023 is a published full-year figure.
+
+**What today's prices give, for comparison.** At the SHFE futures price of 21,080 (26 Nov) and SMM's November cost range of 16,100-16,500, the industry earns about RMB 4,800 a tonne (computed). On the company's share above, that is about RMB 6.9-9.2bn a year. This compares with about RMB 15.5bn at the nine-month pace, when the industry earned about 7,500-8,700 a tonne.
+
+**Result.** Mid-cycle net profit stays at about RMB 6bn, in a range of RMB 4.7-6.5bn. The first build said its three-year base "may be too low". The longer history does not support that: on ten years it is too high, and on the post-cap years it is about right. Over-earning is about 140-230% at the nine-month pace, and about 10-90% at today's futures price.
+
+**What could make mid-cycle higher.** The alumina glut. China's refineries run at 76% of 119.6 Mt, and the price sits between cash cost and full cost (indicators 2 and 4). If that lasts, a Chinese smelter's cost stays low, and the post-cap average understates the years ahead. Alumina cannot fall much further, though: the cash cost is RMB 2,592. Most of the remaining swing is in the metal price.
+
+### The cap: correction to section 3
+
+Section 3 said output and capacity sit above the cap, which "questions how binding the cap is". That overstates it.
+- *Built* capacity exceeds 45 Mt because replacement capacity is counted before old lines retire. Dongwu Securities put built capacity at 47.77 Mt and operating capacity at 44.14 Mt in November 2025.
+- Output in 2025 was 44.23-45.02 Mt depending on the source (an industry report via Sina; NBS).
+- Output in October 2026 ran at about 45.7 Mt a year.
+
+The cap binds, with leakage of about 1-2% a year. The post-cap mid-cycle above already includes the cap. A binding cap is therefore part of the RMB 6bn, not a reason to raise it.
+
+### Sources for this check
+
+- Yunnan Aluminium 2018 annual report (SZSE): https://disc.static.szse.cn/download/disc/disk01/finalpage/2019-04-11/171d596d-3cf6-4ee8-b098-dba747f7d41e.PDF
+- Yunnan Aluminium 2019 annual report summary (SZSE): https://disc.static.szse.cn/download/disc/disk02/finalpage/2020-03-24/717dae0c-45cb-4a83-924a-06ac9a5e7484.PDF
+- Yunnan Aluminium 2022 annual report (SZSE): https://disc.static.szse.cn/disc/disk03/finalpage/2023-03-21/6d12066d-865f-4c89-ad9f-b86d37d5b95a.PDF
+- Caitong Securities, 2019 results preview note, 2020-02-03 (secondary): https://img3.gelonghui.com/pdf/d8dcf-0347a545-ba6c-49d3-a8d2-71c8110a8bca.pdf
+- China Merchants Securities, company report, 2024-12-31 (debt ratio 2014-18; secondary): https://pdf.dfcfw.com/pdf/H3_AP202501011641500303_1.pdf
+- Jiemian, on industry profit history (Aize Consulting; Mysteel for 2021): https://www.jiemian.com/article/7166043.html
+- Cailian, 2024-03-29 (SMM 2023 average cost and profit): https://m.cls.cn/detail/1634251
+- Cailian, 2024 (H1 2024 industry profit about 3,000): https://www.cls.cn/detail/1730323
+- Dongwu Securities, aluminium outlook, December 2025 (built and operating capacity; late-2025 profit): https://pdf.dfcfw.com/pdf/H3_AP202512071795272542_1.pdf
+- Sina Finance, industry report (2025 output and built capacity): https://cj.sina.com.cn/articles/view/7829375716/1d2aacae400101nphw
+- Cailian, 2026 (April 2026 industry profit about 8,700, a record): https://www.cls.cn/detail/2366947
