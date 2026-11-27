@@ -93,3 +93,23 @@ Sources:
 - [S7] Orient Securities via Gelonghui, 24 Sep 2026, H1 2026 cash flow: https://m.gelonghui.com/news/5318014
 - [S8] Jiemian via Eastmoney, 19 Jan 2026, Poly Developments 2025 profit -79.49%: https://finance.eastmoney.com/a/202601193623442484.html
 - [S9] BOC International via Gelonghui, Poly Developments H1 2026: https://m.gelonghui.com/news/5301013
+
+## Desk 2026-11-27: cash going to the parent
+
+**Finding: a route for cash to reach the parent.** On 16 Nov 2026 the company renewed its exclusive parking-space agency agreement with Poly Developments, which holds about 72.29%, for 2027-29 [D1]. Under it, Poly Property pays the parent a refundable deposit of up to 50% of the value of the parking spaces it sells for them.
+- The deposit cap is **RMB 3bn a year**, RMB 9bn over three years.
+- The cap on agency fees is RMB 0.6bn a year. Actual fees were RMB 122m (2024), RMB 121m (2025) and RMB 84m in nine months of 2026, so the fee cap is far above use.
+- The balance of deposits now outstanding was not found. It sits in the related-party note of the annual or interim report.
+
+**What it does to the return.** The 16.9% credits cash net of all liabilities (RMB 4.4bn). Every RMB 1bn on deposit with the parent removes RMB 1bn of that.
+- With more than about **RMB 1.1bn** on deposit, the conservative return falls below 15%.
+- At the full RMB 3bn cap, it is about 12.6%.
+
+**Also:** trade receivables rose 22.3% in 2025 to RMB 3.44bn, against revenue growth of 4.8% [D2]. Receivables are growing far faster than the business.
+
+**Status: Qualifies, provisional (unchanged), with governance flagged.** Exit rule set now: if the deposit balance is above about RMB 1.1bn, or rises towards the cap, the name moves to Needs a view.
+- *Desk:* the deposit balance and the receivables due from the Poly group, from the 2025 annual report and the 2026 interim report notes. HKEX documents are fetchable once a search returns them.
+
+Sources:
+- [D1] Guandian via Sina, 16 Nov 2026, renewal of the parking-space agency agreement: https://cj.sina.com.cn/articles/view/1644983660/620c756c02001y56q
+- [D2] China Index Academy via Sina, 1 Apr 2026, receivables: https://cj.sina.com.cn/articles/view/2118942105/7e4c7d9902001vve8

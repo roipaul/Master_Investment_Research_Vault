@@ -99,3 +99,17 @@ Sources:
 - [S9] CEO Score Daily, 27 Apr 2023, 2020-22 growth and margins; 2022 results: https://ceoscoredaily.com/page/view/2023042714575943218
 - [S10] Quartr, Q3 2025 summary (AA rating): https://quartr.com/events/truen-co-ltd-417790-q3-2025_F1nEOnab
 - [S11] Boan News, CEO purchase earlier in 2026: https://m.boannews.com/html/detail.html?idx=141686
+
+## Desk 2026-11-27: balance sheet and buyback
+
+- **Balance sheet: confirmed Pass.** At June 2026: total assets ₩117.64bn, equity ₩111.67bn, cash and equivalents ₩50.88bn [D1]. Total liabilities are therefore about ₩6.0bn, so net cash is at least about ₩45bn even if every liability were debt. Book value is about twice the market cap.
+- **Buyback is running.** Reports of purchases under the trust were filed on 16 Mar and 16 Jun 2026 [D2]. The H1 dividend payout ratio was 17.3% [D1].
+- **Capex is small:** ₩3bn over 2026-28, ₩1bn a year, for automated inspection and packaging [D3].
+- **Still open:** what the other ₩67bn of assets is (short-term financial products, receivables, inventory), and the working-capital movement behind nine-month operating cash flow of ₩3.62bn. The Q3 report on DART was not reachable from search. Route: Desk, Paul's OpenDART key.
+
+Status: Qualifies, provisional (unchanged). Earnings quality is the remaining Unclear that matters. Cash reaching shareholders moves towards Pass, because the buyback is being executed.
+
+Sources:
+- [D1] Quartr, TRUEN Q2 2026 summary: https://quartr.com/companies/truen-co-ltd_23359
+- [D2] IRGO, TRUEN filings list: https://m.irgo.co.kr/IR-COMP/417790/
+- [D3] Quartr, TRUEN Q3 2026 summary: https://quartr.com/events/truen-co-ltd-417790-q3-2026_F1nE5LqI

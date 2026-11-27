@@ -88,3 +88,17 @@ Sources:
 - [S5] ETFshopping, ten years of EPS, operating cash flow and free cash flow from DART (secondary): https://etfshopping.com/stock/036190
 - [S6] ETFshopping, company information: https://etfshopping.com/stock/036190/company
 - [S7] AlphaSquare, quote and dividend yield: https://alphasquare.co.kr/home/stock-summary?code=036190
+
+## Desk 2026-11-27: holders and cash conversion
+
+- **Controlling holders:** Kim Sung-ki (CEO) holds 14.67%. With related parties (NS Company 4.17%, the Geumhwa Scholarship Foundation 3.33% and family members), 37.51% at end-2025, against 36.68% at end-2021. Minority holders own 27.33% [D1]. The activist Teton Capital's 13.3% (first check) is not re-confirmed.
+- **Why cash conversion is weak (a likely reason, not proven).** The mix is moving towards nuclear construction. In August 2025 it signed a ₩58.9bn contract with Hyundai E&C for main works at Shin Hanul 3 and 4, running from September 2025 to April 2031, with **no down payment or advance** [D2]. That contract alone is 17.3% of revenue. Work done before it is billed builds up as working capital.
+- **The last four quarters are better:** free cash flow of ₩18.8bn to March 2026, against ₩-26.9bn for 2025 [D3].
+- **Still open:** the coal share of revenue, the Value-up payout target, and the Q3 2026 report.
+
+**Status: Qualifies, provisional (unchanged).** Earnings quality is now Unclear with a probable explanation: construction with no advances. That also means the business is becoming more like a contractor and less like a maintenance annuity. The return range stays 14-22%, depending on how much of reported profit is counted as cash.
+
+Sources:
+- [D1] ETFshopping, holders from the 2025 business report: https://etfshopping.com/stock/036190/company
+- [D2] Digital Today, 27 Aug 2025, Hyundai E&C contract: https://www.digitaltoday.co.kr/aigongsi/2133/geumhwa-psc-hyundai-construction-contract
+- [D3] StockAnalysis, cash flow, last four quarters to March 2026 (secondary): https://stockanalysis.com/quote/kosdaq/036190/financials/income-statement/
