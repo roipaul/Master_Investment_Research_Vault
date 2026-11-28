@@ -113,3 +113,28 @@ Sources:
 Sources:
 - [D1] Guandian via Sina, 16 Nov 2026, renewal of the parking-space agency agreement: https://cj.sina.com.cn/articles/view/1644983660/620c756c02001y56q
 - [D2] China Index Academy via Sina, 1 Apr 2026, receivables: https://cj.sina.com.cn/articles/view/2118942105/7e4c7d9902001vve8
+
+## Desk 2026-11-28: all the routes to the parent, and their caps
+
+There are three approved channels through which Poly Property's cash can sit with the Poly group:
+
+| Agreement | Cap | Period | Source |
+|---|---|---|---|
+| Parking-space agency, Phase I (renewed 13 Nov 2026; needs an independent-shareholder vote; circular due by 15 Dec 2026) | RMB 3bn of deposits a year | 2027-29 | [D3][D1] |
+| Parking-space agency, Phase II (circular of 9 Feb 2026) | RMB 2bn maximum deposit balance at any time | to the end of 2029 | [D4] |
+| Deposit services with Poly Finance (the group finance company) | RMB 2.03bn maximum daily balance | 2026-28 | [D5] |
+| **Total of the caps** | **about RMB 7.0bn**, 57% of cash and bank balances of RMB 12.34bn | | |
+
+Use of the caps has been heavy before. In 2023 the two parking agreements allowed RMB 5bn of deposits at the daily peak, about 45% of year-end cash [D6].
+
+**What the return does.** The total of the caps (RMB 7.0bn) exceeds the cash left after all liabilities (RMB 4.4bn). A conservative case should therefore credit **no cash** until the actual balances are known. With no cash credited the return is **11.2%**.
+
+**Proposed verdict: Needs a view (cash may not reach minority holders)**, down from Qualifies, provisional. It is not a Trap: the deposits are refundable, and the 50% payout has been kept.
+
+**The reading that settles it:** the circular for the Phase I vote, due by 15 Dec 2026, should give the historical maximum deposit balances. If they are well below the caps, the name can return to Qualifies, provisional.
+
+Sources:
+- [D3] Caiwen, 13 Nov 2026, Phase I renewal and EGM circular date: https://www.caiwennews.com/article/1701142.shtml
+- [D4] Tiger Brokers, 9 Feb 2026, Phase II circular (RMB 2bn maximum balance): https://www-web.itiger.com/news/1143018057 ; HKEX circular: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/2026020900306.pdf
+- [D5] FilingReader, 13 Nov 2025, Poly Finance deposit agreement 2026-28: https://filingreader.com/news-wire/hongkong/2025-11-13/poly-property-services-renews-deposit-pact-proposes-auditor-change
+- [D6] Sina Tech, 9 Jul 2024, 2023 deposit caps against cash: https://finance.sina.com.cn/tech/roll/2024-07-09/doc-inccpaqq0760917.shtml
