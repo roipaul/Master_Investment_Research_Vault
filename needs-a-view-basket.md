@@ -1,7 +1,7 @@
 ---
 type: log
 doc: needs-a-view-basket
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # Needs-a-view basket
@@ -23,8 +23,12 @@ Started 2026-11-27 (Paul) with SANKYO and the nine "Needs a view" names from the
 | [[005180-KS]] Binggrae | 2026-11-15 | 13.3% | That the merger and succession leave minority holders whole (governance Fail) | Price-alone check | Succession or merger terms | 2027-03-20 |
 | [[3686-HK]] Clifford Modern Living | 2026-11-15 | 0.0% | That operating profit recovers, with cash above the market cap (five tests Fail) | Price-alone check | Results; any distribution of the cash | 2027-03-31 |
 | [[9709-T]] NCS&A | 2026-11-27 | 12.0% (five-year profit, cash at the payout rate) | That margins of about 12% are the new level, not the peak of a migration wave ahead of the "2025 cliff" | Price-alone re-check | Q3 FY3/2027 results (late January 2027); price | 2027-02-15 |
+| [[6049-HK]] Poly Property Services | 2026-11-28 | 11.2% (no cash credited) | That deposits left with the Poly group are small and come back, so the cash belongs to all holders | Price-alone re-check | The EGM circular (by 15 Dec 2026) showing historical deposit balances well below the caps | 2026-12-15 |
+| [[3316-HK]] Binjiang Service | 2026-11-28 | 8.5% (cash net of current liabilities) | That renovation prepayments are a lasting float, or profit growth of about 10% a year continues | Price-alone re-check | Price about 25-35% lower; 2026 results | 2027-03-31 |
+| [[1161-HK]] Water Oasis | 2026-11-28 | 8.0% (no cash credited) | That profit of about HK$100m a year is the new base | Price-alone re-check | FY9/2026 results (December 2026) | 2026-12-31 |
 
 ## Log
 
 - 2026-11-27 — Basket started. SANKYO added after its frame (Paul: Defer). Nine names carried over from the price-alone basket, where their status stays "Needs a view".
 - 2026-11-27 — NCS&A added (Paul confirmed Needs a view after the re-check).
+- 2026-11-28 — Poly Property Services, Binjiang Service and Water Oasis added (Paul confirmed Needs a view after re-checks).
