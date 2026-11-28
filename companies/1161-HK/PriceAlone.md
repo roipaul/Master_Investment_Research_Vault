@@ -38,3 +38,30 @@ Qualifies, provisional. Open items: Desk: prepaid package liability against cash
 Exit conditions: (a) cautious return at the then-current price below 15%; (b) any test or governance turns to Fail; (c) after 2-3 years, carry received well short of the above.
 
 Sources: hkexnews.hk 2026 interim report; etnet.com.hk; simplywall.st ownership and insider trades. Facts from filings, broker reports and data sites seen in search results; not checked against full filings.
+
+## Re-check 2026-11-28 (against company results and disclosures)
+
+**Proposed verdict: Needs a view (cautious return below hurdle)**, down from Qualifies, provisional. The first check credited half of the HK$917m of cash. That cash is customers' prepayments for treatment packages: current liabilities were HK$1,080.8m at March 2026, against current assets of HK$1,055.9m [S1]. Contract liabilities were HK$672m a year earlier [S2]. No cash is owned once those are met.
+
+**Numbers.**
+- Attributable profit by fiscal year to September: HK$67.4m (FY2022), 110.3m (FY2023), 68.3m (FY2024), 81.3m (FY2025) [S3]. FY2021 trough: HK$27.7m (first check).
+- H1 FY9/2026: HK$70.8m, against HK$55.5m [S4]. Last four quarters about HK$96.6m.
+- Normal profit: HK$71.0m, the five-year average.
+- Market cap about HK$888m (Capital IQ screen, November 2026; not re-verified). 680.55m shares [S5].
+
+| Earnings base | No cash credited |
+|---|---|
+| HK$71.0m, five-year average | **8.0%** |
+| HK$96.6m, last four quarters | 10.9% |
+| HK$27.7m, FY2021 trough | 3.1% |
+
+**What still holds:** founders and the CEO own about 46% and buy shares. The dividend has been paid for 19 years. Profit is rising.
+
+**What would change it:** profit holding near HK$100m a year for two years, which would make the last four quarters the base and give about 11%. Full-year results for FY9/2026 are due in December 2026.
+
+Sources:
+- [S1] ETNet, balance sheet, interim to March 2026: https://futures.etnet.com.hk/www/eng/stocks/realtime/quote_ci_bs.php?code=1161
+- [S2] Water Oasis, interim results announcement to March 2025 (HKEX): https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0528/2025052800966.pdf
+- [S3] ETNet, income statement history: https://etf.etnet.com.hk/www/eng/stocks/realtime/quote_ci_pl.php?code=1161
+- [S4] Water Oasis, 2026 interim report (HKEX): https://www.hkexnews.hk/listedco/listconews/sehk/2026/0529/2026052900990.pdf
+- [S5] StockAnalysis, share count (secondary): https://stockanalysis.com/quote/hkg/1161/statistics/
