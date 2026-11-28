@@ -20,11 +20,14 @@ entry_level: "About US$8.30 probability-weighted, US$8.10 conservative, to clear
 alert:
 awaiting:
 fresh_money: "Wait at US$9.45, 2026-11-17 (confirmed 2026-11-19); evidence: Q4 organic membership flat or better and year-end paying users of 125m or more (FY2026 results, about mid-March 2027); price alternative about US$8.10 for the conservative case to clear 15%"
-updated: 2026-11-24
+updated: 2026-11-28
 data_through: FY2026-Q3
 next_checkpoint: FY2026 results with year-end paying users, expected mid-March 2027
 next_results: about 2027-03-17 (not yet announced; FY2025 results came 2026-03-17)
 cycle: "not cyclical in a way that matters; competitive erosion of the paid core (organic membership c.-0.6% YoY in Q3 2026, e), 2026-11-18"
+market_focus: "The paying base, read through membership revenue growth since user counts stopped; Soda and AI music as the named causes. Triggered by earnings news, settled in the multiple (2026-11-28)"
+sentiment: "Sceptical (2026-11-28); the event log reads as Washed out from mid-Sept to 17 Nov 2026"
+market_read: 2026-11-28
 steps:                 # date each step last ran
   gate:
   primer: 2026-11-08
@@ -67,6 +70,7 @@ No thesis written yet. Provisional baseline (Claude's framing, in [[earnings/FY2
 - `files/TME_Financial_Model_2026-11-17_v2.xlsx` — v2 rebased to Q3 2026 and the Sept 30 balance sheet
 - [[Reading-2026-11-24]] — lessons from the entertainment-industry books (Passman, Vogel, Smith & Telang, Elberse, Keating, Henry, Seabrook)
 - [[earnings/FY2026-Q3]] — Q3 2026 earnings update (confirmed 2026-11-19)
+- [[MarketRead]] — market read, first build 2026-11-28 (17 event rows, November 2025 to November 2026)
 
 ## Links
 
@@ -82,3 +86,4 @@ Peers: NetEase Cloud Music (9899.HK), Spotify, ByteDance (Soda Music, Douyin), X
 - 2026-11-19 — Sign-off: Paul confirmed thesis Weakened (provisional baseline) and fresh money Wait for FY2026-Q3. Added to the watchlist.
 - 2026-11-24 — Paul: put on the watchlist to monitor. Reading notes added: lessons point to erosion of the paid core rather than collapse; probability-weighted (30/50/20) return about 10% a year at US$9.45; 15% at about US$8.30. Fresh money Wait unchanged. Revisit at FY2026 results (about 2027-03-17).
 - 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.
+- 2026-11-28 — Market read, first build (market-read, unattended). Focus: the paying base, read through membership revenue growth since user counts stopped. The falls were triggered by results days and settled in the multiple (19x a year ago, about 9x to 10.6x forward now). Sentiment: Sceptical at US$10.10 (2026-11-27 early close, Motley Fool quote); the log reads as Washed out from mid-September to the Q3 print, the first results day in five to rise. No flag raised.
