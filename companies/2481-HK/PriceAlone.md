@@ -38,3 +38,31 @@ Qualifies, provisional. Open items: Desk: receivable ageing and collections from
 Exit conditions: (a) cautious return at the then-current price below 15%; (b) any test or governance turns to Fail; (c) after 2-3 years, carry received well short of the above.
 
 Sources: SL Gemini 2026 interim report (pdf.dfcfw.com); investing.com holders; Shuangliang Eco-Energy H1 2026 (Chinese press). Facts from filings, broker reports and data sites seen in search results; not checked against full filings.
+
+## Re-check 2026-11-28 (against company results and disclosures)
+
+**Verdict: Qualifies, provisional** (proposed; unchanged). The return is lower: about 17.5% on normal profit that excludes subsidies, against 19.0% before.
+
+**Numbers.**
+- FY2025: revenue RMB 1,506.3m, -8.6% as construction work fell; profit attributable to owners RMB 170.2m, +3.7%; heated area +5.2% to 52.6m m² [S1].
+- H1 2026: attributable profit RMB 109.7m, -1.8% (first check).
+- Normal profit: RMB 125m, the last four quarters less about RMB 20m a year of government subsidies (first check).
+- Price: HK$2.57 (Investing.com, date not shown), so about HK$776m on 302m shares, or about RMB 714m [S2]. Dividend HK$0.1945, a yield of about 7.6%, about 29% of profit [S3].
+- Net debt: about RMB 240m (first check).
+
+| Case | Return |
+|---|---|
+| Normal profit on the market cap | **17.5%** |
+| Normal profit on enterprise value (about RMB 954m) | about 13-14% |
+| Harsh: RMB 100m | 14.0% |
+
+**Tests:** earnings base Pass; structural decline Pass (heated area growing); balance sheet Pass (net debt about 0.6x EBITDA); cash reaching shareholders Unclear (no stated policy; 29% payout); earnings quality Unclear (gross receivables of RMB 717m, about equal to the market cap, with impairment rising). **Governance: Unclear.** Jiangsu Shuangliang Group holds 66.64% [S2]; the group's listed solar company is losing money. Listed recently.
+
+**Open items.**
+- *Desk:* receivable ageing and collections from local governments.
+- *Wait:* the FY2026 results, March 2027: the dividend and heating-season collections.
+
+Sources:
+- [S1] Quartr, SL Gemini H2 2025 summary: https://quartr.com/companies/sl-gemini-energy-co-ltd_24732
+- [S2] Investing.com China, price, shares and holders: https://cn.investing.com/equities/wise-living-tech
+- [S3] Investing.com, dividends: https://ca.investing.com/equities/wise-living-tech-dividends
