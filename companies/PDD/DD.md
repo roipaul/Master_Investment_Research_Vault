@@ -254,3 +254,64 @@ Summaries only. Report text is not copied here.
 1. From which quarter, and on what amount, has PDD booked merchant-related marketing costs (for example, ad-fee exemptions on refunded orders) as a reduction of online-marketing revenue rather than S&M? What would Q2–Q3 2026 online-marketing growth have been on the old basis?
 2. What made up "other income/(loss), net" in Q1–Q3 2026 (fines, provisions, FX, other), and how much relates to EU proceedings?
 3. Split of the RMB 66bn listed-equity portfolio by market and by in-house versus external management; is there a policy on its size?
+
+## Addendum 2026-11-28 (4): New Pinmu (新拼姆) — what it is, and how much capital it could absorb
+
+Asked by Paul (gap #6 in the 25 Nov overview). Facts carry sources; inferences are marked (e). Press articles are summarised, not reproduced.
+
+### What is now known
+- **Announcement and size.** Launched on the Q4 2025 call (25 Mar 2026): a dedicated Shanghai company with an initial RMB 15bn cash injection and RMB 100bn planned over three years, led by co-CEO Zhao Jiazhen; framed as step one of "build another Pinduoduo in three years" (Caixin Global, 25 Mar 2026; Yibang via Sina, 31 Mar 2026). Registered capital is RMB 10bn (鸿乔) + RMB 5bn (朴动); paid-in capital not shown (registry; see addendum 1).
+- **Model (LatePost, 12 May 2026):**
+  - The platform customises products, buys out stock and takes sole responsibility for clearing it. Goods are not resold to third parties; the platform sets prices and handles marketing.
+  - Supplier pay has three parts: materials at cost, a processing-fee rebate tied to quality, and a sales rebate tied to volume. Supplier gross margin is about 10–20%.
+  - Retail prices are about 4–5x production cost, at roughly 50–70% of major-brand prices.
+  - The platform prepays part of each order. Single contracts run to tens of millions of RMB a year, sometimes hundreds of millions.
+  - Categories: apparel, home and outdoor. Food, beauty and electronics were dropped.
+  - Markets: the US and Europe; **not sold in mainland China**.
+  - Lead times are 15–30 days, with orders of 10k+ units per SKU. Several Shein factories were invited; Bosideng, Youngor and Camel are in talks.
+  - A team of about 100 people. Launch was planned for Q3 2026, followed by 1–2 years of "1.0" refinement.
+- **Management's framing.**
+  - Q1 2026 call: the platform "takes on greater responsibility and also risks".
+  - Q2 2026 call: the rollout "has taken longer than we originally expected".
+  - Q3 2026 call: the platform is taking a more active role in product definition and quality control; it "made progress" with industrial-cluster partners. The company says it has begun working with industrial-cluster merchants at scale (Nasdaq/Motley Fool transcript; MarketBeat; The Paper via Sina, 19 Nov 2026).
+  - No spend to date and no expected return has been quantified (Panabee, Q3 2026).
+- **First product evidence: Bemuvo.**
+  - Live on Temu Japan (~187 SKUs) and Canada (~160 SKUs) since mid/late August 2026. Products are bedding, T-shirts and small accessories at US$2–20, some under licensed IP (Winx Club, Tom and Jerry, Batman).
+  - Sales were about 400 orders per store as of early September.
+  - 45 US trademark applications were filed on 10 Jun 2026 by Shanghai XPM Hongqiao E-Commerce (Baijing/AMZ123).
+  - PDD told Chinese media the reports were "not fact" (36Kr Japan).
+  - Not yet on the US or EU sites.
+- **Balance sheet.** Property and equipment rose from RMB 1.3bn to RMB 6.4bn in 9M 2026, attributed to an office building and service centres, not necessarily New Pinmu (model note from the Q3 release). Q3 operating cash flow fell to RMB 43.0bn from 45.7bn, which management put down to "the timing of strategic investments". There is no separate inventory line yet.
+- **Supplier terms conflict.** The May 2026 36Kr report has factories posting 20–30% deposits, with settlement on actual sales and a freeze clause. LatePost has the platform prepaying and owning the stock. **Who carries the stock risk is unresolved**; it matters for how much cash is tied up (People item below).
+
+### How much capital could it absorb (e)
+Cash consumed = stock and prepayments tied up + operating losses + fixed assets − float from 朴动's export-service settlement. Each RMB 10bn permanently lost ≈ RMB 6.8 per ADS ≈ US$1.0 per ADS at full cash credit.
+
+| Case | By end-2028 | Share of RMB 522bn surplus cash | Direct value effect |
+|---|---|---|---|
+| Base (model v2.2) | Stock and deposits ~RMB 22bn; cumulative losses ~RMB 6bn; profit from 2029 (~9% pre-tax on capital by 2030) | ~5% | Small; roughly value-neutral if it earns ~9% |
+| Bear (model conservative) | Stock and deposits ~RMB 38–50bn earning nothing; losses ~RMB 6–10bn | ~10–12% | About −US$5–6 per ADS |
+| Tail ("another Pinduoduo") | Full RMB 100bn spent, including domestic retail and brand marketing, with low returns | ~19% (≈12% of market value) | About −US$10 per ADS |
+
+**Reading (e).** The direct damage is bounded: even the tail case costs about 12% of today's price. The larger cost is indirect. New Pinmu is the main rival use of the cash and gives management a reason, plus PFIC "active use" cover, to keep reinvesting rather than return capital. It ramps in 2027–28, the same window as V1's evidence deadline. So New Pinmu bears mostly on **pillar 3 / V1** (capital return), and only modestly on value.
+
+**Channel-conflict risk (domestic).** Low near term: it is overseas-only per LatePost and the first brand is on Temu. 鸿乔's licence still allows domestic online retail. The March 2023 own-brand store backlash (merchants mass-ordering and refunding) is the precedent for what a domestic launch could trigger.
+
+### Effect on the debate
+- **Q6 (New Pinmu: brand engine vs retailer):** ~55% "Temu supply-chain layer, bounded" → **unchanged**. Product evidence is tiny (hundreds of orders); the model is heavier than the 朴动 layer suggested, since the platform owns stock in LatePost's account.
+- **Q2 (investment phase peaks):** unchanged (Balanced). The ramp is still ahead.
+- **V1 (candidate):** a new "against" item. A credible competing use of cash is ramping inside the evidence window.
+
+### Still unknown → routes
+- **Desk: Capital IQ transcripts.** Exact Q1–Q3 2026 wording on New Pinmu spend, timing and booking.
+- **Wait: FY2026 20-F (~Apr 2027).**
+  - inventory and prepayment lines;
+  - paid-in capital of the two companies;
+  - Pujiang Hong Kong in the subsidiary list;
+  - gross vs net revenue booking;
+  - any segment.
+- **People (Temu sellers / factories):** who pays the deposit; settlement timing; unsold-stock terms.
+- **Watch:** Bemuvo launch on Temu US/EU; any domestic sales; additional brands; management quantifying spend.
+- **Falsifier (Decisions.md):** New Pinmu inventory + prepayments > RMB 30bn by end-2027.
+
+Sources: Caixin Global, 25 Mar 2026 (https://www.caixinglobal.com/2026-03-25/pdd-bets-on-in-house-brands-in-100-billion-yuan-expansion-plan-102427400.html); Yibang via Sina, 31 Mar 2026 (https://finance.sina.cn/tech/2026-03-31/detail-inhswpmy2063689.d.html); LatePost via Sina, 12 May 2026 (https://cj.sina.com.cn/articles/view/7294209083/1b2c4cc3b00101ri3i); 36Kr 新莓, 19 May 2026 (https://www.36kr.com/p/3816117796429572); Nasdaq/Motley Fool Q1 call highlights (https://www.nasdaq.com/articles/pdd-q1-earnings-call-highlights); Nasdaq/Motley Fool Q3 transcript (https://www.nasdaq.com/articles/pdd-pdd-q3-2026-earnings-call-transcript); MarketBeat Q3 highlights (https://www.marketbeat.com/instant-alerts/transcript-pdd-q3-earnings-call-highlights-2026-11-19/); The Paper via Sina, 19 Nov 2026 (https://finance.sina.cn/2026-11-19/detail-inizhrsa4427058.d.html); Panabee Q3 (https://www.panabee.com/news/pdd-earnings-q3-2026); Baijing/AMZ123 on Bemuvo (https://www.baijing.cn/article/56654 ; https://www.baijing.cn/article/56907); 36Kr Japan (https://36kr.jp/502561/); KrASIA (https://www.kr-asia.com/bemuvo-emerges-on-temu-as-pdd-explores-first-party-brands); model v2.2 Assumptions rows 177–179, 217, 236–239.

@@ -19,7 +19,7 @@ buy_price:
 entry_level: "About US$53 for the conservative case to clear 15% (2026-11-20)"
 alert:
 awaiting: "Paul: merchant calls (Q1 take rate), Temu-seller and factory calls (Q2/Q6), IR call; sign-off still open on debate verdicts, scenario weights and earnings-update Q3 call"
-updated: 2026-11-25
+updated: 2026-11-28
 data_through: FY2026-Q3
 next_checkpoint: "Q4/FY2026 results about late March 2027 (online marketing >=8%; FY2026 non-GAAP op margin >=27%; investment-phase wording); FY2026 20-F about April 2027 (HNTE, New Pinmu balance sheet, PFIC)"
 next_results: "Q4/FY2026: about late March 2027 (e; FY2025 results came 2026-03-25)"
@@ -145,3 +145,4 @@ Peers: [[JD]], [[3690-HK]] (Meituan), Alibaba (not in vault). Related: [[0700-HK
 - 2026-11-24 — /decision-record: pre-commitment, no position. Paul's words: "Bull lean, needs more digging; price looks good on the surface." Four pillars and drawdown triggers accepted as drafted; capital-return evidence deadline FY2027 results (~Mar 2028); review at the Q4 2026 call (late Mar 2027). No frame on file yet (needed before an initiate). Thesis at b81d408.
 - 2026-11-24 — Put on the current watchlist (carried over from Paul's confirmed entry in watchlist.md); `list`, `buy_price`, `entry_level` and `alert` fields added. No buy price set.
 - 2026-11-25 — /variant-view build (macro overlay) → [[VariantView]]. Zone Needs a view (Discount); conservative 0–4%, base 8.5–12.7% without re-rating; covered share 53%/73%. Peer test: sector near valuation lows and used as an AI-trade funding source (Citi); peers hold buyback authorisations (Alibaba US$19.1bn, Trip.com 5bn, Baidu 4.8bn, NetEase 2.9bn, JD 1.4bn), PDD none, so the cash discount is company-specific. Macro: China retail +0.4% Oct, online goods +2.9% YTD; Fed 3.75–4% after a Sept hike; yuan ~6.66–6.71; US–China tariff cuts on US$30bn incl. Temu categories. Candidates V1/V2 await Paul's workshop.
+- 2026-11-28 — [[DD]] addendum (4) New Pinmu: LatePost says the platform buys out stock, sets prices, prepays suppliers; overseas only (US/EU), apparel/home/outdoor, ~100-person team, launch Q3 2026 then 1–2 years of refinement. Bemuvo is live on Temu Japan/Canada with ~400 orders per store by Sept; PDD denies. PP&E 1.3→6.4bn in 9M 2026 (office building, service centres). Capital at risk by 2028: base ~5% of surplus cash, bear ~10–12%, tail ~19% (≈US$10/ADS). Bigger effect is indirect: a competing use of cash ramping inside V1's evidence window. Q6 and Q2 unchanged.
